@@ -6,7 +6,8 @@
   "author": "Nhan Bui <imouto1994@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "NODE_ENV=development webpack-dev-server --config ./webpack/dev.config.js --progress --color --open",
+    "dev-web": "NODE_ENV=development webpack-dev-server --config ./webpack/web.dev.config.js --progress --color --open",
+    "dev-admin": "NODE_ENV=development webpack-dev-server --config ./webpack/admin.dev.config.js --progress --color --open",
     "eslint": "eslint ./web --max-warnings 0 --cache --ext .js,.tsx,.ts",
     "lint": "yarn eslint && yarn stylelint",
     "stylelint": "stylelint 'web/**/*.css' --cache",
@@ -24,6 +25,7 @@
     "autoprefixer": "9.7.3",
     "babel-eslint": "10.0.3",
     "babel-loader": "8.0.6",
+    "copy-webpack-plugin": "5.1.1",
     "css-loader": "3.4.0",
     "cssnano": "4.1.10",
     "eslint": "6.8.0",
@@ -51,6 +53,7 @@
   },
   "dependencies": {
     "@babel/runtime": "7.7.7",
+    "netlify-cms-app": "2.10.1",
     "react": "16.12.0",
     "react-dom": "16.12.0"
   }

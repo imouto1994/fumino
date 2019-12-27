@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: imouto1994/Fumino
+
+media_folder: "web/images/uploads"
+media_library:
+  name: uploads
+
+show_preview_links: false
+
+collections:
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Doujinshi Pages"
+        name: "doujinshi"
+        file: "json/doujinshi.json"
+        fields:
+          - label: Doujinshi
+            name: doujinshi
+            widget: list
+            fields:
+              - { label: Title, name: title, widget: string }
