@@ -1,0 +1,42 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "google",
+    "plugin:react/recommended",
+    "plugin:css-modules/recommended",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended",
+    "prettier",
+    "prettier/react",
+    "prettier/@typescript-eslint"
+  ],
+  "plugins": ["react", "react-hooks", "css-modules", "@typescript-eslint"],
+  "parser": "@typescript-eslint/parser",
+  "rules": {
+    "@typescript-eslint/no-use-before-define": 0,
+    "no-invalid-this": 0,
+    "require-jsdoc": 0,
+    "valid-jsdoc": 0,
+    "react/prop-types": 0,
+    "react-hooks/rules-of-hooks": 2,
+    "react-hooks/exhaustive-deps": 1
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "modules": true,
+      "jsx": true
+    },
+    "ecmaVersion": 9,
+    "sourceType": "module"
+  },
+  "settings": {
+    "react": {
+      "version": "detect"
+    }
+  }
+}
