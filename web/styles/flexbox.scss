@@ -1,0 +1,48 @@
+// Flex Direction
+$directions: row, column;
+@each $direction in $directions {
+  .#{camelize("flex-" + $direction)} {
+    flex-direction: $direction;
+  }
+}
+
+// Flex Wrap
+$wraps: nowrap, wrap;
+@each $wrap in $wraps {
+  .#{camelize("flex-" + $wrap)} {
+    flex-wrap: $wrap;
+  }
+}
+
+// Align Items
+$alignItemsOptions: stretch, start, center, end, baseline;
+@each $alignItemsOption in $alignItemsOptions {
+  .#{camelize("items-" + $alignItemsOption)} {
+    align-items: $alignItemsOption;
+  }
+}
+
+// Justify Content
+$justifyContentOptions: start, center, end, between, around;
+@each $justifyContentOption in $justifyContentOptions {
+  .#{camelize("justify-" + $justifyContentOption)} {
+    justify-content: $justifyContentOption;
+  }
+}
+
+// Flex
+.flexInitial {
+  flex: 0 1 auto;
+}
+
+.flex1 {
+  flex: 1 1 0%;
+}
+
+.flexAuto {
+  flex: 1 1 auto;
+}
+
+.flexNone {
+  flex: none;
+}

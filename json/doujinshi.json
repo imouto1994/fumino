@@ -1,1 +1,64 @@
-{}
+{
+  "books": [
+    {
+      "book": {
+        "url": "https://ec.toranoana.jp/tora_r/ec/item/040030800382/",
+        "title": "二分の誘動",
+        "price": "1,100円",
+        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/03/040030800382-1p.jpg",
+        "imageWidth": 800,
+        "imageHeight": 1112
+      }
+    },
+    {
+      "book": {
+        "url": "https://ec.toranoana.jp/tora_r/ec/item/040030800086/",
+        "title": "月曜日のたわわ　そのIX",
+        "price": "900円",
+        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-1p.jpg",
+        "imageWidth": 800,
+        "imageHeight": 563
+      }
+    },
+    {
+      "book": {
+        "url": "https://ec.toranoana.jp/tora_r/ec/item/040030802175/",
+        "title": "あなたの願いが叶いますように。",
+        "price": "500円",
+        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-1p.jpg",
+        "imageWidth": 800,
+        "imageHeight": 1130
+      }
+    },
+    {
+      "book": {
+        "url": "https://ec.toranoana.jp/tora_r/ec/item/040030793369/",
+        "title": "商店街の穴妻たち",
+        "price": "746円",
+        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-1p.jpg",
+        "imageWidth": 800,
+        "imageHeight": 1130
+      }
+    },
+    {
+      "book": {
+        "url": "https://ec.toranoana.jp/tora_r/ec/item/040030796688/",
+        "title": "三船美優は孕みたい",
+        "price": "650円",
+        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/66/040030796688-1p.jpg",
+        "imageWidth": 715,
+        "imageHeight": 1000
+      }
+    },
+    {
+      "book": {
+        "url": "https://ec.toranoana.jp/tora_r/ec/item/040030795966/",
+        "title": "ずっと信じてる",
+        "price": "650円",
+        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-1p.jpg",
+        "imageWidth": 717,
+        "imageHeight": 1012
+      }
+    }
+  ]
+}

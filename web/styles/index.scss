@@ -1,0 +1,71 @@
+html {
+  box-sizing: border-box;
+  height: 100%;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background: map-get($grays, "100");
+}
+
+#root {
+  height: 100%;
+}
+
+* {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Droid Sans,
+    Helvetica Neue, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  border-width: 0;
+  border-style: solid;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+figure,
+p,
+pre {
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0;
+}
+
+button {
+  background: transparent;
+  padding: 0;
+  border: 0;
+  line-height: inherit;
+  color: inherit;
+}
+
+button:focus {
+  outline: 0;
+}
+
+img {
+  display: block;
+  border-style: solid;
+}
+
+img:-moz-loading {
+  visibility: hidden;
+}
+
+a {
+  text-decoration: inherit;
+  color: inherit;
+}

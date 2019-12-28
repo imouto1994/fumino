@@ -1,0 +1,6 @@
+// Background Color
+@each $shade, $color in $grays {
+  .bgGray#{$shade} {
+    background-color: $color;
+  }
+}

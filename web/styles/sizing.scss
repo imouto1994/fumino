@@ -1,0 +1,52 @@
+$percentages: 25%, 50%, 75%, 100%;
+$pixels: 12px, 24px, 48px, 64px;
+
+// Height
+@each $percentage in $percentages {
+  .#{"hP" + str-slice(quote($percentage), 1, -2)} {
+    height: $percentage;
+  }
+}
+
+@each $pixel in $pixels {
+  .#{"h" + str-slice(quote($pixel), 1, -3)} {
+    height: $pixel;
+  }
+}
+
+// Width
+@each $percentage in $percentages {
+  .#{"wP" + str-slice(quote($percentage), 1, -2)} {
+    width: $percentage;
+  }
+}
+
+@each $percentage in $percentages {
+  @media all and (min-width: $mobileLandscape) {
+    .#{"wP" + str-slice(quote($percentage), 1, -2) + "Xs"} {
+      width: $percentage;
+    }
+  }
+}
+
+@each $percentage in $percentages {
+  @media all and (min-width: $tabletPortrait) {
+    .#{"wP" + str-slice(quote($percentage), 1, -2) + "Md"} {
+      width: $percentage;
+    }
+  }
+}
+
+@each $percentage in $percentages {
+  @media all and (min-width: $tabletLandscape) {
+    .#{"wP" + str-slice(quote($percentage), 1, -2) + "Lg"} {
+      width: $percentage;
+    }
+  }
+}
+
+@each $pixel in $pixels {
+  .#{"w" + str-slice(quote($pixel), 1, -3)} {
+    height: $pixel;
+  }
+}

@@ -31,7 +31,7 @@ module.exports = {
       },
       {
         include: [path.resolve(__dirname, "../web/")],
-        test: /\.css$/,
+        test: /\.scss$/,
         use: [
           {
             loader: "style-loader",
@@ -39,16 +39,14 @@ module.exports = {
           {
             loader: "css-loader",
             options: {
-              importLoaders: 1,
-              modules: {
-                mode: "local",
-                localIdentName: "[name]__[local]___[hash:base64:5]",
-                context: path.resolve(__dirname, "../web"),
-              },
+              importLoaders: 2,
             },
           },
           {
             loader: "postcss-loader",
+          },
+          {
+            loader: "sass-loader",
           },
         ],
       },
@@ -62,7 +60,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "Edelgard",
+      title: "Wishlist",
       template: path.resolve(__dirname, "../web/index.html"),
     }),
     new webpack.HotModuleReplacementPlugin(),
