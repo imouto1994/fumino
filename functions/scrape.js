@@ -1,4 +1,8 @@
+const url = require("url");
 const got = require("got");
+const cheerio = require("cheerio");
+
+const ALLOWED_HOSTNAMES = ["ec.toranoana.jp"];
 
 exports.handler = async (event, context) => {
   const { httpMethod, queryStringParameters } = event;
@@ -9,13 +13,20 @@ exports.handler = async (event, context) => {
   }
 
   // Missing required query `url`
-  const { url } = queryStringParameters;
-  if (url == null) {
-    return { statusCode: 400, body: "Missing query `url`" };
+  const { bookURL } = queryStringParameters;
+  if (bookURL == null) {
+    return { statusCode: 400, body: "Missing query `bookURL`" };
   }
 
   try {
-    const response = await got("https://sindresorhus.com");
+    const parsedBookURL = url.parse(bookURL);
+    if (!ALLOWED_HOSTNAMES.includes(parsedBookURL.hostname)) {
+      return { statusCode: 400, body: "Book URL is not supported" };
+    }
+
+    const response = await got(bookURL);
+    const $ = cheerio.load(response);
+
     return {
       statusCode: 200,
       body: response.body,

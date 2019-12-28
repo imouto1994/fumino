@@ -16,7 +16,7 @@ collections:
         file: "json/doujinshi.json"
         fields:
           - label: Books
-            name: book
+            name: books
             widget: list
             fields:
               - { label: Book, name: book, widget: linkScraper }
