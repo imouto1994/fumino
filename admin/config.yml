@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: imouto1994/Fumino
 
 media_folder: "web/images/uploads"
 media_library:
@@ -12,11 +13,11 @@ collections:
     name: "pages"
     files:
       - label: "Doujinshi Pages"
-        name: "doujinshi"
+        name: "doujinshis"
         file: "json/doujinshi.json"
         fields:
           - label: Books
             name: books
             widget: list
             fields:
-              - { label: Book, name: book, widget: linkScraper }
+              - { label: Book, name: book, widget: bookScraper }

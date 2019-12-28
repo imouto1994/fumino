@@ -4,6 +4,19 @@ const cheerio = require("cheerio");
 
 const ALLOWED_HOSTNAMES = ["ec.toranoana.jp"];
 
+function scrapeTora(htmlString) {
+  const $ = cheerio.load(htmlString);
+  const imageURL = $("#thumbs .item").data("src");
+  const title = $(".product-info h1 span").text();
+  const price = $(".pricearea__price--normal").text();
+
+  return {
+    imageURL,
+    title,
+    price,
+  };
+}
+
 exports.handler = async (event, context) => {
   const { httpMethod, queryStringParameters } = event;
 
@@ -25,16 +38,25 @@ exports.handler = async (event, context) => {
     }
 
     const response = await got(bookURL);
-    const $ = cheerio.load(response);
+    let scrapedData = {};
+    if (parsedBookURL.hostname === "ec.toranoana.jp") {
+      scrapedData = scrapeTora(response.body);
+    }
 
     return {
       statusCode: 200,
-      body: response.body,
+      body: JSON.stringify({
+        url: bookURL,
+        ...scrapedData,
+      }),
+      headers: {
+        "Content-Type": "application/json",
+      },
     };
   } catch (error) {
     return {
       statusCode: 500,
-      body: error.response.body,
+      body: "Something wrong happened",
     };
   }
 };

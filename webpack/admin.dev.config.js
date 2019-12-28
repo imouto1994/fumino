@@ -14,7 +14,7 @@ module.exports = {
     port: 9000,
   },
   entry: {
-    main: path.resolve(__dirname, "../admin/index.ts"),
+    main: path.resolve(__dirname, "../admin/index.js"),
   },
   mode: "development",
   module: {
@@ -28,6 +28,27 @@ module.exports = {
             options: {
               cacheDirectory: true,
             },
+          },
+        ],
+      },
+      {
+        include: [path.resolve(__dirname, "../web/")],
+        test: /\.scss$/,
+        use: [
+          {
+            loader: "style-loader",
+          },
+          {
+            loader: "css-loader",
+            options: {
+              importLoaders: 2,
+            },
+          },
+          {
+            loader: "postcss-loader",
+          },
+          {
+            loader: "sass-loader",
           },
         ],
       },
