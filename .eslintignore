@@ -1,3 +1,4 @@
 webpack/**/*.js
 functions/**/*.js
 postcss.config.js
+admin/**/*.js
