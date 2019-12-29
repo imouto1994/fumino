@@ -7,18 +7,22 @@ const ALLOWED_HOSTNAMES = ["ec.toranoana.jp"];
 function scrapeTora(htmlString) {
   const $ = cheerio.load(htmlString);
   const imageURL = $("#thumbs .item").data("src");
-  const title = $(".product-info h1 span").text();
+  const title = $(".product-info h1 span")
+    .text()
+    .trim();
   const circle =
     $(".sub-circle div").eq(1) != null
       ? $(".sub-circle div")
           .eq(1)
           .text()
+          .trim()
       : "";
   const author =
     $(".sub-name div").eq(1) != null
       ? $(".sub-name div")
           .eq(1)
           .text()
+          .trim()
       : "";
   const caption = [circle, author].filter(s => s.length > 0).join(" / ");
 
