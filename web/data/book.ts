@@ -1,7 +1,7 @@
 export type Book = {
   url: string;
   title: string;
-  price: string;
+  caption: string;
   imageURL: string;
   imageWidth: number;
   imageHeight: number;

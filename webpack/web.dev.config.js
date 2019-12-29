@@ -31,7 +31,7 @@ module.exports = {
       },
       {
         include: [path.resolve(__dirname, "../web/")],
-        test: /\.scss$/,
+        test: /\.css$/,
         use: [
           {
             loader: "style-loader",
@@ -39,14 +39,16 @@ module.exports = {
           {
             loader: "css-loader",
             options: {
-              importLoaders: 2,
+              importLoaders: 1,
+              modules: {
+                mode: "local",
+                localIdentName: "[local].[hash:base64:5]",
+                context: path.resolve(__dirname, "../web"),
+              },
             },
           },
           {
             loader: "postcss-loader",
-          },
-          {
-            loader: "sass-loader",
           },
         ],
       },

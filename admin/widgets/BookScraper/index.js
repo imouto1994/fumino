@@ -9,7 +9,7 @@ const BookScraper = forwardRef((props, ref) => {
   const { value, onChange } = props;
   const url = value != null ? value.get("url") : "";
   const title = value != null ? value.get("title") : "";
-  const price = value != null ? value.get("price") : "";
+  const caption = value != null ? value.get("caption") : "";
   const imageURL = value != null ? value.get("imageURL") : "";
   const imageWidth = value != null ? value.get("imageWidth") : 0;
   const imageHeight = value != null ? value.get("imageHeight") : 0;
@@ -34,7 +34,7 @@ const BookScraper = forwardRef((props, ref) => {
       )
         .then(response => response.json())
         .then(body => {
-          const { title, imageURL, url, price } = body;
+          const { title, imageURL, url, caption } = body;
           const img = new Image();
           img.onload = function() {
             onChange(
@@ -42,7 +42,7 @@ const BookScraper = forwardRef((props, ref) => {
                 title,
                 imageURL,
                 url,
-                price,
+                caption,
                 imageWidth: this.width,
                 imageHeight: this.height,
               }),
@@ -65,7 +65,7 @@ const BookScraper = forwardRef((props, ref) => {
         onChange={onInputChange}
       />
       <div className={styles.field}>{title}</div>
-      <div className={styles.field}>{price}</div>
+      <div className={styles.field}>{caption}</div>
       <div className={styles.field}>{imageURL}</div>
       <div className={styles.field}>{`${imageWidth} x ${imageHeight}`}</div>
     </>

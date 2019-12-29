@@ -32,28 +32,10 @@ module.exports = {
         ],
       },
       {
-        include: [path.resolve(__dirname, "../web/")],
-        test: /\.scss$/,
-        use: [
-          {
-            loader: "style-loader",
-          },
-          {
-            loader: "css-loader",
-            options: {
-              importLoaders: 2,
-            },
-          },
-          {
-            loader: "postcss-loader",
-          },
-          {
-            loader: "sass-loader",
-          },
+        include: [
+          path.resolve(__dirname, "../admin/"),
+          path.resolve(__dirname, "../web/"),
         ],
-      },
-      {
-        include: [path.resolve(__dirname, "../admin/")],
         test: /\.css$/,
         use: [
           {

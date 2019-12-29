@@ -1,0 +1,48 @@
+.themeLight {
+  --color-background: rgb(237, 241, 245);
+  --color-foreground: rgb(250, 252, 252);
+  --color-foreground-grey: rgb(245, 246, 246);
+  --color-foreground-grey-dark: rgb(234, 236, 237);
+  --color-foreground-blue: rgb(239, 247, 251);
+  --color-foreground-blue-dark: rgb(241, 243, 247);
+  --color-text: rgb(92, 114, 138);
+  --color-text-light: rgb(110, 133, 158);
+  --color-text-lighter: rgb(146, 153, 161);
+  --color-primary: #f78fb3;
+  --color-secondary: #60a3bc;
+}
+
+.themeDark {
+  --color-background: rgb(19, 23, 29);
+  --color-foreground: rgb(31, 35, 45);
+  --color-foreground-grey: rgb(25, 29, 38);
+  --color-foreground-grey-dark: rgb(16, 20, 25);
+  --color-foreground-blue: rgb(25, 29, 38);
+  --color-foreground-blue-dark: rgb(19, 23, 29);
+  --color-text: rgb(159, 173, 189);
+  --color-text-light: rgb(129, 140, 153);
+  --color-text-lighter: rgb(133, 150, 165);
+  --color-primary: #f8a5c2;
+  --color-secondary: #82ccdd;
+}
+
+.container {
+  min-height: 100%;
+  color: var(--color-text);
+  background-color: var(--color-background);
+  transition: $transitionColor, $transitionBackground;
+}
+
+.themeButton {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 20px;
+  margin-top: 12px;
+  margin-right: 16px;
+  z-index: 2;
+}
+
+.routes {
+  padding: 48px 12px 64px;
+}

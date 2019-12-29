@@ -1,3 +1,5 @@
+import styles from "./styles.css";
+
 import React, { ReactElement, ReactNode } from "react";
 import { Link as WouterLink, useRoute } from "wouter";
 import classnames from "classnames";
@@ -10,7 +12,7 @@ type Props = {
   href: string;
 };
 
-export default function Link(props: Props): ReactElement<Props> {
+export default function LinkText(props: Props): ReactElement<Props> {
   const {
     children,
     className = "",
@@ -21,6 +23,7 @@ export default function Link(props: Props): ReactElement<Props> {
   const [isActive] = useRoute(props.href);
   const linkClassName = classnames(
     className,
+    styles.link,
     isActive ? classNameActive : classNameInactive,
   );
 

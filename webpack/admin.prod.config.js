@@ -29,7 +29,10 @@ module.exports = {
         ],
       },
       {
-        include: [path.resolve(__dirname, "../admin/")],
+        include: [
+          path.resolve(__dirname, "../admin/"),
+          path.resolve(__dirname, "../web/"),
+        ],
         test: /\.css$/,
         use: [
           MiniCssExtractPlugin.loader,
@@ -46,25 +49,6 @@ module.exports = {
           },
           {
             loader: "postcss-loader",
-          },
-        ],
-      },
-      {
-        include: [path.resolve(__dirname, "../web/")],
-        test: /\.scss$/,
-        use: [
-          MiniCssExtractPlugin.loader,
-          {
-            loader: "css-loader",
-            options: {
-              importLoaders: 2,
-            },
-          },
-          {
-            loader: "postcss-loader",
-          },
-          {
-            loader: "sass-loader",
           },
         ],
       },
