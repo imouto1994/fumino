@@ -8,12 +8,12 @@ function scrapeTora(htmlString) {
   const $ = cheerio.load(htmlString);
   const imageURL = $("#thumbs .item").data("src");
   const title = $(".product-info h1 span").text();
-  const price = $(".pricearea__price--normal").text();
+  const caption = $(".pricearea__price--normal").text();
 
   return {
     imageURL,
     title,
-    price,
+    caption,
   };
 }
 

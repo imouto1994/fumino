@@ -1,0 +1,41 @@
+.text {
+  transition: $transitionColor;
+}
+
+.weightMedium {
+  font-weight: 500;
+}
+
+.weightSemibold {
+  font-weight: 600;
+}
+
+.weightBold {
+  font-weight: 700;
+}
+
+.weightBlack {
+  font-weight: 800;
+}
+
+.size12 {
+  font-size: 12px;
+}
+
+.size14 {
+  font-size: 14px;
+}
+
+.size18 {
+  font-size: 18px;
+}
+
+.size24 {
+  font-size: 24px;
+}
+
+.singleline {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

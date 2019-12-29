@@ -1,0 +1,85 @@
+html {
+  /* Prevent padding and border from affecting element width */
+  box-sizing: border-box;
+  height: 100%;
+  line-height: 1.5;
+  /* Breaks words to prevent overflow in all browsers */
+  word-break: break-all;
+  /* Remove the grey highlight on links in iOS */
+  -webkit-tap-highlight-color: transparent;
+  /* Prevent adjustments of font size after orientation changes in iOS. */
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+:global(#root) {
+  height: 100%;
+}
+
+* {
+  font-family: system-ui, /* macOS 10.11-10.12 */ -apple-system,
+    BlinkMacSystemFont, /* Windows 6+ */ Segoe UI, /* Android 4+ */ Roboto,
+    /* Ubuntu 10.10+ */ Ubuntu, /* Gnome 3+ */ Cantarell,
+    /* KDE Plasma 5+ */ Noto Sans, /* fallback */ Helvetica Neue, sans-serif,
+    /* macOS emoji */ "Apple Color Emoji", /* Windows emoji */ "Segoe UI Emoji",
+    /* Windows emoji */ "Segoe UI Symbol", /* Linux emoji */ "Noto Color Emoji";
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+
+  /* Allow adding a border to an element by just adding a border-width. */
+  border-width: 0;
+  border-style: solid;
+}
+
+/* Reset styles */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+figure,
+p,
+pre {
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0;
+}
+
+button {
+  background-color: transparent;
+  padding: 0;
+  border: 0;
+  line-height: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: 0;
+}
+
+img {
+  display: block;
+  border-style: solid;
+}
+
+img:-moz-loading {
+  visibility: hidden;
+}
+
+a {
+  text-decoration: inherit;
+  color: inherit;
+}
