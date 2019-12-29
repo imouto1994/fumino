@@ -7,7 +7,7 @@ export default function DoujinshisPreview(props) {
   const books = entry.toJS().data.books.filter(({ book }) => book != null);
 
   return (
-    <div className="textGray20">
+    <div>
       <CardBookList books={books} />
     </div>
   );

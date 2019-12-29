@@ -1,6 +1,7 @@
 const { BundleAnalyzerPlugin } = require("webpack-bundle-analyzer");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
 const cssnano = require("cssnano");
+const ManifestPlugin = require("webpack-manifest-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
@@ -109,6 +110,7 @@ module.exports = {
       "process.env.NODE_ENV": JSON.stringify("production"),
     }),
     ...(process.env.WBA ? [new BundleAnalyzerPlugin()] : []),
+    new ManifestPlugin(),
   ],
   resolve: {
     extensions: [".ts", ".tsx", ".js", ".json"],
