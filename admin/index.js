@@ -1,13 +1,12 @@
-import styles from "!css-loader!postcss-loader!sass-loader!../web/components/styles.scss";
-
 import CMS from "netlify-cms-app";
 
 import BookScraper from "./widgets/BookScraper";
 import DoujinshisPreview from "./previews/DoujinshisPreview";
+import manifest from "../build/manifest.json";
 
 CMS.registerWidget("bookScraper", BookScraper);
 
-CMS.registerPreviewStyle(styles.toString(), { raw: true });
+CMS.registerPreviewStyle(manifest["main.css"]);
 CMS.registerPreviewTemplate("doujinshis", DoujinshisPreview);
 
 CMS.init();

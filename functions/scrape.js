@@ -8,7 +8,19 @@ function scrapeTora(htmlString) {
   const $ = cheerio.load(htmlString);
   const imageURL = $("#thumbs .item").data("src");
   const title = $(".product-info h1 span").text();
-  const caption = $(".pricearea__price--normal").text();
+  const circle =
+    $(".sub-circle div").eq(1) != null
+      ? $(".sub-circle div")
+          .eq(1)
+          .text()
+      : "";
+  const author =
+    $(".sub-name div").eq(1) != null
+      ? $(".sub-name div")
+          .eq(1)
+          .text()
+      : "";
+  const caption = [circle, author].filter(s => s.length > 0).join(" / ");
 
   return {
     imageURL,

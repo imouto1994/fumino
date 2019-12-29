@@ -29,10 +29,7 @@ module.exports = {
         ],
       },
       {
-        include: [
-          path.resolve(__dirname, "../admin/"),
-          path.resolve(__dirname, "../web/"),
-        ],
+        include: [path.resolve(__dirname, "../admin/")],
         test: /\.css$/,
         use: [
           MiniCssExtractPlugin.loader,
@@ -42,8 +39,29 @@ module.exports = {
               importLoaders: 1,
               modules: {
                 mode: "local",
-                localIdentName: "[name]__[local]___[hash:base64:5]",
+                localIdentName: "[local].[hash:base64:5]",
                 context: path.resolve(__dirname, "../admin"),
+              },
+            },
+          },
+          {
+            loader: "postcss-loader",
+          },
+        ],
+      },
+      {
+        include: [path.resolve(__dirname, "../web/")],
+        test: /\.css$/,
+        use: [
+          MiniCssExtractPlugin.loader,
+          {
+            loader: "css-loader",
+            options: {
+              importLoaders: 1,
+              modules: {
+                mode: "local",
+                localIdentName: "[local].[hash:base64:5]",
+                context: path.resolve(__dirname, "../web"),
               },
             },
           },
