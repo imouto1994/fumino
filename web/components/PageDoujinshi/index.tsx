@@ -1,10 +1,10 @@
 import React, { ReactElement } from "react";
 
 import CardBookList from "../CardBookList";
-import doujinshis from "../../../json/doujinshi.json";
+import doujinshiBooks from "../../../json/doujinshi.json";
 
 export default function PageDoujinshi(): ReactElement<void> {
-  const { books } = doujinshis;
+  const { books } = doujinshiBooks;
 
   return <CardBookList books={books} />;
 }
