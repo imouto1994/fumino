@@ -24,7 +24,7 @@ export default function CardBook(props: Props): ReactElement<Props> {
             <Lazy className={styles.imageLazy}>
               <img
                 className={styles.image}
-                src={book.imageURL}
+                src={book.imageURLs[0]}
                 style={{
                   objectFit:
                     book.imageHeight > book.imageWidth ? "cover" : "contain",

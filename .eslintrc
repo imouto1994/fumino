@@ -3,17 +3,11 @@
     "eslint:recommended",
     "google",
     "plugin:react/recommended",
-    "plugin:@typescript-eslint/eslint-recommended",
-    "plugin:@typescript-eslint/recommended",
     "prettier",
-    "prettier/react",
-    "prettier/@typescript-eslint"
+    "prettier/react"
   ],
-  "plugins": ["react", "react-hooks", "@typescript-eslint"],
-  "parser": "@typescript-eslint/parser",
+  "plugins": ["react", "react-hooks"],
   "rules": {
-    "@typescript-eslint/no-use-before-define": 0,
-    "@typescript-eslint/no-explicit-any": 0,
     "no-invalid-this": 0,
     "require-jsdoc": 0,
     "valid-jsdoc": 0,
@@ -39,5 +33,25 @@
     "react": {
       "version": "detect"
     }
-  }
+  },
+  "overrides": [
+    {
+      "files": ["**.js"],
+      "parser": "babel-eslint"
+    },
+    {
+      "files": ["**.ts", "**.tsx"],
+      "plugins": ["@typescript-eslint"],
+      "parser": "@typescript-eslint/parser",
+      "extends": [
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended",
+        "prettier/@typescript-eslint"
+      ],
+      "rules": {
+        "@typescript-eslint/no-use-before-define": 0,
+        "@typescript-eslint/no-explicit-any": 0
+      }
+    }
+  ]
 }

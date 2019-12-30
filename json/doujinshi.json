@@ -5,7 +5,9 @@
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030800382/",
         "title": "二分の誘動",
         "caption": "壞茸社 / 4why&Chicke III",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/03/040030800382-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/03/040030800382-1p.jpg"
+        ],
         "imageWidth": 800,
         "imageHeight": 1112
       }
@@ -15,7 +17,9 @@
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030800086/",
         "title": "月曜日のたわわ　そのIX",
         "caption": "比村乳業 / 比村奇石",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-1p.jpg"
+        ],
         "imageWidth": 800,
         "imageHeight": 563
       }
@@ -25,7 +29,9 @@
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030802175/",
         "title": "あなたの願いが叶いますように。",
         "caption": "mon-petit / もんぷち",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-1p.jpg"
+        ],
         "imageWidth": 800,
         "imageHeight": 1130
       }
@@ -35,7 +41,9 @@
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030793369/",
         "title": "商店街の穴妻たち",
         "caption": "シュート・ザ・ムーン / フエタキシ",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-1p.jpg"
+        ],
         "imageWidth": 800,
         "imageHeight": 1130
       }
@@ -45,7 +53,9 @@
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030796688/",
         "title": "三船美優は孕みたい",
         "caption": "ゴロメンツ / ヤスイリオスケ",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/66/040030796688-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/66/040030796688-1p.jpg"
+        ],
         "imageWidth": 715,
         "imageHeight": 1000
       }
@@ -55,7 +65,9 @@
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030795966/",
         "title": "ずっと信じてる",
         "caption": "ピアニッシモ / ピジャ",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-1p.jpg"
+        ],
         "imageWidth": 717,
         "imageHeight": 1012
       }
@@ -63,7 +75,9 @@
     {
       "book": {
         "title": "催眠性指導　小幡夏美の場合",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-1p.jpg"
+        ],
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030801982/",
         "caption": "50on! / 愛上陸",
         "imageWidth": 800,
@@ -73,7 +87,9 @@
     {
       "book": {
         "title": "姉なるもの10",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/96/040030799698-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/96/040030799698-1p.jpg"
+        ],
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030799698/",
         "caption": "ぽち小屋。 / ぽち。",
         "imageWidth": 800,
@@ -83,7 +99,9 @@
     {
       "book": {
         "title": "RAIN -告白してきたのは妹だった-",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-1p.jpg"
+        ],
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030800240/",
         "caption": "JACK-POT / じゅら",
         "imageWidth": 650,
@@ -93,7 +111,9 @@
     {
       "book": {
         "title": "サキュバステードライフ10",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/76/040030797689-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/76/040030797689-1p.jpg"
+        ],
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030797689/",
         "caption": "NANIMOSHINAI / 笹森トモエ",
         "imageWidth": 600,
@@ -103,7 +123,9 @@
     {
       "book": {
         "title": "カレシにナイショで４愛人…なっちゃいました。",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/14/040030801444-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/14/040030801444-1p.jpg"
+        ],
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030801444/",
         "caption": "まごの亭 / 夏庵",
         "imageWidth": 800,
@@ -113,7 +135,9 @@
     {
       "book": {
         "title": "寝取られた人妻と寝取られる人妻",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/88/040030798823-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/88/040030798823-1p.jpg"
+        ],
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030798823/",
         "caption": "あらくれた者たち / あらくれ",
         "imageWidth": 770,
@@ -123,7 +147,9 @@
     {
       "book": {
         "title": "冬虫夏草6",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-1p.jpg"
+        ],
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030793366/",
         "caption": "シュート・ザ・ムーン / フエタキシ",
         "imageWidth": 800,
@@ -133,7 +159,9 @@
     {
       "book": {
         "title": "鬼ヶ島総集編",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-1p.jpg"
+        ],
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030796986/",
         "caption": "Xration / mil",
         "imageWidth": 800,
@@ -143,7 +171,9 @@
     {
       "book": {
         "title": "メイド主従ラバーズ",
-        "imageURL": "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/10/040030801020-1p.jpg",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/10/040030801020-1p.jpg"
+        ],
         "url": "https://ec.toranoana.jp/tora_r/ec/item/040030801020/",
         "caption": "てろめあな / ぐすたふ",
         "imageWidth": 800,
