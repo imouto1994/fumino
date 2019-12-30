@@ -1,5 +1,11 @@
+.DS_Store
+
+# Node Modules
 node_modules/
+
+# Cache Files
 .eslintcache
+
+# Local Build folder
+.netlify/
 build/
-# Local Netlify folder
-.netlify

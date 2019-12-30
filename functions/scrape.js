@@ -1,4 +1,3 @@
-const url = require("url");
 const got = require("got");
 const cheerio = require("cheerio");
 
@@ -59,7 +58,7 @@ function scrapeMelon(htmlString) {
   // Scrape Images
   const imageURLs = [];
   $("#main .thumb").each(function() {
-    const thumbnailURL = $("this")
+    const thumbnailURL = $(this)
       .find("img")
       .attr("src");
     imageURLs.push(
@@ -77,7 +76,8 @@ function scrapeMelon(htmlString) {
     $("#description table tr").eq(1) != null
       ? $("#description table tr")
           .eq(1)
-          .find("td")
+          .find("td a")
+          .eq(0)
           .text()
           .trim()
       : "";
@@ -85,7 +85,8 @@ function scrapeMelon(htmlString) {
     $("#description table tr").eq(1) != null
       ? $("#description table tr")
           .eq(2)
-          .find("td")
+          .find("td a")
+          .eq(0)
           .text()
           .trim()
       : "";
@@ -146,7 +147,7 @@ function scrapeFanza(htmlString) {
   });
 
   // Scrape Title
-  const title = $(".productTitle__txt")
+  const title = $("h1.productTitle__txt")
     .clone()
     .children()
     .remove()
@@ -181,20 +182,28 @@ exports.handler = async (event, context) => {
   }
 
   try {
-    const parsedBookURL = url.parse(bookURL);
+    const parsedBookURL = new URL(bookURL);
     if (!ALLOWED_HOSTNAMES.includes(parsedBookURL.hostname)) {
       return { statusCode: 400, body: "Book URL is not supported" };
     }
 
-    const response = await got(bookURL);
     let scrapedData = {};
     if (parsedBookURL.hostname.includes("toranoana")) {
+      const response = await got(bookURL);
       scrapedData = scrapeTora(response.body);
     } else if (parsedBookURL.hostname.includes("melonbooks")) {
+      parsedBookURL.searchParams.set("adult_view", "1");
+      const response = await got(parsedBookURL.href, {
+        headers: {
+          cookie: "AUTH_ADULT=1",
+        },
+      });
       scrapedData = scrapeMelon(response.body);
     } else if (parsedBookURL.hostname.includes("mandarake")) {
+      const response = await got(bookURL);
       scrapedData = scrapeMandarake(response.body);
     } else if (parsedBookURL.hostname.includes("dmm")) {
+      const response = await got(bookURL);
       scrapedData = scrapeFanza(response.body);
     }
 
@@ -209,6 +218,7 @@ exports.handler = async (event, context) => {
       },
     };
   } catch (error) {
+    console.log(error);
     return {
       statusCode: 500,
       body: "Something wrong happened",

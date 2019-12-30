@@ -19,7 +19,8 @@ collections:
           - label: Books
             name: books
             widget: list
-            field: { label: Book, name: book, widget: bookScraper }
+            fields:
+              - { label: Book, name: book, widget: bookScraper }
       - label: "Hentai Page"
         name: "hentai"
         file: "json/hentai.json"
@@ -27,7 +28,8 @@ collections:
           - label: Books
             name: books
             widget: list
-            field: { label: Book, name: book, widget: bookScraper }
+            fields:
+              - { label: Book, name: book, widget: bookScraper }
       - label: "Manga Page"
         name: "manga"
         file: "json/manga.json"
@@ -35,7 +37,8 @@ collections:
           - label: Books
             name: books
             widget: list
-            field: { label: Book, name: book, widget: bookScraper }
+            fields:
+              - { label: Book, name: book, widget: bookScraper }
       - label: "Digital Pages"
         name: "digital"
         file: "json/digital.json"
@@ -43,4 +46,5 @@ collections:
           - label: Books
             name: books
             widget: list
-            field: { label: Book, name: book, widget: bookScraper }
+            fields:
+              - { label: Book, name: book, widget: bookScraper }

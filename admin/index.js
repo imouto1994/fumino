@@ -1,7 +1,7 @@
 import CMS from "netlify-cms-app";
 
 import BookScraper from "./widgets/BookScraper";
-import DoujinshisPreview from "./previews/DoujinshisPreview";
+import BooksPreview from "./previews/BooksPreview";
 
 CMS.registerWidget("bookScraper", BookScraper);
 
@@ -10,6 +10,9 @@ if (process.env.NODE_ENV === "production") {
   CMS.registerPreviewStyle(manifest["main.css"]);
 }
 
-CMS.registerPreviewTemplate("doujinshis", DoujinshisPreview);
+CMS.registerPreviewTemplate("doujinshi", BooksPreview);
+CMS.registerPreviewTemplate("hentai", BooksPreview);
+CMS.registerPreviewTemplate("manga", BooksPreview);
+CMS.registerPreviewTemplate("digital", BooksPreview);
 
 CMS.init();
