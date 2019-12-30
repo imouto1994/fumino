@@ -2,14 +2,34 @@ const url = require("url");
 const got = require("got");
 const cheerio = require("cheerio");
 
-const ALLOWED_HOSTNAMES = ["ec.toranoana.jp"];
+const ALLOWED_HOSTNAMES = [
+  "ec.toranoana.jp",
+  "melonbooks.co.jp",
+  "www.melonbooks.co.jp",
+  "order.mandarake.co.jp",
+  "www.dmm.co.jp",
+  "dmm.co.jp",
+];
 
 function scrapeTora(htmlString) {
   const $ = cheerio.load(htmlString);
-  const imageURL = $("#thumbs .item").data("src");
+
+  // Scrape Images
+  const imageURLs = [];
+  $("#thumbs .item").each(function() {
+    imageURLs.push(
+      $(this)
+        .find("img")
+        .data("src"),
+    );
+  });
+
+  // Scrape Title
   const title = $(".product-info h1 span")
     .text()
     .trim();
+
+  // Scrape Caption
   const circle =
     $(".sub-circle div").eq(1) != null
       ? $(".sub-circle div")
@@ -27,7 +47,120 @@ function scrapeTora(htmlString) {
   const caption = [circle, author].filter(s => s.length > 0).join(" / ");
 
   return {
-    imageURL,
+    imageURLs,
+    title,
+    caption,
+  };
+}
+
+function scrapeMelon(htmlString) {
+  const $ = cheerio.load(htmlString);
+
+  // Scrape Images
+  const imageURLs = [];
+  $("#main .thumb").each(function() {
+    const thumbnailURL = $("this")
+      .find("img")
+      .attr("src");
+    imageURLs.push(
+      `https:${thumbnailURL.slice(0, thumbnailURL.indexOf("&width"))}`,
+    );
+  });
+
+  // Scrape Title
+  const title = $("#title h1")
+    .text()
+    .trim();
+
+  // Scrape Caption
+  const circle =
+    $("#description table tr").eq(1) != null
+      ? $("#description table tr")
+          .eq(1)
+          .find("td")
+          .text()
+          .trim()
+      : "";
+  const author =
+    $("#description table tr").eq(1) != null
+      ? $("#description table tr")
+          .eq(2)
+          .find("td")
+          .text()
+          .trim()
+      : "";
+  const caption = [circle, author].filter(s => s.length > 0).join(" / ");
+
+  return {
+    imageURLs,
+    title,
+    caption,
+  };
+}
+
+function scrapeMandarake(htmlString) {
+  const $ = cheerio.load(htmlString);
+
+  // Scrape Images
+  const imageURLs = [];
+  $(".xzoom-thumbs img").each(function() {
+    imageURLs.push($(this).attr("src"));
+  });
+
+  // Scrape Title
+  const title = $(".content_head h1")
+    .text()
+    .trim();
+
+  // Scrape Caption
+  const circle =
+    $(".status table em").eq(0) != null
+      ? $(".status table em")
+          .eq(0)
+          .text()
+          .trim()
+      : "";
+  const author =
+    $(".status table em").eq(1) != null
+      ? $(".status table em")
+          .eq(1)
+          .text()
+          .trim()
+      : "";
+  const caption = [circle, author].filter(s => s.length > 0).join(" / ");
+
+  return {
+    imageURLs,
+    title,
+    caption,
+  };
+}
+
+function scrapeFanza(htmlString) {
+  const $ = cheerio.load(htmlString);
+
+  // Scrape Images
+  const imageURLs = [];
+  $(".previewList__item img").each(function() {
+    imageURLs.push($(this).attr("src"));
+  });
+
+  // Scrape Title
+  const title = $(".productTitle__txt")
+    .clone()
+    .children()
+    .remove()
+    .end()
+    .text()
+    .trim();
+
+  // Scrape Caption
+  const caption = $(".circleName__txt")
+    .text()
+    .trim();
+
+  return {
+    imageURLs,
     title,
     caption,
   };
@@ -55,8 +188,14 @@ exports.handler = async (event, context) => {
 
     const response = await got(bookURL);
     let scrapedData = {};
-    if (parsedBookURL.hostname === "ec.toranoana.jp") {
+    if (parsedBookURL.hostname.includes("toranoana")) {
       scrapedData = scrapeTora(response.body);
+    } else if (parsedBookURL.hostname.includes("melonbooks")) {
+      scrapedData = scrapeMelon(response.body);
+    } else if (parsedBookURL.hostname.includes("mandarake")) {
+      scrapedData = scrapeMandarake(response.body);
+    } else if (parsedBookURL.hostname.includes("dmm")) {
+      scrapedData = scrapeFanza(response.body);
     }
 
     return {
