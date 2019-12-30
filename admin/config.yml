@@ -12,12 +12,35 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "Doujinshi Pages"
-        name: "doujinshis"
+      - label: "Doujinshi Page"
+        name: "doujinshi"
         file: "json/doujinshi.json"
         fields:
           - label: Books
             name: books
             widget: list
-            fields:
-              - { label: Book, name: book, widget: bookScraper }
+            field: { label: Book, name: book, widget: bookScraper }
+      - label: "Hentai Page"
+        name: "hentai"
+        file: "json/hentai.json"
+        fields:
+          - label: Books
+            name: books
+            widget: list
+            field: { label: Book, name: book, widget: bookScraper }
+      - label: "Manga Page"
+        name: "manga"
+        file: "json/manga.json"
+        fields:
+          - label: Books
+            name: books
+            widget: list
+            field: { label: Book, name: book, widget: bookScraper }
+      - label: "Digital Pages"
+        name: "digital"
+        file: "json/digital.json"
+        fields:
+          - label: Books
+            name: books
+            widget: list
+            field: { label: Book, name: book, widget: bookScraper }
