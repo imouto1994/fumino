@@ -6,5 +6,5 @@ import doujinshiBooks from "../../../json/doujinshi.json";
 export default function PageDoujinshi(): ReactElement<void> {
   const { books } = doujinshiBooks;
 
-  return <CardBookList books={books} />;
+  return <CardBookList books={books} cardThumbnailRatio={1.42} />;
 }

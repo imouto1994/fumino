@@ -6,5 +6,5 @@ import hentaiBooks from "../../../json/hentai.json";
 export default function PageHentai(): ReactElement<void> {
   const { books } = hentaiBooks;
 
-  return <CardBookList books={books} />;
+  return <CardBookList books={books} cardThumbnailRatio={1.42} />;
 }

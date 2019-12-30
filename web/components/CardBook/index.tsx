@@ -11,25 +11,34 @@ import { Book } from "../../data/book";
 type Props = {
   className?: string;
   book: Book;
+  thumbnailRatio: number;
 };
 
 export default function CardBook(props: Props): ReactElement<Props> {
-  const { className = "", book } = props;
+  const { className = "", book, thumbnailRatio } = props;
+  const isPortraitThumbnail = book.imageWidth / book.imageHeight > 1.25;
+  const shouldDisplayPortrait = thumbnailRatio >= 1;
 
   return (
     <Card className={className}>
       <div className={styles.container}>
         <div className={styles.thumbnail}>
-          <div className={styles.imageContainer}>
+          <div
+            className={styles.imageContainer}
+            style={{ paddingTop: `${thumbnailRatio * 100}%` }}
+          >
             <Lazy className={styles.imageLazy}>
               <img
                 className={styles.image}
                 src={book.imageURLs[0]}
                 style={{
-                  objectFit:
-                    book.imageWidth / book.imageHeight > 1.25
+                  objectFit: isPortraitThumbnail
+                    ? shouldDisplayPortrait
                       ? "contain"
-                      : "cover",
+                      : "cover"
+                    : shouldDisplayPortrait
+                    ? "cover"
+                    : "contain",
                 }}
               />
             </Lazy>
