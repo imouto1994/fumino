@@ -3,6 +3,7 @@ const cheerio = require("cheerio");
 
 const ALLOWED_HOSTNAMES = [
   "ec.toranoana.jp",
+  "ec.toranoana.shop",
   "melonbooks.co.jp",
   "www.melonbooks.co.jp",
   "order.mandarake.co.jp",

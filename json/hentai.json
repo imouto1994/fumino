@@ -1,3 +1,135 @@
 {
-  "books": []
+  "books": [
+    {
+      "book": {
+        "title": "茜新社 テンマコミックス 篠塚裕志 初めてのヒトヅマ",
+        "imageURLs": [
+          "https://img.mandarake.co.jp/webshopimg/01/01/916/0101393916/01013939160.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/916/0101393916/01013939161.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/916/0101393916/01013939162.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/916/0101393916/01013939163.jpg"
+        ],
+        "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1124175571",
+        "caption": "茜新社 / 篠塚裕志",
+        "imageWidth": 869,
+        "imageHeight": 1218
+      }
+    },
+    {
+      "book": {
+        "title": "篠塚裕志 ヒトヅマライフ",
+        "imageURLs": [
+          "https://img.mandarake.co.jp/webshopimg/01/01/618/0101214618/01012146182.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/618/0101214618/01012146183.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/618/0101214618/01012146185.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/618/0101214618/01012146188.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/618/0101214618/01012146186.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/618/0101214618/01012146187.jpg"
+        ],
+        "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1052347126",
+        "caption": "茜新社 / 篠塚裕志",
+        "imageWidth": 355,
+        "imageHeight": 500
+      }
+    },
+    {
+      "book": {
+        "title": "ワニマガジン社 ワニマガジンコミックススペシャル 「タカシ」 ピリオド",
+        "imageURLs": [
+          "https://img.mandarake.co.jp/webshopimg/01/01/019/0101400019/01014000190.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/019/0101400019/01014000191.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/019/0101400019/01014000192.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/019/0101400019/01014000193.jpg"
+        ],
+        "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1118113801",
+        "caption": "ワニマガジン社 / 「タカシ」",
+        "imageWidth": 565,
+        "imageHeight": 799
+      }
+    },
+    {
+      "book": {
+        "title": "なかだしストライク!",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045831-1p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045831-2p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045831-3p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045831-4p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045831-5p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045831-6p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045831-7p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045831-8p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045831-9p.jpg"
+        ],
+        "url": "https://ec.toranoana.jp/tora_r/ec/item/200012045831/",
+        "caption": "ワニマガジン社 / kakao/著",
+        "imageWidth": 800,
+        "imageHeight": 800
+      }
+    },
+    {
+      "book": {
+        "title": "やみつきフェロモン",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/03/56/200012035671-1p.jpg"
+        ],
+        "url": "https://ec.toranoana.jp/tora_r/ec/item/200012035671/",
+        "caption": "ｼﾞｰｵｰﾃｨｰ / ヘリを/著",
+        "imageWidth": 800,
+        "imageHeight": 800
+      }
+    },
+    {
+      "book": {
+        "title": "RAUNCHY",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/02/82/200012028295-1p.jpg"
+        ],
+        "url": "https://ec.toranoana.jp/tora_r/ec/item/200012028295/",
+        "caption": "スコラマガジン / Cuvie 著",
+        "imageWidth": 800,
+        "imageHeight": 800
+      }
+    },
+    {
+      "book": {
+        "title": "情交の日々",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/31/200012043176-1p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/31/200012043176-2p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/31/200012043176-3p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/31/200012043176-4p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/31/200012043176-5p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/31/200012043176-6p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/31/200012043176-7p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/31/200012043176-8p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/31/200012043176-9p.jpg"
+        ],
+        "url": "https://ec.toranoana.jp/tora_r/ec/item/200012043176/",
+        "caption": "ワニマガジン社 / ビフィダス/著",
+        "imageWidth": 800,
+        "imageHeight": 800
+      }
+    },
+    {
+      "book": {
+        "title": "ティーチ&デストロイ",
+        "imageURLs": [
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045835-1p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045835-2p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045835-3p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045835-4p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045835-5p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045835-6p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045835-7p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045835-8p.jpg",
+          "https://ecdnimg.toranoana.jp/ec/img/20/0012/04/58/200012045835-9p.jpg"
+        ],
+        "url": "https://ec.toranoana.jp/tora_r/ec/item/200012045835/",
+        "caption": "ワニマガジン社 / ゆにおし/著",
+        "imageWidth": 800,
+        "imageHeight": 800
+      }
+    }
+  ]
 }

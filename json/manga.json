@@ -1,3 +1,88 @@
 {
-  "books": []
+  "books": [
+    {
+      "book": {
+        "title": "五等分の花嫁 9",
+        "imageURLs": [
+          "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000088805.jpg"
+        ],
+        "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=484791",
+        "caption": "講談社 / 春場ねぎ",
+        "imageWidth": 334,
+        "imageHeight": 500
+      }
+    },
+    {
+      "book": {
+        "title": "五等分の花嫁 11",
+        "imageURLs": [
+          "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000096357.jpg"
+        ],
+        "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=545982",
+        "caption": "講談社 / 春場ねぎ",
+        "imageWidth": 334,
+        "imageHeight": 500
+      }
+    },
+    {
+      "book": {
+        "title": "五等分の花嫁 12",
+        "imageURLs": [
+          "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000098994.jpg"
+        ],
+        "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=575066",
+        "caption": "講談社 / 春場ねぎ",
+        "imageWidth": 332,
+        "imageHeight": 500
+      }
+    },
+    {
+      "book": {
+        "title": "五等分の花嫁 13",
+        "imageURLs": [
+          "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000103233.jpg"
+        ],
+        "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=588220",
+        "caption": "講談社 / 春場ねぎ",
+        "imageWidth": 333,
+        "imageHeight": 500
+      }
+    },
+    {
+      "book": {
+        "title": "五等分の花嫁キャラクターブック 一花",
+        "imageURLs": [
+          "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000098976.jpg"
+        ],
+        "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=575067",
+        "caption": "講談社 / 春場ねぎ",
+        "imageWidth": 333,
+        "imageHeight": 500
+      }
+    },
+    {
+      "book": {
+        "title": "五等分の花嫁キャラクターブック ニ乃",
+        "imageURLs": [
+          "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000100998.jpg"
+        ],
+        "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=582154",
+        "caption": "講談社 / 春場ねぎ",
+        "imageWidth": 333,
+        "imageHeight": 499
+      }
+    },
+    {
+      "book": {
+        "title": "五等分の花嫁キャラクターブック 三玖",
+        "imageURLs": [
+          "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000103225.jpg"
+        ],
+        "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=588213",
+        "caption": "講談社 / 春場ねぎ",
+        "imageWidth": 333,
+        "imageHeight": 500
+      }
+    }
+  ]
 }
