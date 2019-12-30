@@ -1,5 +1,10 @@
 import React, { ReactElement } from "react";
 
-export default function PageDigital(): ReactElement<void> {
-  return <div />;
+import CardBookList from "../CardBookList";
+import digitalBooks from "../../../json/digital.json";
+
+export default function PageManga(): ReactElement<void> {
+  const { books } = digitalBooks;
+
+  return <CardBookList books={books} />;
 }
