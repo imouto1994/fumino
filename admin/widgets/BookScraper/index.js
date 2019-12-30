@@ -16,7 +16,7 @@ const BookScraper = forwardRef((props, ref) => {
   const { value, onChange } = props;
   const [message, setMessage] = useState("");
   const url = value != null ? value.get("url") : "";
-  const imageURLs = value != null ? value.get("imageURLs") : "";
+  const imageURLs = value != null ? value.get("imageURLs") : fromJS([]);
 
   const onInputChange = e => {
     const updateURL = e.target.value;
@@ -36,11 +36,13 @@ const BookScraper = forwardRef((props, ref) => {
       return;
     }
 
+    setMessage("Scraping book data...");
     fetch(`/.netlify/functions/scrape?bookURL=${encodeURIComponent(updateURL)}`)
       .then(response => response.json())
       .then(body => {
         const { title, imageURLs, url, caption } = body;
         const img = new Image();
+        setMessage("Scraping thumbnail data...");
         img.onload = function() {
           onChange(
             fromJS({
