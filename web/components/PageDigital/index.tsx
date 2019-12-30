@@ -6,5 +6,5 @@ import digitalBooks from "../../../json/digital.json";
 export default function PageManga(): ReactElement<void> {
   const { books } = digitalBooks;
 
-  return <CardBookList books={books} />;
+  return <CardBookList books={books} cardThumbnailRatio={0.7} />;
 }

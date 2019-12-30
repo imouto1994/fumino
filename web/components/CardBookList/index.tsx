@@ -7,16 +7,21 @@ import { Book } from "../../data/book";
 
 type Props = {
   books: { book: Book }[];
+  cardThumbnailRatio?: number;
 };
 
 export default function CardBookList(props: Props): ReactElement<Props> {
-  const { books } = props;
+  const { books, cardThumbnailRatio = 1.4 } = props;
 
   return (
     <div className={styles.list}>
       {books.map(({ book }, index) => (
         <div className={styles.itemWrapper} key={index}>
-          <CardBook className={styles.item} book={book} />
+          <CardBook
+            className={styles.item}
+            book={book}
+            thumbnailRatio={cardThumbnailRatio}
+          />
         </div>
       ))}
     </div>
