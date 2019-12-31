@@ -1,2 +1,4 @@
 webpack/**/*.js
+scripts/**/*.js
 postcss.config.js
+web/sw.js
