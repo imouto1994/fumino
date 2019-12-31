@@ -10,6 +10,11 @@
   padding-left: 24px;
 }
 
+.navIconLink {
+  display: block;
+  line-height: 0;
+}
+
 .navIcon {
   height: 24px;
 }
