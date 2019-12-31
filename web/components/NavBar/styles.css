@@ -10,9 +10,8 @@
   padding-left: 24px;
 }
 
-.navHeader {
-  letter-spacing: 1.5px;
-  color: var(--color-secondary);
+.navIcon {
+  height: 24px;
 }
 
 .navLink {
