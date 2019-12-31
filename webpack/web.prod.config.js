@@ -40,7 +40,7 @@ module.exports = {
               importLoaders: 1,
               modules: {
                 mode: "local",
-                localIdentName: "[local].[hash:base64:5]",
+                localIdentName: "[hash:base64]",
                 context: path.resolve(__dirname, "../web"),
               },
             },
@@ -81,6 +81,16 @@ module.exports = {
     },
     splitChunks: {
       cacheGroups: {
+        styles: {
+          enforce: true,
+          reuseExistingChunk: true,
+          test: /\.css$/,
+        },
+        jsons: {
+          enforce: true,
+          reuseExistingChunk: true,
+          test: /\.json$/,
+        },
         vendors: {
           enforce: true,
           reuseExistingChunk: true,
