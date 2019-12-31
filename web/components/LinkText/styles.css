@@ -1,4 +1,3 @@
-.link:hover,
-.link:focus {
+.linkDesktop:hover {
   color: var(--color-primary);
 }

@@ -1,7 +1,7 @@
 import styles from "./styles.css";
 
 import React, { ReactElement } from "react";
-import { useRoute } from "wouter";
+import { useRoute, Link } from "wouter";
 
 import IconLogo from "../IconLogo";
 import LinkText from "../LinkText";
@@ -29,7 +29,11 @@ const links = [
 export default function NavBar(): ReactElement<void> {
   return (
     <div className={styles.navBar}>
-      <IconLogo className={styles.navIcon} />
+      <Link href="/">
+        <a className={styles.navIconLink}>
+          <IconLogo className={styles.navIcon} />
+        </a>
+      </Link>
       {links.map((link, index) => (
         <NavLink key={index} url={link.url} title={link.title} />
       ))}
