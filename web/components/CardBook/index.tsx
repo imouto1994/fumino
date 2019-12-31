@@ -2,10 +2,11 @@ import styles from "./styles.css";
 
 import React, { ReactElement } from "react";
 
+import AnchorText from "../AnchorText";
 import Card from "../Card";
+import Image from "../Image";
 import Lazy from "../Lazy";
 import Text from "../Text";
-import AnchorText from "../AnchorText";
 import { Book } from "../../data/book";
 
 type Props = {
@@ -28,18 +29,18 @@ export default function CardBook(props: Props): ReactElement<Props> {
             style={{ paddingTop: `${thumbnailRatio * 100}%` }}
           >
             <Lazy className={styles.imageLazy}>
-              <img
+              <Image
                 className={styles.image}
                 src={book.imageURLs[0]}
-                style={{
-                  objectFit: isPortraitThumbnail
+                objectFit={
+                  isPortraitThumbnail
                     ? shouldDisplayPortrait
                       ? "contain"
                       : "cover"
                     : shouldDisplayPortrait
                     ? "cover"
-                    : "contain",
-                }}
+                    : "contain"
+                }
               />
             </Lazy>
           </div>
