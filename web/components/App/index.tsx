@@ -1,13 +1,13 @@
 import styles from "./styles.css";
 
 import React, { ReactElement, useCallback, useState } from "react";
-import { Route } from "wouter";
+import { Route, Switch } from "wouter";
 import classnames from "classnames";
 
-import PageDoujinshi from "../PageDoujinshi";
-import PageHentai from "../PageHentai";
-import PageManga from "../PageManga";
-import PageDigital from "../PageDigital";
+import PageDoujinshiLoadable from "../PageDoujinshiLoadable";
+import PageHentaiLoadable from "../PageHentaiLoadable";
+import PageMangaLoadable from "../PageMangaLoadable";
+import PageDigitalLoadable from "../PageDigitalLoadable";
 import NavBar from "../NavBar";
 import { Theme, ThemeContext } from "../../contexts/theme";
 
@@ -29,18 +29,20 @@ export default function App(): ReactElement<void> {
           {theme === "dark" ? "🌝" : "🌚"}
         </button>
         <div className={styles.routes}>
-          <Route path="/d">
-            <PageDoujinshi />
-          </Route>
-          <Route path="/h">
-            <PageHentai />
-          </Route>
-          <Route path="/m">
-            <PageManga />
-          </Route>
-          <Route path="/di">
-            <PageDigital />
-          </Route>
+          <Switch>
+            <Route path="/d">
+              <PageDoujinshiLoadable />
+            </Route>
+            <Route path="/h">
+              <PageHentaiLoadable />
+            </Route>
+            <Route path="/m">
+              <PageMangaLoadable />
+            </Route>
+            <Route path="/di">
+              <PageDigitalLoadable />
+            </Route>
+          </Switch>
         </div>
         <NavBar />
       </div>
