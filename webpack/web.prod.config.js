@@ -1,8 +1,10 @@
 const { BundleAnalyzerPlugin } = require("webpack-bundle-analyzer");
 const { CleanWebpackPlugin } = require("clean-webpack-plugin");
+const CopyWebpackPlugin = require("copy-webpack-plugin");
 const cssnano = require("cssnano");
-const ManifestPlugin = require("webpack-manifest-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
+const LoadablePlugin = require("@loadable/webpack-plugin");
+const ManifestPlugin = require("webpack-manifest-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
 const path = require("path");
@@ -108,10 +110,6 @@ module.exports = {
   },
   plugins: [
     new CleanWebpackPlugin(),
-    new HtmlWebpackPlugin({
-      title: "Wishlist",
-      template: path.resolve(__dirname, "../web/index.html"),
-    }),
     new MiniCssExtractPlugin({
       chunkFilename: "[name]-[contenthash:10].min.css",
       filename: "[name]-[contenthash:10].min.css",
@@ -119,6 +117,21 @@ module.exports = {
     new webpack.DefinePlugin({
       "process.env.NODE_ENV": JSON.stringify("production"),
     }),
+    new CopyWebpackPlugin([
+      {
+        from: path.resolve(__dirname, "../web/icons/"),
+        to: path.resolve(__dirname, "../build/"),
+      },
+      {
+        from: path.resolve(__dirname, "../web/app-manifest.json"),
+        to: path.resolve(__dirname, "../build/"),
+      },
+      {
+        from: path.resolve(__dirname, "../web/robots.txt"),
+        to: path.resolve(__dirname, "../build/"),
+      },
+    ]),
+    new LoadablePlugin(),
     ...(process.env.WBA ? [new BundleAnalyzerPlugin()] : []),
     new ManifestPlugin(),
   ],

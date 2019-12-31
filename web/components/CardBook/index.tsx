@@ -5,7 +5,6 @@ import React, { ReactElement } from "react";
 import AnchorText from "../AnchorText";
 import Card from "../Card";
 import Image from "../Image";
-import Lazy from "../Lazy";
 import Text from "../Text";
 import { Book } from "../../data/book";
 
@@ -28,7 +27,7 @@ export default function CardBook(props: Props): ReactElement<Props> {
             className={styles.imageContainer}
             style={{ paddingTop: `${thumbnailRatio * 100}%` }}
           >
-            <Lazy className={styles.imageLazy}>
+            <div className={styles.imageLazy}>
               <Image
                 className={styles.image}
                 src={book.imageURLs[0]}
@@ -42,7 +41,7 @@ export default function CardBook(props: Props): ReactElement<Props> {
                     : "contain"
                 }
               />
-            </Lazy>
+            </div>
           </div>
         </div>
         <div className={styles.content}>
