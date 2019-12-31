@@ -3,6 +3,7 @@ import styles from "./styles.css";
 import React, { ReactElement } from "react";
 import { useRoute } from "wouter";
 
+import IconLogo from "../IconLogo";
 import LinkText from "../LinkText";
 import Text from "../Text";
 
@@ -28,9 +29,7 @@ const links = [
 export default function NavBar(): ReactElement<void> {
   return (
     <div className={styles.navBar}>
-      <Text className={styles.navHeader} weight={600} size={24}>
-        wishlist
-      </Text>
+      <IconLogo className={styles.navIcon} />
       {links.map((link, index) => (
         <NavLink key={index} url={link.url} title={link.title} />
       ))}
