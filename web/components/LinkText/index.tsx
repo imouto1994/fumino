@@ -4,8 +4,6 @@ import React, { ReactElement, ReactNode } from "react";
 import { Link as WouterLink, useRoute } from "wouter";
 import classnames from "classnames";
 
-import { isTouchDevice } from "../../utils/dom";
-
 type Props = {
   children: ReactNode;
   className?: string;
@@ -25,9 +23,7 @@ export default function LinkText(props: Props): ReactElement<Props> {
   const [isActive] = useRoute(props.href);
   const linkClassName = classnames(
     className,
-    {
-      [styles.linkDesktop]: !isTouchDevice,
-    },
+    styles.link,
     isActive ? classNameActive : classNameInactive,
   );
 
