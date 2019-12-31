@@ -1,0 +1,11 @@
+.hidden {
+  visibility: hidden;
+}
+
+.fitCover {
+  object-fit: cover;
+}
+
+.fitContain {
+  object-fit: contain;
+}
