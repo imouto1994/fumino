@@ -6,7 +6,7 @@
   "author": "Nhan Bui <imouto1994@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "yarn build-web && yarn build-admin",
+    "build": "yarn build-web && yarn post-build && yarn build-admin",
     "build-admin": "PLATFORM=browser NODE_ENV=production webpack --config ./webpack/admin.prod.config.js",
     "build-web": "PLATFORM=browser NODE_ENV=production webpack --config ./webpack/web.prod.config.js",
     "dev-web": "PLATFORM=browser NODE_ENV=development webpack-dev-server --config ./webpack/web.dev.config.js --progress --color --open",
