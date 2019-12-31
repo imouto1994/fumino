@@ -33,7 +33,7 @@ export default function App(): ReactElement<void> {
         />
         <meta
           name="theme-color"
-          content={theme === "dark" ? "#1f232d" : "#5f5273"}
+          content={theme === "dark" ? "#1f232d" : "#fafcfc"}
         />
       </Helmet>
       <div className={containerClassName}>
