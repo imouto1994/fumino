@@ -5,8 +5,9 @@ import classnames from "classnames";
 
 type Props = {
   className?: string;
-  src: string;
   objectFit?: "cover" | "contain";
+  onLoad?: () => void;
+  src: string;
 };
 
 function isImageLoaded(imageElement: HTMLImageElement): boolean {
@@ -32,20 +33,29 @@ function isImageLoaded(imageElement: HTMLImageElement): boolean {
 }
 
 export default function Image(props: Props): ReactElement<Props> {
-  const { className, src, objectFit } = props;
+  const { className, src, objectFit, onLoad } = props;
   const [isLoaded, setIsLoaded] = useState(false);
 
   const onImageRef = useCallback(
     (imageElement: HTMLImageElement): void => {
       if (imageElement != null) {
-        setIsLoaded(isImageLoaded(imageElement));
+        const isLoaded = isImageLoaded(imageElement);
+        setIsLoaded(isLoaded);
+
+        if (isLoaded && onLoad != null) {
+          onLoad();
+        }
       }
     },
-    [setIsLoaded],
+    [setIsLoaded, onLoad],
   );
+
   const onImageLoad = useCallback((): void => {
     setIsLoaded(true);
-  }, [setIsLoaded]);
+    if (onLoad != null) {
+      onLoad();
+    }
+  }, [setIsLoaded, onLoad]);
 
   const imageClassName = classnames(className, {
     [styles.hidden]: !isLoaded,

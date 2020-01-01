@@ -7,7 +7,13 @@ CMS.registerWidget("bookScraper", BookScraper);
 
 if (process.env.NODE_ENV === "production") {
   const manifest = require("../build/manifest.json");
-  CMS.registerPreviewStyle(manifest["main.css"]);
+  console.log("MANIFEST", manifest);
+  for (const fileName of Object.keys(manifest)) {
+    if (fileName.endsWith(".css")) {
+      console.log(fileName);
+      CMS.registerPreviewStyle(manifest[fileName]);
+    }
+  }
 }
 
 CMS.registerPreviewTemplate("doujinshi", BooksPreview);

@@ -60,7 +60,7 @@ module.exports = {
               importLoaders: 1,
               modules: {
                 mode: "local",
-                localIdentName: "[local].[hash:base64:5]",
+                localIdentName: "[hash:base64]",
                 context: path.resolve(__dirname, "../web"),
               },
             },
