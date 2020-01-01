@@ -27,7 +27,9 @@
 }
 
 .container {
-  height: 100%;
+  display: flex;
+  flex-flow: column nowrap;
+  flex: 1;
   color: var(--color-text);
   background-color: var(--color-background);
   transition: $transitionColor, $transitionBackground;
@@ -44,11 +46,15 @@
 }
 
 .routeWishlist {
-  min-height: 100%;
+  display: flex;
+  flex: 1;
+  flex-flow: column nowrap;
   padding: 48px 12px 64px;
 }
 
 .routeHome {
-  height: 100%;
+  display: flex;
+  flex: 1;
+  flex-flow: column nowrap;
   padding-top: 48px;
 }
