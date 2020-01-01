@@ -1,0 +1,59 @@
+.container {
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.link {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  flex: 1 0 auto;
+  width: 50%;
+  color: white;
+  background-size: cover;
+  background-position: center;
+  transition: $transitionColor;
+
+  @media all and (min-width: $tabletPortrait) {
+    width: 25%;
+  }
+}
+
+.link:hover {
+  color: var(--color-primary);
+}
+
+.linkDoujinshi {
+  background-image: url("https://ecdnimg.toranoana.jp/ec/img/04/0030/76/68/040030766866-1p.jpg");
+}
+
+.linkHentai {
+  background-image: url("https://ecdnimg.toranoana.jp/ec/img/20/0012/02/26/200012022620-1p.jpg");
+}
+
+.linkManga {
+  background-image: url("https://s0.mangadex.org/images/covers/22422v7.jpg");
+}
+
+.linkDigital {
+  background-image: url("https://i.nhentai.net/galleries/1373737/1.jpg");
+}
+
+.linkOverlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: black;
+  opacity: 0.6;
+  z-index: 1;
+}
+
+.linkText {
+  z-index: 2;
+  font-size: 48px;
+  font-weight: 600;
+}

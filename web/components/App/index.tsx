@@ -9,6 +9,7 @@ import PageDoujinshiLoadable from "../PageDoujinshiLoadable";
 import PageHentaiLoadable from "../PageHentaiLoadable";
 import PageMangaLoadable from "../PageMangaLoadable";
 import PageDigitalLoadable from "../PageDigitalLoadable";
+import PageHome from "../PageHome";
 import NavBar from "../NavBar";
 import { Theme, ThemeContext } from "../../contexts/theme";
 
@@ -40,22 +41,34 @@ export default function App(): ReactElement<void> {
         <button className={styles.themeButton} onClick={onThemeToggle}>
           {theme === "dark" ? "🌝" : "🌚"}
         </button>
-        <div className={styles.routes}>
-          <Switch>
-            <Route path="/d">
+        <Switch>
+          <Route path="/d">
+            <div className={styles.routeWishlist}>
               <PageDoujinshiLoadable />
-            </Route>
-            <Route path="/h">
+            </div>
+          </Route>
+          <Route path="/h">
+            <div className={styles.routeWishlist}>
               <PageHentaiLoadable />
-            </Route>
-            <Route path="/m">
+            </div>
+          </Route>
+          <Route path="/m">
+            <div className={styles.routeWishlist}>
               <PageMangaLoadable />
-            </Route>
-            <Route path="/di">
+            </div>
+          </Route>
+          <Route path="/di">
+            <div className={styles.routeWishlist}>
               <PageDigitalLoadable />
-            </Route>
-          </Switch>
-        </div>
+            </div>
+          </Route>
+          <Route path="/:rest*">
+            <div className={styles.routeHome}>
+              <PageHome />
+            </div>
+          </Route>
+        </Switch>
+
         <NavBar />
       </div>
     </ThemeContext.Provider>
