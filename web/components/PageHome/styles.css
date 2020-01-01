@@ -13,6 +13,7 @@
   width: 50%;
   color: white;
   transition: $transitionColor;
+  border: none;
 
   &:hover {
     color: var(--color-primary);
@@ -28,9 +29,9 @@
 
   @media all and (min-width: $tabletPortrait) {
     width: 25%;
-    border: none;
 
     &:not(:first-child) {
+      border-top: none;
       border-left: var(--color-foreground) 1px solid;
     }
   }
