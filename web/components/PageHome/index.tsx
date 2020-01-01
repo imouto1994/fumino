@@ -1,35 +1,49 @@
 import styles from "./styles.css";
 
-import React, { ReactElement } from "react";
+import React, { ReactElement, useState } from "react";
+import classnames from "classnames";
 import { Link } from "wouter";
+
+import Image from "../Image";
 
 export default function PageHome(): ReactElement<void> {
   return (
     <div className={styles.container}>
-      <Link href="/d">
-        <a className={`${styles.link} ${styles.linkDoujinshi}`}>
-          <div className={styles.linkOverlay} />
-          <span className={styles.linkText}>{"/d"}</span>
-        </a>
-      </Link>
-      <Link href="/h">
-        <a className={`${styles.link} ${styles.linkHentai}`}>
-          <div className={styles.linkOverlay} />
-          <span className={styles.linkText}>{"/h"}</span>
-        </a>
-      </Link>
-      <Link href="/m">
-        <a className={`${styles.link} ${styles.linkManga}`}>
-          <div className={styles.linkOverlay} />
-          <span className={styles.linkText}>{"/m"}</span>
-        </a>
-      </Link>
-      <Link href="/di">
-        <a className={`${styles.link} ${styles.linkDigital}`}>
-          <div className={styles.linkOverlay} />
-          <span className={styles.linkText}>{"/di"}</span>
-        </a>
-      </Link>
+      <HomeThumbnail href="/d" imageURL="https://i.imgur.com/PokpzRQ.jpg" />
+      <HomeThumbnail href="/h" imageURL="https://i.imgur.com/fuiPd7R.jpg" />
+      <HomeThumbnail href="/m" imageURL="https://i.imgur.com/2s733RQ.jpg" />
+      <HomeThumbnail href="/di" imageURL="https://i.imgur.com/ociyY1L.jpg" />
     </div>
+  );
+}
+
+type HomeThumbnailProps = {
+  href: string;
+  imageURL: string;
+};
+
+function HomeThumbnail(
+  props: HomeThumbnailProps,
+): ReactElement<HomeThumbnailProps> {
+  const { href, imageURL } = props;
+  const [isBackgroundLoaded, setIsBackgroundLoaded] = useState(false);
+  const overlayClassName = classnames(styles.linkOverlay, {
+    [styles.linkOverlayHidden]: !isBackgroundLoaded,
+  });
+
+  return (
+    <Link href={href}>
+      <a className={styles.link}>
+        <div className={styles.linkBackgroundContainer}>
+          <Image
+            className={styles.linkBackground}
+            src={imageURL}
+            onLoad={(): void => setIsBackgroundLoaded(true)}
+          />
+        </div>
+        <div className={overlayClassName} />
+        <span className={styles.linkText}>{href}</span>
+      </a>
+    </Link>
   );
 }
