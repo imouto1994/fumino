@@ -1,9 +1,9 @@
 import CMS from "netlify-cms-app";
 
-import BookScraper from "./widgets/BookScraper";
+import BookFetch from "./widgets/BookFetch";
 import BooksPreview from "./previews/BooksPreview";
 
-CMS.registerWidget("bookScraper", BookScraper);
+CMS.registerWidget("bookFetch", BookFetch);
 
 if (process.env.NODE_ENV === "production") {
   const manifest = require("../build/manifest.json");
