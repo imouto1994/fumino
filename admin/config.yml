@@ -18,33 +18,25 @@ collections:
         fields:
           - label: Books
             name: books
-            widget: list
-            fields:
-              - { label: Book, name: book, widget: bookScraper }
+            widget: bookFetch
       - label: "Hentai Page"
         name: "hentai"
         file: "json/hentai.json"
         fields:
           - label: Books
             name: books
-            widget: list
-            fields:
-              - { label: Book, name: book, widget: bookScraper }
+            widget: bookFetch
       - label: "Manga Page"
         name: "manga"
         file: "json/manga.json"
         fields:
           - label: Books
             name: books
-            widget: list
-            fields:
-              - { label: Book, name: book, widget: bookScraper }
+            widget: bookFetch
       - label: "Digital Pages"
         name: "digital"
         file: "json/digital.json"
         fields:
           - label: Books
             name: books
-            widget: list
-            fields:
-              - { label: Book, name: book, widget: bookScraper }
+            widget: bookFetch
