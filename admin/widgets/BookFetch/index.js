@@ -86,7 +86,6 @@ const BookFetch = forwardRef((props, ref) => {
     fetch(`/.netlify/functions/scrape?bookURL=${encodeURIComponent(updateURL)}`)
       .then(response => response.json())
       .then(body => {
-        console.log(body);
         const { title, imageURLs, url, caption } = body;
         const img = new Image();
         setMessage("Scraping thumbnail data...");
