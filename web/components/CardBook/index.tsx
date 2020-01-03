@@ -30,7 +30,6 @@ export default function CardBook(props: Props): ReactElement<Props> {
             <div className={styles.imageLazy}>
               <Image
                 className={styles.image}
-                crossOrigin
                 src={book.imageURLs[0]}
                 objectFit={
                   isPortraitThumbnail
