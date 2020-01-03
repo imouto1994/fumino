@@ -70,6 +70,7 @@
     "@loadable/server": "5.11.0",
     "cheerio": "1.0.0-rc.3",
     "classnames": "2.2.6",
+    "framer-motion": "1.7.0",
     "got": "10.2.0",
     "netlify-cms-app": "2.10.1",
     "react": "16.12.0",

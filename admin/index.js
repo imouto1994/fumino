@@ -7,10 +7,8 @@ CMS.registerWidget("bookFetch", BookFetch);
 
 if (process.env.NODE_ENV === "production") {
   const manifest = require("../build/manifest.json");
-  console.log("MANIFEST", manifest);
   for (const fileName of Object.keys(manifest)) {
     if (fileName.endsWith(".css")) {
-      console.log(fileName);
       CMS.registerPreviewStyle(manifest[fileName]);
     }
   }
