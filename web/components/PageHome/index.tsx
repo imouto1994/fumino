@@ -37,6 +37,7 @@ function HomeThumbnail(
         <div className={styles.linkBackgroundContainer}>
           <Image
             className={styles.linkBackground}
+            crossOrigin
             src={imageURL}
             onLoad={(): void => setIsBackgroundLoaded(true)}
           />
