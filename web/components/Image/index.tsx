@@ -5,6 +5,7 @@ import classnames from "classnames";
 
 type Props = {
   className?: string;
+  crossOrigin?: boolean;
   objectFit?: "cover" | "contain";
   onLoad?: () => void;
   src: string;
@@ -33,7 +34,7 @@ function isImageLoaded(imageElement: HTMLImageElement): boolean {
 }
 
 export default function Image(props: Props): ReactElement<Props> {
-  const { className, src, objectFit, onLoad } = props;
+  const { className, crossOrigin, src, objectFit, onLoad } = props;
   const [isLoaded, setIsLoaded] = useState(false);
 
   const onImageRef = useCallback(
@@ -66,6 +67,7 @@ export default function Image(props: Props): ReactElement<Props> {
   return (
     <img
       className={imageClassName}
+      crossOrigin={crossOrigin ? "anonymous" : undefined}
       onLoad={onImageLoad}
       ref={onImageRef}
       src={src}
