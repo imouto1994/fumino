@@ -105,9 +105,13 @@ function scrapeMandarake(htmlString) {
 
   // Scrape Images
   const imageURLs = [];
-  $(".xzoom-thumbs img").each(function() {
-    imageURLs.push($(this).attr("src"));
-  });
+  if ($(".xzoom-thumbs img").length > 0) {
+    $(".xzoom-thumbs img").each(function() {
+      imageURLs.push($(this).attr("src"));
+    });
+  } else {
+    imageURLs.push($(".pic img").attr("src"));
+  }
 
   // Scrape Title
   const title = $(".content_head h1")

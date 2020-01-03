@@ -1,5 +1,6 @@
 import React, { forwardRef, useState } from "react";
 import { fromJS } from "immutable";
+import { motion } from "framer-motion";
 
 import styles from "./styles.css";
 
@@ -12,6 +13,12 @@ const ALLOWED_HOSTNAMES = [
   "www.dmm.co.jp",
   "dmm.co.jp",
 ];
+
+const spring = {
+  type: "spring",
+  damping: 20,
+  stiffness: 300,
+};
 
 const BookFetch = forwardRef((props, ref) => {
   const [selectedIndex, setSelectedIndex] = useState(null);
@@ -34,7 +41,16 @@ const BookFetch = forwardRef((props, ref) => {
       }
       setSelectedIndex(null);
       onChange(fromJS(updatedBooks));
+    } else {
+      setSelectedIndex(null);
     }
+  };
+
+  const onDeleteButtonClick = index => {
+    const updatedBooks = [...books];
+    updatedBooks.splice(index, 1);
+    setSelectedIndex(null);
+    onChange(fromJS(updatedBooks));
   };
 
   const onInputChange = e => {
@@ -53,6 +69,16 @@ const BookFetch = forwardRef((props, ref) => {
       setMessage(
         `URL hostname ${hostname} is not in the list of allowed hostnames`,
       );
+      return;
+    }
+
+    if (
+      books
+        .map(({ book }) => book.url)
+        .filter(url => url.includes(updateURL) || updateURL.includes(url))
+        .length > 0
+    ) {
+      setMessage("Book already existed");
       return;
     }
 
@@ -106,16 +132,33 @@ const BookFetch = forwardRef((props, ref) => {
       <div className={styles.container}>
         {books.map(({ book }, index) => {
           return (
-            <div key={index} className={styles.item}>
-              {index === selectedIndex ? (
-                <div className={styles.overlay} />
-              ) : null}
-              <img
+            <motion.div
+              key={book.url}
+              className={styles.item}
+              layoutTransition={spring}
+            >
+              <div
+                className={styles.imageImageWrapper}
                 onClick={() => onImageClick(index)}
-                src={book.imageURLs[0]}
-                className={styles.itemImage}
-              />
-            </div>
+                style={{
+                  paddingTop: `${(book.imageHeight / book.imageWidth) * 100}%`,
+                }}
+              >
+                {index === selectedIndex ? (
+                  <div className={styles.itemOverlay} />
+                ) : null}
+                <img src={book.imageURLs[0]} className={styles.itemImage} />
+                {index === selectedIndex ? (
+                  <button
+                    className={styles.itemDeleteButton}
+                    disabled={selectedIndex !== index}
+                    onClick={() => onDeleteButtonClick(index)}
+                  >
+                    D
+                  </button>
+                ) : null}
+              </div>
+            </motion.div>
           );
         })}
       </div>
