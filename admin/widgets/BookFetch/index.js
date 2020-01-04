@@ -5,13 +5,14 @@ import { motion } from "framer-motion";
 import styles from "./styles.css";
 
 const ALLOWED_HOSTNAMES = [
+  "dmm.co.jp",
   "ec.toranoana.jp",
   "ec.toranoana.shop",
   "melonbooks.co.jp",
-  "www.melonbooks.co.jp",
   "order.mandarake.co.jp",
+  "www.amazon.co.jp",
   "www.dmm.co.jp",
-  "dmm.co.jp",
+  "www.melonbooks.co.jp",
 ];
 
 const spring = {
