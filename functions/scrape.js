@@ -147,8 +147,8 @@ function scrapeFanza(htmlString) {
 
   // Scrape Images
   const imageURLs = [];
-  $(".previewList__item img").each(function() {
-    imageURLs.push($(this).attr("src"));
+  $(".productPreview__item img").each(function() {
+    imageURLs.push($(this).data("src") || $(this).attr("src"));
   });
 
   // Scrape Title
