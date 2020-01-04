@@ -16,6 +16,10 @@
   @media all and (min-width: $tabletLandscape) {
     width: 25%;
   }
+
+  @media all and (min-width: $dekstop) {
+    width: 20%;
+  }
 }
 
 .item {
