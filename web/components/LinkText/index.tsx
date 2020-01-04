@@ -9,6 +9,7 @@ type Props = {
   className?: string;
   classNameInactive?: string;
   classNameActive?: string;
+  onLinkHover?: () => void;
   href: string;
 };
 
@@ -18,6 +19,7 @@ export default function LinkText(props: Props): ReactElement<Props> {
     className = "",
     classNameActive,
     classNameInactive,
+    onLinkHover,
     href,
   } = props;
   const [isActive] = useRoute(props.href);
@@ -27,9 +29,17 @@ export default function LinkText(props: Props): ReactElement<Props> {
     isActive ? classNameActive : classNameInactive,
   );
 
+  const onMouseOver = (): void => {
+    if (onLinkHover) {
+      onLinkHover();
+    }
+  };
+
   return (
-    <WouterLink className={linkClassName} href={href}>
-      {children}
+    <WouterLink href={href}>
+      <a onMouseOver={onMouseOver} className={linkClassName}>
+        {children}
+      </a>
     </WouterLink>
   );
 }

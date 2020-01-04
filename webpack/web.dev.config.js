@@ -1,5 +1,6 @@
 const path = require("path");
 const webpack = require("webpack");
+const CopyWebpackPlugin = require("copy-webpack-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
@@ -67,6 +68,12 @@ module.exports = {
     }),
     new webpack.HotModuleReplacementPlugin(),
     new webpack.optimize.LimitChunkCountPlugin({ maxChunks: 1 }),
+    new CopyWebpackPlugin([
+      {
+        from: path.resolve(__dirname, "../web/images/"),
+        to: path.resolve(__dirname, "../build"),
+      },
+    ]),
     new webpack.DefinePlugin({
       "process.env.NODE_ENV": JSON.stringify("development"),
     }),

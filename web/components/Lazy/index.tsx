@@ -10,7 +10,7 @@ export default function Lazy(props: Props): ReactElement<Props> {
   const { className = "", children } = props;
   const [ref, inView] = useInView({
     triggerOnce: true,
-    rootMargin: "25px 0px",
+    rootMargin: "250px 0px",
   });
 
   return (

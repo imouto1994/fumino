@@ -8,11 +8,19 @@ type Props = {
   className?: string;
   weight?: 400 | 500 | 600 | 700 | 800;
   size?: 12 | 14 | 16 | 18 | 24;
+  inline?: boolean;
   singleline?: boolean;
 };
 
 export default function Text(props: Props): ReactElement<Props> {
-  const { children, className, weight = 400, size = 16, singleline } = props;
+  const {
+    children,
+    className,
+    weight = 400,
+    size = 16,
+    singleline,
+    inline,
+  } = props;
   const textClassName = classnames(className, styles.text, {
     [styles.weightMedium]: weight === 500,
     [styles.weightSemibold]: weight === 600,
@@ -25,5 +33,7 @@ export default function Text(props: Props): ReactElement<Props> {
     [styles.singleline]: !!singleline,
   });
 
-  return <p className={textClassName}>{children}</p>;
+  const Component = inline ? "span" : "p";
+
+  return <Component className={textClassName}>{children}</Component>;
 }
