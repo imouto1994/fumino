@@ -263,7 +263,12 @@ exports.handler = async (event, context) => {
       const productPathMatch = pathMatch("/dp/:bookID", {
         decode: decodeURIComponent,
       });
-      const match = productPathMatch(parsedBookURL.pathname);
+      const altProductPathMatch = pathMatch("/gp/product/:bookID", {
+        decode: decodeURIComponent,
+      });
+      const match =
+        productPathMatch(parsedBookURL.pathname) ||
+        altProductPathMatch(parsedBookURL.pathname);
       if (match == null) {
         throw new Error(
           "Amazon URL is not a product URL path i.e /dp/:productID",
