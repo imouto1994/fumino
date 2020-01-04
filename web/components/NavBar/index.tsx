@@ -5,9 +5,13 @@ import { useRoute, Link } from "wouter";
 
 import IconLogo from "../IconLogo";
 import LinkText from "../LinkText";
+import PageDoujinshiLoadable from "../PageDoujinshiLoadable";
+import PageHentaiLoadable from "../PageHentaiLoadable";
+import PageMangaLoadable from "../PageMangaLoadable";
+import PageDigitalLoadable from "../PageDigitalLoadable";
 import Text from "../Text";
 
-const links = [
+const links: { title: string; url: "/d" | "/h" | "/m" | "/di" }[] = [
   {
     title: "/doujinshi",
     url: "/d",
@@ -43,15 +47,28 @@ export default function NavBar(): ReactElement<void> {
 
 type NavLinkProps = {
   title: string;
-  url: string;
+  url: "/d" | "/h" | "/m" | "/di";
 };
 
 function NavLink(props: NavLinkProps): ReactElement<NavLinkProps> {
   const { title, url } = props;
   const [isActive] = useRoute(url);
 
+  const onLinkHover = (): void => {
+    if (url === "/d") {
+      PageDoujinshiLoadable.preload();
+    } else if (url === "/h") {
+      PageHentaiLoadable.preload();
+    } else if (url === "/m") {
+      PageMangaLoadable.preload();
+    } else {
+      PageDigitalLoadable.preload();
+    }
+  };
+
   return (
     <LinkText
+      onLinkHover={onLinkHover}
       href={url}
       className={styles.navLink}
       classNameActive={styles.navLinkActive}

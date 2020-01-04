@@ -119,6 +119,10 @@ module.exports = {
     }),
     new CopyWebpackPlugin([
       {
+        from: path.resolve(__dirname, "../web/images/"),
+        to: path.resolve(__dirname, "../build"),
+      },
+      {
         from: path.resolve(__dirname, "../web/icons/"),
         to: path.resolve(__dirname, "../build/"),
       },

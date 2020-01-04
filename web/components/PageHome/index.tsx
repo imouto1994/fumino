@@ -5,20 +5,24 @@ import classnames from "classnames";
 import { Link } from "wouter";
 
 import Image from "../Image";
+import PageDoujinshiLoadable from "../PageDoujinshiLoadable";
+import PageHentaiLoadable from "../PageHentaiLoadable";
+import PageMangaLoadable from "../PageMangaLoadable";
+import PageDigitalLoadable from "../PageDigitalLoadable";
 
 export default function PageHome(): ReactElement<void> {
   return (
     <div className={styles.container}>
-      <HomeThumbnail href="/d" imageURL="https://i.imgur.com/PokpzRQ.jpg" />
-      <HomeThumbnail href="/h" imageURL="https://i.imgur.com/fuiPd7R.jpg" />
-      <HomeThumbnail href="/m" imageURL="https://i.imgur.com/2s733RQ.jpg" />
-      <HomeThumbnail href="/di" imageURL="https://i.imgur.com/ociyY1L.jpg" />
+      <HomeThumbnail href="/d" imageURL="/coverDoujinshi.jpg" />
+      <HomeThumbnail href="/h" imageURL="/coverHentai.jpg" />
+      <HomeThumbnail href="/m" imageURL="/coverManga.jpg" />
+      <HomeThumbnail href="/di" imageURL="/coverDigital.jpg" />
     </div>
   );
 }
 
 type HomeThumbnailProps = {
-  href: string;
+  href: "/d" | "/h" | "/m" | "/di";
   imageURL: string;
 };
 
@@ -31,9 +35,21 @@ function HomeThumbnail(
     [styles.linkOverlayHidden]: !isBackgroundLoaded,
   });
 
+  const onLinkHover = (): void => {
+    if (href === "/d") {
+      PageDoujinshiLoadable.preload();
+    } else if (href === "/h") {
+      PageHentaiLoadable.preload();
+    } else if (href === "/m") {
+      PageMangaLoadable.preload();
+    } else {
+      PageDigitalLoadable.preload();
+    }
+  };
+
   return (
     <Link href={href}>
-      <a className={styles.link}>
+      <a onMouseOver={onLinkHover} className={styles.link}>
         <div className={styles.linkBackgroundContainer}>
           <Image
             className={styles.linkBackground}

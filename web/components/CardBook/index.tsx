@@ -9,15 +9,22 @@ import Text from "../Text";
 import { Book } from "../../data/book";
 
 type Props = {
-  className?: string;
   book: Book;
+  className?: string;
+  onBookPreview?: (book: Book) => void;
   thumbnailRatio: number;
 };
 
 export default function CardBook(props: Props): ReactElement<Props> {
-  const { className = "", book, thumbnailRatio } = props;
+  const { className = "", book, thumbnailRatio, onBookPreview } = props;
   const isPortraitThumbnail = book.imageWidth / book.imageHeight > 1.25;
   const shouldDisplayPortrait = thumbnailRatio >= 1;
+
+  const onThumbnailClick = (): void => {
+    if (onBookPreview != null) {
+      onBookPreview(book);
+    }
+  };
 
   return (
     <Card className={className}>
@@ -26,6 +33,7 @@ export default function CardBook(props: Props): ReactElement<Props> {
           <div
             className={styles.imageContainer}
             style={{ paddingTop: `${thumbnailRatio * 100}%` }}
+            onClick={onThumbnailClick}
           >
             <div className={styles.imageLazy}>
               <Image
@@ -46,7 +54,13 @@ export default function CardBook(props: Props): ReactElement<Props> {
         </div>
         <div className={styles.content}>
           <AnchorText href={book.url}>
-            <Text size={18} weight={600} singleline className={styles.text}>
+            <Text
+              size={18}
+              weight={600}
+              singleline
+              className={styles.text}
+              inline
+            >
               {book.title}
             </Text>
           </AnchorText>
@@ -54,6 +68,7 @@ export default function CardBook(props: Props): ReactElement<Props> {
             size={12}
             weight={500}
             singleline
+            inline
             className={`${styles.text} ${styles.textCaption}`}
           >
             {book.caption}

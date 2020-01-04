@@ -1,5 +1,7 @@
 import loadable from "@loadable/component";
 
 export default loadable(() =>
-  import(/* webpackChunkName: "page-hentai" */ "../PageHentai"),
+  import(
+    /* webpackChunkName: "page-hentai", webpackPrefetch: true */ "../PageHentai"
+  ),
 );
