@@ -13,7 +13,7 @@ export default function PageDoujinshi(): ReactElement<void> {
         <title>Doujinshi Wishlist</title>
         <link rel="canonical" href="https://wishlist.noobsaigon.com/d" />
       </Helmet>
-      <CardBookList books={books} cardThumbnailRatio={1.42} />
+      <CardBookList books={books} />
     </>
   );
 }

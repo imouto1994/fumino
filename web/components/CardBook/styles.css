@@ -38,8 +38,16 @@
 
 .text {
   flex: 0 1 auto;
+  display: block;
+}
+
+.textTitleAnchor {
+  max-width: 100%;
+  overflow: hidden;
+  display: inline-block;
 }
 
 .textCaption {
+  max-width: 100%;
   color: var(--color-text-light);
 }

@@ -13,7 +13,7 @@ export default function PageHentai(): ReactElement<void> {
         <title>Hentai Wishlist</title>
         <link rel="canonical" href="https://wishlist.noobsaigon.com/h" />
       </Helmet>
-      <CardBookList books={books} cardThumbnailRatio={1.42} />
+      <CardBookList books={books} />
     </>
   );
 }
