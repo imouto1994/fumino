@@ -13,7 +13,7 @@ export default function PageManga(): ReactElement<void> {
         <title>Manga Wishlist</title>
         <link rel="canonical" href="https://wishlist.noobsaigon.com/m" />
       </Helmet>
-      <CardBookList books={books} cardThumbnailRatio={1.5} />
+      <CardBookList books={books} />
     </>
   );
 }

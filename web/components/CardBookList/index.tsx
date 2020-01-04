@@ -9,11 +9,10 @@ import { Book } from "../../data/book";
 
 type Props = {
   books: { book: Book }[];
-  cardThumbnailRatio?: number;
 };
 
 export default function CardBookList(props: Props): ReactElement<Props> {
-  const { books, cardThumbnailRatio = 1.4 } = props;
+  const { books } = props;
   const [previewedBook, setPreviewedBook] = useState<Book | null>(null);
 
   const onBookPreview = (book: Book): void => {
@@ -31,7 +30,6 @@ export default function CardBookList(props: Props): ReactElement<Props> {
           <CardBook
             className={styles.item}
             book={book}
-            thumbnailRatio={cardThumbnailRatio}
             onBookPreview={onBookPreview}
           />
         );

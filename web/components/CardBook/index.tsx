@@ -12,13 +12,10 @@ type Props = {
   book: Book;
   className?: string;
   onBookPreview?: (book: Book) => void;
-  thumbnailRatio: number;
 };
 
 export default function CardBook(props: Props): ReactElement<Props> {
-  const { className = "", book, thumbnailRatio, onBookPreview } = props;
-  const isPortraitThumbnail = book.imageWidth / book.imageHeight > 1.25;
-  const shouldDisplayPortrait = thumbnailRatio >= 1;
+  const { className = "", book, onBookPreview } = props;
 
   const onThumbnailClick = (): void => {
     if (onBookPreview != null) {
@@ -32,33 +29,27 @@ export default function CardBook(props: Props): ReactElement<Props> {
         <div className={styles.thumbnail}>
           <div
             className={styles.imageContainer}
-            style={{ paddingTop: `${thumbnailRatio * 100}%` }}
+            style={{
+              paddingTop: `${(book.imageHeight / book.imageWidth) * 100}%`,
+            }}
             onClick={onThumbnailClick}
           >
             <div className={styles.imageLazy}>
               <Image
                 className={styles.image}
                 src={book.imageURLs[0]}
-                objectFit={
-                  isPortraitThumbnail
-                    ? shouldDisplayPortrait
-                      ? "contain"
-                      : "cover"
-                    : shouldDisplayPortrait
-                    ? "cover"
-                    : "contain"
-                }
+                objectFit="cover"
               />
             </div>
           </div>
         </div>
         <div className={styles.content}>
-          <AnchorText href={book.url}>
+          <AnchorText className={styles.textTitleAnchor} href={book.url}>
             <Text
               size={18}
               weight={600}
               singleline
-              className={styles.text}
+              className={`${styles.text} ${styles.textTitle}`}
               inline
             >
               {book.title}

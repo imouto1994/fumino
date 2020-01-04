@@ -1,7 +1,7 @@
 .list {
   display: flex;
   flex-flow: row wrap;
-  align-items: stretch;
+  align-items: flex-start;
 }
 
 .itemWrapper {
