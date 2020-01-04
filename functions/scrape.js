@@ -1,14 +1,16 @@
 const got = require("got");
 const cheerio = require("cheerio");
+const { match: pathMatch } = require("path-to-regexp");
 
 const ALLOWED_HOSTNAMES = [
+  "dmm.co.jp",
   "ec.toranoana.jp",
   "ec.toranoana.shop",
   "melonbooks.co.jp",
-  "www.melonbooks.co.jp",
   "order.mandarake.co.jp",
+  "www.amazon.co.jp",
   "www.dmm.co.jp",
-  "dmm.co.jp",
+  "www.melonbooks.co.jp",
 ];
 
 function scrapeTora(htmlString) {
@@ -172,6 +174,45 @@ function scrapeFanza(htmlString) {
   };
 }
 
+function scrapeAmazon(htmlString) {
+  const $ = cheerio.load(htmlString);
+
+  // Scrape Images
+  let imageURLs = [];
+  const scriptContent = $("#imageBlockOuter")
+    .next()
+    .html();
+  const match = scriptContent.match(/\[\{"mainUrl":(.*)\]/);
+  if (match != null) {
+    const imagesJSON = JSON.parse(match[0]);
+    imageURLs = imagesJSON.map(image => image.mainUrl);
+  } else {
+    throw new Error("Failed to extract thumbnail images for this Amazon book");
+  }
+
+  // Scrape Title
+  const title = $("#productTitle")
+    .text()
+    .trim();
+
+  // Scrape Caption
+  const caption =
+    $("#bylineInfo > span > span > a")
+      .eq(0)
+      .text()
+      .trim() ||
+    $("#bylineInfo > span > a")
+      .eq(0)
+      .text()
+      .trim();
+
+  return {
+    imageURLs,
+    title,
+    caption,
+  };
+}
+
 exports.handler = async (event, context) => {
   const { httpMethod, queryStringParameters } = event;
 
@@ -210,6 +251,23 @@ exports.handler = async (event, context) => {
     } else if (parsedBookURL.hostname.includes("dmm")) {
       const response = await got(bookURL);
       scrapedData = scrapeFanza(response.body);
+    } else if (parsedBookURL.hostname.includes("amazon")) {
+      const productPathMatch = pathMatch("/dp/:bookID", {
+        decode: decodeURIComponent,
+      });
+      const match = productPathMatch(parsedBookURL.pathname);
+      if (match == null) {
+        throw new Error(
+          "Amazon URL is not a product URL path i.e /dp/:productID",
+        );
+      }
+      const {
+        params: { bookID },
+      } = match;
+      const response = await got(
+        `https://www.amazon.co.jp/gp/product/black-curtain-redirect.html/000-0000000-0000000?redirectUrl=%2Fgp%2Fproduct%2F${bookID}`,
+      );
+      scrapedData = scrapeAmazon(response.body);
     }
 
     return {
