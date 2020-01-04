@@ -68,6 +68,14 @@ function scrapeMelon(htmlString) {
       `https:${thumbnailURL.slice(0, thumbnailURL.indexOf("&width"))}`,
     );
   });
+  $("#thumbs .thumb").each(function() {
+    const thumbnailURL = $(this)
+      .find("img")
+      .attr("src");
+    imageURLs.push(
+      `https:${thumbnailURL.slice(0, thumbnailURL.indexOf("&width"))}`,
+    );
+  });
 
   // Scrape Title
   const title = $("#title h1")
