@@ -63,9 +63,12 @@ const BookFetch = forwardRef((props, ref) => {
     }
   };
 
-  const onDeleteButtonClick = index => {
+  const onDeleteButtonClick = (e, index) => {
+    e.preventDefault();
+    e.stopPropagation();
     const updatedBooks = [...books];
     updatedBooks.splice(index, 1);
+    console.log(selectedIndices);
     setSelectedIndices(
       selectedIndices
         .map(i => {
@@ -179,7 +182,7 @@ const BookFetch = forwardRef((props, ref) => {
                 {selectedIndices.includes(index) ? (
                   <button
                     className={styles.itemDeleteButton}
-                    onClick={() => onDeleteButtonClick(index)}
+                    onClick={e => onDeleteButtonClick(e, index)}
                   >
                     D
                   </button>
