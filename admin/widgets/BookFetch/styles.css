@@ -62,6 +62,8 @@
 }
 
 .input {
+  position: sticky;
+  top: 0;
   display: block;
   width: 100%;
   padding: 16px 20px;
@@ -74,9 +76,9 @@
   background-color: white;
   color: #444a57;
   transition: border-color 0.2s ease;
-  position: relative;
   font-size: 15px;
   line-height: 1.5;
+  z-index: 2;
 }
 
 .input:focus,

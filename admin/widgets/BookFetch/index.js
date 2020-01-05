@@ -22,35 +22,63 @@ const spring = {
 };
 
 const BookFetch = forwardRef((props, ref) => {
-  const [selectedIndex, setSelectedIndex] = useState(null);
+  const [selectedIndices, setSelectedIndices] = useState([]);
   const [text, setText] = useState("");
   const [message, setMessage] = useState("");
   const { value, onChange } = props;
   const books = value.toJS();
 
-  const onImageClick = index => {
-    if (selectedIndex == null) {
-      setSelectedIndex(index);
-    } else if (selectedIndex !== index) {
-      const updatedBooks = [...books];
-      if (selectedIndex < index) {
-        updatedBooks.splice(index, 0, updatedBooks[selectedIndex]);
-        updatedBooks.splice(selectedIndex, 1);
+  const onImageClick = (e, index) => {
+    if (selectedIndices.length === 0) {
+      setSelectedIndices([index]);
+    } else if (e.metaKey || e.ctrlKey) {
+      if (selectedIndices.includes(index)) {
+        setSelectedIndices(selectedIndices.filter(i => i !== index));
       } else {
-        updatedBooks.splice(index, 0, updatedBooks[selectedIndex]);
-        updatedBooks.splice(selectedIndex + 1, 1);
+        setSelectedIndices([...selectedIndices, index].sort((a, b) => a - b));
       }
-      setSelectedIndex(null);
-      onChange(fromJS(updatedBooks));
     } else {
-      setSelectedIndex(null);
+      if (selectedIndices.includes(index)) {
+        setSelectedIndices([]);
+      } else {
+        const indexBook = books[index];
+        const selectedBooks = books.filter((book, i) =>
+          selectedIndices.includes(i),
+        );
+        const preSelectedBooks = books.filter(
+          (book, i) => i < index && !selectedIndices.includes(i),
+        );
+        const postSelectedBooks = books.filter(
+          (book, i) => i > index && !selectedIndices.includes(i),
+        );
+        const updatedBooks = [
+          ...preSelectedBooks,
+          ...selectedBooks,
+          indexBook,
+          ...postSelectedBooks,
+        ];
+        setSelectedIndices([]);
+        onChange(fromJS(updatedBooks));
+      }
     }
   };
 
   const onDeleteButtonClick = index => {
     const updatedBooks = [...books];
     updatedBooks.splice(index, 1);
-    setSelectedIndex(null);
+    setSelectedIndices(
+      selectedIndices
+        .map(i => {
+          if (i < index) {
+            return i;
+          } else if (i === index) {
+            return null;
+          } else {
+            return i - 1;
+          }
+        })
+        .filter(i => i != null),
+    );
     onChange(fromJS(updatedBooks));
   };
 
@@ -139,19 +167,18 @@ const BookFetch = forwardRef((props, ref) => {
             >
               <div
                 className={styles.imageImageWrapper}
-                onClick={() => onImageClick(index)}
+                onClick={e => onImageClick(e, index)}
                 style={{
                   paddingTop: `${(book.imageHeight / book.imageWidth) * 100}%`,
                 }}
               >
-                {index === selectedIndex ? (
+                {selectedIndices.includes(index) ? (
                   <div className={styles.itemOverlay} />
                 ) : null}
                 <img src={book.imageURLs[0]} className={styles.itemImage} />
-                {index === selectedIndex ? (
+                {selectedIndices.includes(index) ? (
                   <button
                     className={styles.itemDeleteButton}
-                    disabled={selectedIndex !== index}
                     onClick={() => onDeleteButtonClick(index)}
                   >
                     D
