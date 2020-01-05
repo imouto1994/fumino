@@ -1,7 +1,9 @@
 .container {
   display: flex;
+  position: relative;
   flex-flow: row wrap;
   align-items: stretch;
+  z-index: 1;
 }
 
 .item {
