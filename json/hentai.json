@@ -1471,6 +1471,59 @@
         "imageWidth": 881,
         "imageHeight": 1240
       }
+    },
+    {
+      "book": {
+        "title": "ジーオーティー GOTコミックス ユズハ とろけてとける",
+        "imageURLs": [
+          "https://img.mandarake.co.jp/webshopimg/01/01/521/0101394521/01013945210.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/521/0101394521/01013945211.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/521/0101394521/01013945212.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/01/521/0101394521/01013945213.jpg"
+        ],
+        "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1118455922",
+        "caption": "ジーオーティー / ユズハ",
+        "imageWidth": 1728,
+        "imageHeight": 2447
+      }
+    },
+    {
+      "book": {
+        "title": "はじめてえっち (GOT COMICS)",
+        "imageURLs": [
+          "https://images-na.ssl-images-amazon.com/images/I/71LDEFYSXcL.jpg",
+          "https://images-na.ssl-images-amazon.com/images/I/71TvkOWXbCL.jpg",
+          "https://images-na.ssl-images-amazon.com/images/I/81Rr4GqG1qL.jpg",
+          "https://images-na.ssl-images-amazon.com/images/I/81VDyBkAMJL.jpg",
+          "https://images-na.ssl-images-amazon.com/images/I/81q34wUUwqL.jpg",
+          "https://images-na.ssl-images-amazon.com/images/I/813i2yD-BIL.jpg",
+          "https://images-na.ssl-images-amazon.com/images/I/81RJYu-0QFL.jpg",
+          "https://images-na.ssl-images-amazon.com/images/I/81l4Ha4q4NL.jpg",
+          "https://images-na.ssl-images-amazon.com/images/I/81%2BgBjqvKEL.jpg",
+          "https://images-na.ssl-images-amazon.com/images/I/81mNdhGduJL.jpg",
+          "https://images-na.ssl-images-amazon.com/images/I/81HfmMUruQL.jpg",
+          "https://images-na.ssl-images-amazon.com/images/I/81fnFPHYfYL.jpg"
+        ],
+        "url": "https://www.amazon.co.jp/dp/4811200020/",
+        "caption": "ユズハ",
+        "imageWidth": 874,
+        "imageHeight": 1240
+      }
+    },
+    {
+      "book": {
+        "title": "ティーアイネット シオロク 彼女と僕の交配の話",
+        "imageURLs": [
+          "https://img.mandarake.co.jp/webshopimg/01/30/543/0130209543/01302095430.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/30/543/0130209543/01302095431.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/30/543/0130209543/01302095432.jpg",
+          "https://img.mandarake.co.jp/webshopimg/01/30/543/0130209543/01302095433.jpg"
+        ],
+        "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1124667868",
+        "caption": "ティーアイネット / シオロク",
+        "imageWidth": 359,
+        "imageHeight": 492
+      }
     }
   ]
 }
