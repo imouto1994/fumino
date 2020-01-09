@@ -39,19 +39,6 @@
     },
     {
       "book": {
-        "title": "シュート・ザ・ムーン フエタキシ 福山さん。 1",
-        "imageURLs": [
-          "https://img.mandarake.co.jp/webshopimg/04/00/129/0400080129/04000801294.jpg",
-          "https://img.mandarake.co.jp/webshopimg/04/00/129/0400080129/04000801293.jpg"
-        ],
-        "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1027297413",
-        "caption": "シュート・ザ・ムーン / フエタキシ",
-        "imageWidth": 692,
-        "imageHeight": 977
-      }
-    },
-    {
-      "book": {
         "title": "シュート・ザ・ムーン フエタキシ 福山さん2 紺",
         "imageURLs": [
           "https://img.mandarake.co.jp/webshopimg/04/00/131/0400080131/04000801310.jpg",
@@ -61,6 +48,19 @@
         "caption": "シュート・ザ・ムーン / フエタキシ",
         "imageWidth": 1071,
         "imageHeight": 1510
+      }
+    },
+    {
+      "book": {
+        "title": "シュート・ザ・ムーン フエタキシ 福山さん。 1",
+        "imageURLs": [
+          "https://img.mandarake.co.jp/webshopimg/04/00/129/0400080129/04000801294.jpg",
+          "https://img.mandarake.co.jp/webshopimg/04/00/129/0400080129/04000801293.jpg"
+        ],
+        "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1027297413",
+        "caption": "シュート・ザ・ムーン / フエタキシ",
+        "imageWidth": 692,
+        "imageHeight": 977
       }
     },
     {
@@ -130,19 +130,6 @@
     },
     {
       "book": {
-        "title": "シュート・ザ・ムーン フエタキシ 福山さん6",
-        "imageURLs": [
-          "https://img.mandarake.co.jp/webshopimg/04/00/136/0400080136/04000801364.jpg",
-          "https://img.mandarake.co.jp/webshopimg/04/00/136/0400080136/04000801363.jpg"
-        ],
-        "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026962338",
-        "caption": "シュート・ザ・ムーン / フエタキシ",
-        "imageWidth": 1022,
-        "imageHeight": 1487
-      }
-    },
-    {
-      "book": {
         "title": "シュート・ザ・ムーン (フエタキシ) 福山さん7 cream on the strawberry",
         "imageURLs": [
           "https://img.mandarake.co.jp/webshopimg/04/00/137/0400080137/04000801370.jpg",
@@ -152,6 +139,19 @@
         "caption": "シュート・ザ・ムーン / フエタキシ",
         "imageWidth": 319,
         "imageHeight": 450
+      }
+    },
+    {
+      "book": {
+        "title": "シュート・ザ・ムーン フエタキシ 福山さん6",
+        "imageURLs": [
+          "https://img.mandarake.co.jp/webshopimg/04/00/136/0400080136/04000801364.jpg",
+          "https://img.mandarake.co.jp/webshopimg/04/00/136/0400080136/04000801363.jpg"
+        ],
+        "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026962338",
+        "caption": "シュート・ザ・ムーン / フエタキシ",
+        "imageWidth": 1022,
+        "imageHeight": 1487
       }
     },
     {
