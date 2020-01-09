@@ -1,10 +1,11 @@
 backend:
   name: github
   repo: imouto1994/Fumino
+  squash_merges: true
+
+publish_mode: editorial_workflow
 
 media_folder: "web/images/uploads"
-media_library:
-  name: uploads
 
 show_preview_links: false
 

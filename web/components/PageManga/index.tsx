@@ -6,6 +6,7 @@ import mangaBooks from "../../../json/manga.json";
 
 export default function PageManga(): ReactElement<void> {
   const { books } = mangaBooks;
+  const { wishlist } = books;
 
   return (
     <>
@@ -13,7 +14,7 @@ export default function PageManga(): ReactElement<void> {
         <title>Manga Wishlist</title>
         <link rel="canonical" href="https://wishlist.noobsaigon.com/m" />
       </Helmet>
-      <CardBookList books={books} />
+      <CardBookList books={wishlist} />
     </>
   );
 }

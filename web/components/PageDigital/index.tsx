@@ -6,6 +6,7 @@ import digitalBooks from "../../../json/digital.json";
 
 export default function PageManga(): ReactElement<void> {
   const { books } = digitalBooks;
+  const { wishlist } = books;
 
   return (
     <>
@@ -13,7 +14,7 @@ export default function PageManga(): ReactElement<void> {
         <title>Digital Wishlist</title>
         <link rel="canonical" href="https://wishlist.noobsaigon.com/di" />
       </Helmet>
-      <CardBookList books={books} />
+      <CardBookList books={wishlist} />
     </>
   );
 }
