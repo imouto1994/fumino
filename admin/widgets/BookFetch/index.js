@@ -27,7 +27,7 @@ const BookFetch = forwardRef((props, ref) => {
   const [message, setMessage] = useState("");
   const { value, onChange } = props;
   const books = value.toJS();
-  const { wishlist } = books;
+  const { wanted } = books;
 
   const onImageClick = (e, index) => {
     if (selectedIndices.length === 0) {
@@ -42,14 +42,14 @@ const BookFetch = forwardRef((props, ref) => {
       if (selectedIndices.includes(index)) {
         setSelectedIndices([]);
       } else {
-        const indexBook = wishlist[index];
-        const selectedBooks = wishlist.filter((book, i) =>
+        const indexBook = wanted[index];
+        const selectedBooks = wanted.filter((book, i) =>
           selectedIndices.includes(i),
         );
-        const preSelectedBooks = wishlist.filter(
+        const preSelectedBooks = wanted.filter(
           (book, i) => i < index && !selectedIndices.includes(i),
         );
-        const postSelectedBooks = wishlist.filter(
+        const postSelectedBooks = wanted.filter(
           (book, i) => i > index && !selectedIndices.includes(i),
         );
         const updatedBooks = [
@@ -59,7 +59,7 @@ const BookFetch = forwardRef((props, ref) => {
           ...postSelectedBooks,
         ];
         setSelectedIndices([]);
-        onChange(fromJS({ ...books, wishlist: updatedBooks }));
+        onChange(fromJS({ ...books, wanted: updatedBooks }));
       }
     }
   };
@@ -67,7 +67,7 @@ const BookFetch = forwardRef((props, ref) => {
   const onDeleteButtonClick = (e, index) => {
     e.preventDefault();
     e.stopPropagation();
-    const updatedBooks = [...wishlist];
+    const updatedBooks = [...wanted];
     updatedBooks.splice(index, 1);
     setSelectedIndices(
       selectedIndices
@@ -82,7 +82,7 @@ const BookFetch = forwardRef((props, ref) => {
         })
         .filter(i => i != null),
     );
-    onChange(fromJS({ ...books, wishlist: updatedBooks }));
+    onChange(fromJS({ ...books, wanted: updatedBooks }));
   };
 
   const onInputChange = e => {
@@ -105,7 +105,7 @@ const BookFetch = forwardRef((props, ref) => {
     }
 
     if (
-      wishlist
+      wanted
         .map(({ book }) => book.url)
         .filter(url => url.includes(updateURL) || updateURL.includes(url))
         .length > 0
@@ -125,8 +125,8 @@ const BookFetch = forwardRef((props, ref) => {
           onChange(
             fromJS({
               ...books,
-              wishlist: [
-                ...wishlist,
+              wanted: [
+                ...wanted,
                 {
                   book: {
                     title,
@@ -164,7 +164,7 @@ const BookFetch = forwardRef((props, ref) => {
       />
       <p className={styles.statusText}>{message}</p>
       <div className={styles.container}>
-        {wishlist.map(({ book }, index) => {
+        {wanted.map(({ book }, index) => {
           return (
             <motion.div
               key={book.url}

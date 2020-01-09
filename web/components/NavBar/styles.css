@@ -26,6 +26,10 @@
   justify-content: center;
 }
 
+.navLink:hover {
+  color: var(--color-primary);
+}
+
 .navLink:not(:first-child) {
   margin-left: 12px;
 }
