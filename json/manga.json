@@ -1,504 +1,507 @@
 {
-  "books": [
-    {
-      "book": {
-        "title": "五等分の花嫁(9) (講談社コミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/91h%2Bc6zgRQL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/91i4pYLtj0L.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065148790/",
-        "caption": "春場 ねぎ",
-        "imageWidth": 1732,
-        "imageHeight": 2560
+  "books": {
+    "wishlist": [
+      {
+        "book": {
+          "title": "五等分の花嫁(9) (講談社コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91h%2Bc6zgRQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91i4pYLtj0L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065148790/",
+          "caption": "春場 ねぎ",
+          "imageWidth": 1732,
+          "imageHeight": 2560
+        }
+      },
+      {
+        "book": {
+          "title": "五等分の花嫁(11) (講談社コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81oYPbqSlSL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81zUhzJIRoL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065163358/",
+          "caption": "春場 ねぎ",
+          "imageWidth": 1522,
+          "imageHeight": 2260
+        }
+      },
+      {
+        "book": {
+          "title": "五等分の花嫁(12) (講談社コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81XMrSxqZlL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/818cUK3GVyL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065173124/",
+          "caption": "春場 ねぎ",
+          "imageWidth": 1522,
+          "imageHeight": 2247
+        }
+      },
+      {
+        "book": {
+          "title": "五等分の花嫁 13",
+          "imageURLs": [
+            "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000103233.jpg"
+          ],
+          "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=588220",
+          "caption": "講談社 / 春場ねぎ",
+          "imageWidth": 333,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "五等分の花嫁 キャラクターブック 一花 (KCデラックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51czOKaHDtL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065169216/",
+          "caption": "春場 ねぎ",
+          "imageWidth": 330,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "五等分の花嫁 キャラクターブック ニ乃 (KCデラックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51eEqdZad4L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065171644/",
+          "caption": "春場 ねぎ",
+          "imageWidth": 332,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "五等分の花嫁キャラクターブック 三玖",
+          "imageURLs": [
+            "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000103225.jpg"
+          ],
+          "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=588213",
+          "caption": "講談社 / 春場ねぎ",
+          "imageWidth": 333,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "八雲さんは餌づけがしたい。 (8) (ヤングガンガンコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71QxbIZuyfL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4757563159",
+          "caption": "里見U",
+          "imageWidth": 900,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "ダンジョン飯 8巻 (ハルタコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81QwU0R6l3L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047356263/",
+          "caption": "九井 諒子",
+          "imageWidth": 1000,
+          "imageHeight": 1421
+        }
+      },
+      {
+        "book": {
+          "title": "私がモテないのはどう考えてもお前らが悪い! (16) (ガンガンコミックスONLINE)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71M223ATrUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4757563787/",
+          "caption": "谷川 ニコ",
+          "imageWidth": 900,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "川柳少女(11) (講談社コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81XLKQgLayL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71GXoATN9pL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51UYnJBaOgL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065164486/",
+          "caption": "五十嵐 正邦",
+          "imageWidth": 1509,
+          "imageHeight": 2258
+        }
+      },
+      {
+        "book": {
+          "title": "化物語(7) (KCデラックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81ranEFlYIL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81PfmYFch-L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065171660/",
+          "caption": "西尾 維新",
+          "imageWidth": 1687,
+          "imageHeight": 2389
+        }
+      },
+      {
+        "book": {
+          "title": "ギャルごはん 8 (ヤングアニマルコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/811HwczHXhL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71RH-PTvw3L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4592161882/",
+          "caption": "太陽まりい",
+          "imageWidth": 1658,
+          "imageHeight": 2364
+        }
+      },
+      {
+        "book": {
+          "title": "死神坊ちゃんと黒メイド (7) (サンデーうぇぶりSSC)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61QHOfmk7gL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091293573/",
+          "caption": "井上 小春",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "死神坊ちゃんと黒メイド (8) (サンデーうぇぶりSSC)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61fFPcgyi2L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091294278/",
+          "caption": "井上 小春",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "天野めぐみはスキだらけ! (17) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/713FawPL29L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091294316/",
+          "caption": "ねこぐち",
+          "imageWidth": 637,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "天野めぐみはスキだらけ! (18) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71gFPgvX7TL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091295452/",
+          "caption": "ねこぐち",
+          "imageWidth": 637,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "保安官エヴァンスの嘘: ~DEAD OR LOVE~ (9) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71crYLxEPmL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091293352/",
+          "caption": "栗山 ミヅキ",
+          "imageWidth": 635,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "保安官エヴァンスの嘘: ~DEAD OR LOVE~ (10) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61THdd1YG6L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091294553/",
+          "caption": "栗山 ミヅキ",
+          "imageWidth": 636,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "綺麗にしてもらえますか。(4) (ヤングガンガンコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71%2BInWNjfaL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4757564473/",
+          "caption": "はっとりみつる",
+          "imageWidth": 900,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "夫婦以上、恋人未満。 (3) (角川コミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71jlXgZmheL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/716bI%2BXN5pL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71Kcf48%2Bn7L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/404108590X/",
+          "caption": "金丸 祐基",
+          "imageWidth": 1050,
+          "imageHeight": 1495
+        }
+      },
+      {
+        "book": {
+          "title": "なんでここに先生が!?(8) (ヤンマガKCスペシャル)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81OnIARj08L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71RMdAu1AUL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51ddoJWb0TL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41FNsyJw5DL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51iMBbIuTmL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065169828/",
+          "caption": "蘇募 ロウ",
+          "imageWidth": 1690,
+          "imageHeight": 2393
+        }
+      },
+      {
+        "book": {
+          "title": "なんでここに先生が!?(9) (ヤンマガKCスペシャル)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51mWAcKaVCL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51g5qj75WFL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41RphlG4hHL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51Ql8C7NUVL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065178584/",
+          "caption": "蘇募 ロウ",
+          "imageWidth": 348,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "姉なるもの4 (電撃コミックスNEXT)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/815iIbTftQL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4049129876/",
+          "caption": "飯田 ぽち。",
+          "imageWidth": 1546,
+          "imageHeight": 2175
+        }
+      },
+      {
+        "book": {
+          "title": "ぼくたちは勉強ができない 13 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91Z1rPIF0oL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/913ssyiBt7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81-z48dtL7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71mP0lWV3vL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/712Hmywi8VL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088820215/",
+          "caption": "筒井 大志",
+          "imageWidth": 1561,
+          "imageHeight": 2464
+        }
+      },
+      {
+        "book": {
+          "title": "ぼくたちは勉強ができない 14 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/A17F4mkbJSL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/A1WGV3iGyRL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81hCDu96adL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71kfbQ3m0rL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71n7mntUuYL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088820835/",
+          "caption": "筒井 大志",
+          "imageWidth": 1567,
+          "imageHeight": 2474
+        }
+      },
+      {
+        "book": {
+          "title": "ぼくたちは勉強ができない 15 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91PefjjjE1L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/A1UMaZhnvvL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91Vqdk9J4eL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/819MvFHlN9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71xg%2BJi4mjL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71f11w8PsSL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088821734/",
+          "caption": "筒井 大志",
+          "imageWidth": 1566,
+          "imageHeight": 2472
+        }
+      },
+      {
+        "book": {
+          "title": "ヒナまつり 17 (ハルタコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/A1nNDyDXuTL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047356220/",
+          "caption": "大武 政夫",
+          "imageWidth": 1509,
+          "imageHeight": 2152
+        }
+      },
+      {
+        "book": {
+          "title": "ぐらんぶる(14) (アフタヌーンKC)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81ossdYtMxL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81V%2BJHvIIaL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065175577/",
+          "caption": "井上 堅二",
+          "imageWidth": 1680,
+          "imageHeight": 2393
+        }
+      },
+      {
+        "book": {
+          "title": "トニカクカワイイ (7) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61GD0yBNqPL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091293158/",
+          "caption": "畑 健二郎",
+          "imageWidth": 636,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "トニカクカワイイ (8) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/616T-VfjLWL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091294332/",
+          "caption": "畑 健二郎",
+          "imageWidth": 636,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "その着せ替え人形は恋をする(4) (ヤングガンガンコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61Ha-n-gZ3L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4757563558/",
+          "caption": "福田 晋一",
+          "imageWidth": 900,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "古見さんは、コミュ症です。 (14) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71jKxInrUUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091293298/",
+          "caption": "オダ トモヒト",
+          "imageWidth": 637,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "古見さんは、コミュ症です。 (15) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61MJ9S2UC2L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091294413/",
+          "caption": "オダ トモヒト",
+          "imageWidth": 637,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "彼女、お借りします(11) (講談社コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81dD7w8n6IL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71Ht6HPs3qL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065157277/",
+          "caption": "宮島 礼吏",
+          "imageWidth": 1509,
+          "imageHeight": 2290
+        }
+      },
+      {
+        "book": {
+          "title": "彼女、お借りします(12) (講談社コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81taXMa1-QL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71UssI4PstL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065171628/",
+          "caption": "宮島 礼吏",
+          "imageWidth": 1513,
+          "imageHeight": 2238
+        }
+      },
+      {
+        "book": {
+          "title": "彼女、お借りします(13) (講談社コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51lfwVsEXNL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065175461/",
+          "caption": "宮島 礼吏",
+          "imageWidth": 329,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "からかい上手の高木さん (12) (ゲッサン少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61VdIKGbizL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091295266/",
+          "caption": "山本 崇一朗",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "乙嫁語り 12 (ハルタコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/A1-0tcHrVVL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047357979/",
+          "caption": "森 薫",
+          "imageWidth": 1764,
+          "imageHeight": 2508
+        }
       }
-    },
-    {
-      "book": {
-        "title": "五等分の花嫁(11) (講談社コミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/81oYPbqSlSL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/81zUhzJIRoL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065163358/",
-        "caption": "春場 ねぎ",
-        "imageWidth": 1522,
-        "imageHeight": 2260
-      }
-    },
-    {
-      "book": {
-        "title": "五等分の花嫁(12) (講談社コミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/81XMrSxqZlL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/818cUK3GVyL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065173124/",
-        "caption": "春場 ねぎ",
-        "imageWidth": 1522,
-        "imageHeight": 2247
-      }
-    },
-    {
-      "book": {
-        "title": "五等分の花嫁 13",
-        "imageURLs": [
-          "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000103233.jpg"
-        ],
-        "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=588220",
-        "caption": "講談社 / 春場ねぎ",
-        "imageWidth": 333,
-        "imageHeight": 500
-      }
-    },
-    {
-      "book": {
-        "title": "五等分の花嫁 キャラクターブック 一花 (KCデラックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/51czOKaHDtL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065169216/",
-        "caption": "春場 ねぎ",
-        "imageWidth": 330,
-        "imageHeight": 500
-      }
-    },
-    {
-      "book": {
-        "title": "五等分の花嫁 キャラクターブック ニ乃 (KCデラックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/51eEqdZad4L.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065171644/",
-        "caption": "春場 ねぎ",
-        "imageWidth": 332,
-        "imageHeight": 500
-      }
-    },
-    {
-      "book": {
-        "title": "五等分の花嫁キャラクターブック 三玖",
-        "imageURLs": [
-          "https://melonbooks.akamaized.net/user_data/packages/resize_image.php?image=211000103225.jpg"
-        ],
-        "url": "https://www.melonbooks.co.jp/detail/detail.php?product_id=588213",
-        "caption": "講談社 / 春場ねぎ",
-        "imageWidth": 333,
-        "imageHeight": 500
-      }
-    },
-    {
-      "book": {
-        "title": "八雲さんは餌づけがしたい。 (8) (ヤングガンガンコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/71QxbIZuyfL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4757563159",
-        "caption": "里見U",
-        "imageWidth": 900,
-        "imageHeight": 1280
-      }
-    },
-    {
-      "book": {
-        "title": "ダンジョン飯 8巻 (ハルタコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/81QwU0R6l3L.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4047356263/",
-        "caption": "九井 諒子",
-        "imageWidth": 1000,
-        "imageHeight": 1421
-      }
-    },
-    {
-      "book": {
-        "title": "私がモテないのはどう考えてもお前らが悪い! (16) (ガンガンコミックスONLINE)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/71M223ATrUL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4757563787/",
-        "caption": "谷川 ニコ",
-        "imageWidth": 900,
-        "imageHeight": 1280
-      }
-    },
-    {
-      "book": {
-        "title": "川柳少女(11) (講談社コミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/81XLKQgLayL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/71GXoATN9pL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/51UYnJBaOgL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065164486/",
-        "caption": "五十嵐 正邦",
-        "imageWidth": 1509,
-        "imageHeight": 2258
-      }
-    },
-    {
-      "book": {
-        "title": "化物語(7) (KCデラックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/81ranEFlYIL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/81PfmYFch-L.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065171660/",
-        "caption": "西尾 維新",
-        "imageWidth": 1687,
-        "imageHeight": 2389
-      }
-    },
-    {
-      "book": {
-        "title": "ギャルごはん 8 (ヤングアニマルコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/811HwczHXhL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/71RH-PTvw3L.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4592161882/",
-        "caption": "太陽まりい",
-        "imageWidth": 1658,
-        "imageHeight": 2364
-      }
-    },
-    {
-      "book": {
-        "title": "死神坊ちゃんと黒メイド (7) (サンデーうぇぶりSSC)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/61QHOfmk7gL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4091293573/",
-        "caption": "井上 小春",
-        "imageWidth": 706,
-        "imageHeight": 1000
-      }
-    },
-    {
-      "book": {
-        "title": "死神坊ちゃんと黒メイド (8) (サンデーうぇぶりSSC)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/61fFPcgyi2L.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4091294278/",
-        "caption": "井上 小春",
-        "imageWidth": 706,
-        "imageHeight": 1000
-      }
-    },
-    {
-      "book": {
-        "title": "天野めぐみはスキだらけ! (17) (少年サンデーコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/713FawPL29L.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4091294316/",
-        "caption": "ねこぐち",
-        "imageWidth": 637,
-        "imageHeight": 1000
-      }
-    },
-    {
-      "book": {
-        "title": "天野めぐみはスキだらけ! (18) (少年サンデーコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/71gFPgvX7TL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4091295452/",
-        "caption": "ねこぐち",
-        "imageWidth": 637,
-        "imageHeight": 1000
-      }
-    },
-    {
-      "book": {
-        "title": "保安官エヴァンスの嘘: ~DEAD OR LOVE~ (9) (少年サンデーコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/71crYLxEPmL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4091293352/",
-        "caption": "栗山 ミヅキ",
-        "imageWidth": 635,
-        "imageHeight": 1000
-      }
-    },
-    {
-      "book": {
-        "title": "保安官エヴァンスの嘘: ~DEAD OR LOVE~ (10) (少年サンデーコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/61THdd1YG6L.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4091294553/",
-        "caption": "栗山 ミヅキ",
-        "imageWidth": 636,
-        "imageHeight": 1000
-      }
-    },
-    {
-      "book": {
-        "title": "綺麗にしてもらえますか。(4) (ヤングガンガンコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/71%2BInWNjfaL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4757564473/",
-        "caption": "はっとりみつる",
-        "imageWidth": 900,
-        "imageHeight": 1280
-      }
-    },
-    {
-      "book": {
-        "title": "夫婦以上、恋人未満。 (3) (角川コミックス・エース)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/71jlXgZmheL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/716bI%2BXN5pL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/71Kcf48%2Bn7L.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/404108590X/",
-        "caption": "金丸 祐基",
-        "imageWidth": 1050,
-        "imageHeight": 1495
-      }
-    },
-    {
-      "book": {
-        "title": "なんでここに先生が!?(8) (ヤンマガKCスペシャル)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/81OnIARj08L.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/71RMdAu1AUL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/51ddoJWb0TL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/41FNsyJw5DL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/51iMBbIuTmL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065169828/",
-        "caption": "蘇募 ロウ",
-        "imageWidth": 1690,
-        "imageHeight": 2393
-      }
-    },
-    {
-      "book": {
-        "title": "なんでここに先生が!?(9) (ヤンマガKCスペシャル)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/51mWAcKaVCL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/51g5qj75WFL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/41RphlG4hHL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/51Ql8C7NUVL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065178584/",
-        "caption": "蘇募 ロウ",
-        "imageWidth": 348,
-        "imageHeight": 500
-      }
-    },
-    {
-      "book": {
-        "title": "姉なるもの4 (電撃コミックスNEXT)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/815iIbTftQL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4049129876/",
-        "caption": "飯田 ぽち。",
-        "imageWidth": 1546,
-        "imageHeight": 2175
-      }
-    },
-    {
-      "book": {
-        "title": "ぼくたちは勉強ができない 13 (ジャンプコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/91Z1rPIF0oL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/913ssyiBt7L.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/81-z48dtL7L.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/71mP0lWV3vL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/712Hmywi8VL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4088820215/",
-        "caption": "筒井 大志",
-        "imageWidth": 1561,
-        "imageHeight": 2464
-      }
-    },
-    {
-      "book": {
-        "title": "ぼくたちは勉強ができない 14 (ジャンプコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/A17F4mkbJSL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/A1WGV3iGyRL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/81hCDu96adL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/71kfbQ3m0rL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/71n7mntUuYL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4088820835/",
-        "caption": "筒井 大志",
-        "imageWidth": 1567,
-        "imageHeight": 2474
-      }
-    },
-    {
-      "book": {
-        "title": "ぼくたちは勉強ができない 15 (ジャンプコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/91PefjjjE1L.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/A1UMaZhnvvL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/91Vqdk9J4eL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/819MvFHlN9L.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/71xg%2BJi4mjL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/71f11w8PsSL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4088821734/",
-        "caption": "筒井 大志",
-        "imageWidth": 1566,
-        "imageHeight": 2472
-      }
-    },
-    {
-      "book": {
-        "title": "ヒナまつり 17 (ハルタコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/A1nNDyDXuTL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4047356220/",
-        "caption": "大武 政夫",
-        "imageWidth": 1509,
-        "imageHeight": 2152
-      }
-    },
-    {
-      "book": {
-        "title": "ぐらんぶる(14) (アフタヌーンKC)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/81ossdYtMxL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/81V%2BJHvIIaL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065175577/",
-        "caption": "井上 堅二",
-        "imageWidth": 1680,
-        "imageHeight": 2393
-      }
-    },
-    {
-      "book": {
-        "title": "トニカクカワイイ (7) (少年サンデーコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/61GD0yBNqPL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4091293158/",
-        "caption": "畑 健二郎",
-        "imageWidth": 636,
-        "imageHeight": 1000
-      }
-    },
-    {
-      "book": {
-        "title": "トニカクカワイイ (8) (少年サンデーコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/616T-VfjLWL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4091294332/",
-        "caption": "畑 健二郎",
-        "imageWidth": 636,
-        "imageHeight": 1000
-      }
-    },
-    {
-      "book": {
-        "title": "その着せ替え人形は恋をする(4) (ヤングガンガンコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/61Ha-n-gZ3L.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4757563558/",
-        "caption": "福田 晋一",
-        "imageWidth": 900,
-        "imageHeight": 1280
-      }
-    },
-    {
-      "book": {
-        "title": "古見さんは、コミュ症です。 (14) (少年サンデーコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/71jKxInrUUL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4091293298/",
-        "caption": "オダ トモヒト",
-        "imageWidth": 637,
-        "imageHeight": 1000
-      }
-    },
-    {
-      "book": {
-        "title": "古見さんは、コミュ症です。 (15) (少年サンデーコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/61MJ9S2UC2L.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4091294413/",
-        "caption": "オダ トモヒト",
-        "imageWidth": 637,
-        "imageHeight": 1000
-      }
-    },
-    {
-      "book": {
-        "title": "彼女、お借りします(11) (講談社コミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/81dD7w8n6IL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/71Ht6HPs3qL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065157277/",
-        "caption": "宮島 礼吏",
-        "imageWidth": 1509,
-        "imageHeight": 2290
-      }
-    },
-    {
-      "book": {
-        "title": "彼女、お借りします(12) (講談社コミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/81taXMa1-QL.jpg",
-          "https://images-na.ssl-images-amazon.com/images/I/71UssI4PstL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065171628/",
-        "caption": "宮島 礼吏",
-        "imageWidth": 1513,
-        "imageHeight": 2238
-      }
-    },
-    {
-      "book": {
-        "title": "彼女、お借りします(13) (講談社コミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/51lfwVsEXNL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4065175461/",
-        "caption": "宮島 礼吏",
-        "imageWidth": 329,
-        "imageHeight": 500
-      }
-    },
-    {
-      "book": {
-        "title": "からかい上手の高木さん (12) (ゲッサン少年サンデーコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/61VdIKGbizL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4091295266/",
-        "caption": "山本 崇一朗",
-        "imageWidth": 706,
-        "imageHeight": 1000
-      }
-    },
-    {
-      "book": {
-        "title": "乙嫁語り 12 (ハルタコミックス)",
-        "imageURLs": [
-          "https://images-na.ssl-images-amazon.com/images/I/A1-0tcHrVVL.jpg"
-        ],
-        "url": "https://www.amazon.co.jp/dp/4047357979/",
-        "caption": "森 薫",
-        "imageWidth": 1764,
-        "imageHeight": 2508
-      }
-    }
-  ]
+    ],
+    "purchased": []
+  }
 }

@@ -6,6 +6,7 @@ import hentaiBooks from "../../../json/hentai.json";
 
 export default function PageHentai(): ReactElement<void> {
   const { books } = hentaiBooks;
+  const { wishlist } = books;
 
   return (
     <>
@@ -13,7 +14,7 @@ export default function PageHentai(): ReactElement<void> {
         <title>Hentai Wishlist</title>
         <link rel="canonical" href="https://wishlist.noobsaigon.com/h" />
       </Helmet>
-      <CardBookList books={books} />
+      <CardBookList books={wishlist} />
     </>
   );
 }

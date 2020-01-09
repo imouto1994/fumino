@@ -6,6 +6,7 @@ import doujinshiBooks from "../../../json/doujinshi.json";
 
 export default function PageDoujinshi(): ReactElement<void> {
   const { books } = doujinshiBooks;
+  const { wishlist } = books;
 
   return (
     <>
@@ -13,7 +14,7 @@ export default function PageDoujinshi(): ReactElement<void> {
         <title>Doujinshi Wishlist</title>
         <link rel="canonical" href="https://wishlist.noobsaigon.com/d" />
       </Helmet>
-      <CardBookList books={books} />
+      <CardBookList books={wishlist} />
     </>
   );
 }
