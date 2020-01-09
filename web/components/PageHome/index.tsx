@@ -48,7 +48,7 @@ function HomeThumbnail(
   };
 
   return (
-    <Link href={href}>
+    <Link href={`${href}/wanted`}>
       <a onMouseOver={onLinkHover} className={styles.link}>
         <div className={styles.linkBackgroundContainer}>
           <Image

@@ -69,11 +69,11 @@ function NavLink(props: NavLinkProps): ReactElement<NavLinkProps> {
   return (
     <LinkText
       onLinkHover={onLinkHover}
-      href={url}
+      pattern={`${url}/:type`}
+      href={`${url}/wanted`}
       className={styles.navLink}
       classNameActive={styles.navLinkActive}
     >
-      {""}
       <Text weight={700} size={14}>
         {isActive ? title : url}
       </Text>

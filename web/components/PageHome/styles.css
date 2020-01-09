@@ -12,7 +12,6 @@
   flex: 1 0 auto;
   width: 50%;
   color: white;
-  transition: $transitionColor;
   border: none;
 
   &:hover {
@@ -35,6 +34,10 @@
       border-left: var(--color-foreground) 1px solid;
     }
   }
+}
+
+.link:hover {
+  color: var(--color-primary);
 }
 
 .linkBackgroundContainer {

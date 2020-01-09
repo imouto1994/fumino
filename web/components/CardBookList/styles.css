@@ -7,11 +7,7 @@
 .itemWrapper {
   flex: none;
   padding: 8px;
-  width: 100%;
-
-  @media all and (min-width: $mobileLandscape) {
-    width: 50%;
-  }
+  width: 50%;
 
   @media all and (min-width: $tabletLandscape) {
     width: 25%;

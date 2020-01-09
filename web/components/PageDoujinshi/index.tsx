@@ -1,12 +1,14 @@
 import React, { ReactElement } from "react";
 import { Helmet } from "react-helmet-async";
+import { Route, Switch } from "wouter";
 
 import CardBookList from "../CardBookList";
+import Tabs from "../Tabs";
 import doujinshiBooks from "../../../json/doujinshi.json";
 
 export default function PageDoujinshi(): ReactElement<void> {
   const { books } = doujinshiBooks;
-  const { wishlist } = books;
+  const { wanted, purchased } = books;
 
   return (
     <>
@@ -14,7 +16,20 @@ export default function PageDoujinshi(): ReactElement<void> {
         <title>Doujinshi Wishlist</title>
         <link rel="canonical" href="https://wishlist.noobsaigon.com/d" />
       </Helmet>
-      <CardBookList books={wishlist} />
+      <Tabs
+        tabs={[
+          { title: `${wanted.length} Wanted`, url: "/d/wanted" },
+          { title: `${purchased.length} Purchased`, url: "/d/purchased" },
+        ]}
+      />
+      <Switch>
+        <Route path="/d/wanted">
+          <CardBookList books={wanted} />
+        </Route>
+        <Route path="/d/purchased">
+          <CardBookList books={purchased} />
+        </Route>
+      </Switch>
     </>
   );
 }
