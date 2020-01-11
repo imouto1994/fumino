@@ -22,14 +22,16 @@ export default function PageHentai(): ReactElement<void> {
           { title: `${purchased.length} Purchased`, url: "/h/purchased" },
         ]}
       />
-      <Switch>
-        <Route path="/h/wanted">
-          <CardBookList books={wanted} />
-        </Route>
-        <Route path="/h/purchased">
-          <CardBookList books={purchased} />
-        </Route>
-      </Switch>
+      {process.env.BROWSER ? (
+        <Switch>
+          <Route path="/h/wanted">
+            <CardBookList books={wanted} />
+          </Route>
+          <Route path="/h/purchased">
+            <CardBookList books={purchased} />
+          </Route>
+        </Switch>
+      ) : null}
     </>
   );
 }

@@ -1,13 +1,13 @@
 .navBar {
-  display: flex;
   position: absolute;
   top: 0;
+  display: flex;
+  align-items: center;
   width: 100%;
   height: 48px;
+  padding-left: 24px;
   background-color: var(--color-foreground);
   transition: $transitionBackground;
-  align-items: center;
-  padding-left: 24px;
 }
 
 .navIconLink {

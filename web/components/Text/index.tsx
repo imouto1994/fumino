@@ -21,7 +21,7 @@ export default function Text(props: Props): ReactElement<Props> {
     singleline,
     inline,
   } = props;
-  const textClassName = classnames(className, styles.text, {
+  const textClassName = classnames(className, {
     [styles.weightMedium]: weight === 500,
     [styles.weightSemibold]: weight === 600,
     [styles.weightBold]: weight === 700,

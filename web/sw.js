@@ -29,6 +29,6 @@ workbox.routing.registerRoute(
   ({ event }) => event.request.mode === "navigate",
   ({ url }) =>
     fetch(url.href).catch(() =>
-      caches.match(workbox.precaching.getCacheKeyForURL("/layout.html")),
+      caches.match(workbox.precaching.getCacheKeyForURL("/index.html")),
     ),
 );

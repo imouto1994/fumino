@@ -52,7 +52,7 @@ type NavLinkProps = {
 
 function NavLink(props: NavLinkProps): ReactElement<NavLinkProps> {
   const { title, url } = props;
-  const [isActive] = useRoute(url);
+  const [isActive] = useRoute(`${url}/:type?`);
 
   const onLinkHover = (): void => {
     if (url === "/d") {
@@ -69,7 +69,7 @@ function NavLink(props: NavLinkProps): ReactElement<NavLinkProps> {
   return (
     <LinkText
       onLinkHover={onLinkHover}
-      pattern={`${url}/:type`}
+      pattern={`${url}/:type?`}
       href={`${url}/wanted`}
       className={styles.navLink}
       classNameActive={styles.navLinkActive}

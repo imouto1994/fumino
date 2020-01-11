@@ -128,7 +128,7 @@ function ensureDirSync(dirPath) {
     const html = pug.renderFile(
       path.resolve(__dirname, "../../web/index.pug"),
       {
-        appContent,
+        appContent: "",
         helmet: `${helmet.title.toString()}${helmet.meta.toString()}${helmet.link.toString()}`,
         cssInlines,
         jsInlines,
@@ -147,27 +147,6 @@ function ensureDirSync(dirPath) {
       html,
       "utf-8",
     );
-
-    if (url === "/") {
-      const fallbackHTML = pug.renderFile(
-        path.resolve(__dirname, "../../web/index.pug"),
-        {
-          appContent: "",
-          helmet: `${helmet.title.toString()}${helmet.meta.toString()}${helmet.link.toString()}`,
-          cssInlines,
-          jsInlines,
-          jsBundleURLs,
-          requiredChunksID,
-          requiredChunksJSON,
-          swContent,
-        },
-      );
-      fs.writeFileSync(
-        path.resolve(__dirname, `../../build/layout.html`),
-        fallbackHTML,
-        "utf-8",
-      );
-    }
   }
 
   // Generate service worker files
@@ -176,7 +155,7 @@ function ensureDirSync(dirPath) {
     swDest: path.resolve(__dirname, "../../build/sw.js"),
     globDirectory: path.resolve(__dirname, "../../build/"),
     globIgnores: ["**/runtime-*.js"],
-    globPatterns: ["**/*.js", "layout.html", "**/*.css"],
+    globPatterns: ["**/*.js", "index.html", "**/*.css"],
     dontCacheBustURLsMatching: /\.js$/,
   });
 

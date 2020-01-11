@@ -5,6 +5,7 @@ node_modules/
 
 # Cache Files
 .eslintcache
+.stylelintcache
 
 # Local Build folder
 .netlify/
