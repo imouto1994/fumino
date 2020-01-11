@@ -502,6 +502,665 @@
         }
       }
     ],
-    "purchased": []
+    "purchased": [
+      {
+        "book": {
+          "title": "BTOOOM! 01 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51T7G197mhL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107715167/",
+          "caption": "井上 淳哉",
+          "imageWidth": 348,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 02 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/819ouc5hIYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81xuwVT2B7L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/410771537X/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1704,
+          "imageHeight": 2388
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 03 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81%2BzablA60L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/814LUWmFgCL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107715639/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1088,
+          "imageHeight": 1522
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 04 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81TRA7jTpYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81Evpl4xwNL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107715930/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1090,
+          "imageHeight": 1531
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 05 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/519xPylDp1L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107716228/",
+          "caption": "井上 淳哉",
+          "imageWidth": 348,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 6 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51iORO%2BLpmL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107716333/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "ＢＴＯＯＯＭ！  ７ (バンチコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81JFuDGZHiL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81%2BIRUyzv5L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41MeAguogUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107716473/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1129,
+          "imageHeight": 1579
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 08 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51Nd4SZXGrL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107716651/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 09 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51nXZ4BTtBL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107716805/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 10 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51lTYxb9sfL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107716937/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 11 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51Xf1O-wHvL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107717089/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 12 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51465tL92gL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107717186/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 13 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51YTPSzdilL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/410771733X/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 14 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51gZ44w8TCL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107717461/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 15 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81ZkoUJZrQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81%2BiGMT91XL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107717739/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1115,
+          "imageHeight": 1570
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 16 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81Kx3g2MLOL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81IsFfGBFyL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107717941/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1095,
+          "imageHeight": 1527
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 17 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91W0YfUOyVL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91hUpwa5xzL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107718190/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1712,
+          "imageHeight": 2382
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 18 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/5158PAF932L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107718433/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 19 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/510bTdsHn5L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107718719/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 20 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81GhPs2hH8L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81gOCL-Gy3L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107718956/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1095,
+          "imageHeight": 1526
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 21 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71O5eyHSxuL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71nR3yEG0kL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107719189/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1126,
+          "imageHeight": 1572
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 22 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51QBW-eoYWL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107719499/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 23 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81v%2BrLr9T3L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/817ZpQx5AtL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107719804/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1105,
+          "imageHeight": 1533
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 24 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81UKzipJZ7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81v%2BEFkcnUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/410772011X/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1105,
+          "imageHeight": 1533
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 26 Dark真実編 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71w0Hu0n0gL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/713sA7kuVeL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107721108/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1135,
+          "imageHeight": 1570
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 26 Light友情編 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71lLrcj4PML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/719TTTcJmOL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107721094/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1115,
+          "imageHeight": 1564
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 1 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71EXflKxkML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71YbL57xH9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41k2KCAl7fL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088704541/",
+          "caption": "古味 直志",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 2 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71yAf1HZ8NL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088704703/",
+          "caption": "古味 直志",
+          "imageWidth": 761,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 3 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/719cMtUAbkL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71TcVcTksFL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088705033/",
+          "caption": "古味 直志",
+          "imageWidth": 758,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 4 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/710lsRwGj5L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71Tn57ovpnL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41jJH6fJsoL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088705386/",
+          "caption": "古味 直志",
+          "imageWidth": 756,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 5 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71YVYV51SaL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/7196ICscOfL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41331cjjlkL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088706021/",
+          "caption": "古味 直志",
+          "imageWidth": 765,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 6 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/7131YmRhpJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/713C3aFmrcL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41nT%2BzA6v1L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088706307/",
+          "caption": "古味 直志",
+          "imageWidth": 756,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 7 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71eALnZZpKL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71FW0bkB5aL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41APnAGXtUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/408870665X/",
+          "caption": "古味 直志",
+          "imageWidth": 758,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 8 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/712ZIQkq02L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/716D-x9NO2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41WvSuMjbpL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088708059/",
+          "caption": "古味 直志",
+          "imageWidth": 758,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 9 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71pVJ%2BtQkjL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71Rq2OV-YUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088708385/",
+          "caption": "古味 直志",
+          "imageWidth": 759,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 10 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71swx-VdNDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71jhrc0oiNL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41aitT3s2uL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088708903/",
+          "caption": "古味 直志",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 11 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71hG8D0fZ7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71SMAT1H8fL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088800265/",
+          "caption": "古味 直志",
+          "imageWidth": 764,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 12 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71PpRKWsXsL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71bDs1yl72L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41tTID7MXEL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088800583/",
+          "caption": "古味 直志",
+          "imageWidth": 777,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 13 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71tCEuMHIXL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71r%2B6ELvGJL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088801520/",
+          "caption": "古味 直志",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 14 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71EuH7p7qeL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71sR9PVrC%2BL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/408880192X/",
+          "caption": "古味 直志",
+          "imageWidth": 763,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 15 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71MYRgrdS2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71qlux2NmxL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088802225/",
+          "caption": "古味 直志",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 16 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71aqAnKbiwL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71HKXosHteL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41fpLIriIUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088803035/",
+          "caption": "古味 直志",
+          "imageWidth": 762,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 17 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71jAuYF7MBL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71IAEsF7QpL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/418SW9v-ATL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088803302/",
+          "caption": "古味 直志",
+          "imageWidth": 759,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 18 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71FTvSoX8fL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71eKOkB9cFL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088803663/",
+          "caption": "古味 直志",
+          "imageWidth": 745,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 19 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71AwiOu0vNL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71AKr6uPLSL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088804465/",
+          "caption": "古味 直志",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 20 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71I%2BGFbJaEL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/408880483X/",
+          "caption": "古味 直志",
+          "imageWidth": 756,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 21 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/718FmUQcIqL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71bK1TwRM5L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088805801/",
+          "caption": "古味 直志",
+          "imageWidth": 755,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 22 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71wHVG6NzhL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71sf0YUBpCL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088806506/",
+          "caption": "古味 直志",
+          "imageWidth": 755,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 23 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71RDjJBWaEL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81XzGl10qXL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088807170/",
+          "caption": "古味 直志",
+          "imageWidth": 758,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 24 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71NsZrn3DSL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088807499/",
+          "caption": "古味 直志",
+          "imageWidth": 761,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 25 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71hkXhq0JYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/718bT%2BEoFGL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088808053/",
+          "caption": "古味 直志",
+          "imageWidth": 769,
+          "imageHeight": 1200
+        }
+      }
+    ]
   }
 }
