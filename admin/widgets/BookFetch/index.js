@@ -1,6 +1,7 @@
 import React, { forwardRef, useState } from "react";
 import { fromJS } from "immutable";
 import { motion } from "framer-motion";
+import ContentEditable from "react-contenteditable";
 
 import styles from "./styles.css";
 
@@ -14,6 +15,14 @@ const ALLOWED_HOSTNAMES = [
   "www.dmm.co.jp",
   "www.melonbooks.co.jp",
 ];
+const ALLOWED_IMAGE_HOST_NAMES = [
+  "ecdnimg.toranoana.jp",
+  "img.mandarake.co.jp",
+  "images-na.ssl-images-amazon.com",
+  "melonbooks.akamaized.net",
+  "doujin-assets.dmm.co.jp",
+  "i.imgur.com",
+];
 
 const spring = {
   type: "spring",
@@ -22,12 +31,19 @@ const spring = {
 };
 
 const BookFetch = forwardRef((props, ref) => {
+  const [isWantedSelected, setIsWantedSelected] = useState(true);
   const [selectedIndices, setSelectedIndices] = useState([]);
   const [text, setText] = useState("");
   const [message, setMessage] = useState("");
   const { value, onChange } = props;
   const books = value.toJS();
-  const { wanted } = books;
+  const { wanted, purchased } = books;
+  const displayedBooks = isWantedSelected ? wanted : purchased;
+
+  const onListToggleButtonClick = () => {
+    setSelectedIndices([]);
+    setIsWantedSelected(!isWantedSelected);
+  };
 
   const onImageClick = (e, index) => {
     if (selectedIndices.length === 0) {
@@ -42,14 +58,14 @@ const BookFetch = forwardRef((props, ref) => {
       if (selectedIndices.includes(index)) {
         setSelectedIndices([]);
       } else {
-        const indexBook = wanted[index];
-        const selectedBooks = wanted.filter((book, i) =>
+        const indexBook = displayedBooks[index];
+        const selectedBooks = displayedBooks.filter((book, i) =>
           selectedIndices.includes(i),
         );
-        const preSelectedBooks = wanted.filter(
+        const preSelectedBooks = displayedBooks.filter(
           (book, i) => i < index && !selectedIndices.includes(i),
         );
-        const postSelectedBooks = wanted.filter(
+        const postSelectedBooks = displayedBooks.filter(
           (book, i) => i > index && !selectedIndices.includes(i),
         );
         const updatedBooks = [
@@ -59,7 +75,11 @@ const BookFetch = forwardRef((props, ref) => {
           ...postSelectedBooks,
         ];
         setSelectedIndices([]);
-        onChange(fromJS({ ...books, wanted: updatedBooks }));
+        if (isWantedSelected) {
+          onChange(fromJS({ ...books, wanted: updatedBooks }));
+        } else {
+          onChange(fromJS({ ...books, purchased: updatedBooks }));
+        }
       }
     }
   };
@@ -67,7 +87,7 @@ const BookFetch = forwardRef((props, ref) => {
   const onDeleteButtonClick = (e, index) => {
     e.preventDefault();
     e.stopPropagation();
-    const updatedBooks = [...wanted];
+    const updatedBooks = [...displayedBooks];
     updatedBooks.splice(index, 1);
     setSelectedIndices(
       selectedIndices
@@ -82,7 +102,43 @@ const BookFetch = forwardRef((props, ref) => {
         })
         .filter(i => i != null),
     );
-    onChange(fromJS({ ...books, wanted: updatedBooks }));
+    if (isWantedSelected) {
+      onChange(fromJS({ ...books, wanted: updatedBooks }));
+    } else {
+      onChange(fromJS({ ...books, purchased: updatedBooks }));
+    }
+  };
+
+  const onStatusUpdateButtonClick = (e, index) => {
+    e.preventDefault();
+    e.stopPropagation();
+    const updatedBook = displayedBooks[index];
+    const updatedBooks = [...displayedBooks];
+    const otherBooks = [...(isWantedSelected ? purchased : wanted)];
+    otherBooks.push(updatedBook);
+    updatedBooks.splice(index, 1);
+    setSelectedIndices(
+      selectedIndices
+        .map(i => {
+          if (i < index) {
+            return i;
+          } else if (i === index) {
+            return null;
+          } else {
+            return i - 1;
+          }
+        })
+        .filter(i => i != null),
+    );
+    if (isWantedSelected) {
+      onChange(
+        fromJS({ ...books, wanted: updatedBooks, purchased: otherBooks }),
+      );
+    } else {
+      onChange(
+        fromJS({ ...books, purchased: updatedBooks, wanted: otherBooks }),
+      );
+    }
   };
 
   const onInputChange = e => {
@@ -105,7 +161,7 @@ const BookFetch = forwardRef((props, ref) => {
     }
 
     if (
-      wanted
+      displayedBooks
         .map(({ book }) => book.url)
         .filter(url => url.includes(updateURL) || updateURL.includes(url))
         .length > 0
@@ -125,8 +181,8 @@ const BookFetch = forwardRef((props, ref) => {
           onChange(
             fromJS({
               ...books,
-              wanted: [
-                ...wanted,
+              [isWantedSelected ? "wanted" : "purchased"]: [
+                ...displayedBooks,
                 {
                   book: {
                     title,
@@ -140,6 +196,7 @@ const BookFetch = forwardRef((props, ref) => {
               ],
             }),
           );
+
           setMessage("");
           setText("");
         };
@@ -153,47 +210,178 @@ const BookFetch = forwardRef((props, ref) => {
       });
   };
 
+  const onTitleChange = (e, index) => {
+    const updatedBooks = [...displayedBooks];
+    const updatedBook = {
+      book: {
+        ...updatedBooks[index].book,
+        title: e.target.value,
+      },
+    };
+    updatedBooks[index] = updatedBook;
+    onChange(
+      fromJS({
+        ...books,
+        [isWantedSelected ? "wanted" : "purchased"]: updatedBooks,
+      }),
+    );
+  };
+
+  const onCaptionChange = (e, index) => {
+    const updatedBooks = [...displayedBooks];
+    const updatedBook = {
+      book: {
+        ...updatedBooks[index].book,
+        caption: e.target.value,
+      },
+    };
+    updatedBooks[index] = updatedBook;
+    onChange(
+      fromJS({
+        ...books,
+        [isWantedSelected ? "wanted" : "purchased"]: updatedBooks,
+      }),
+    );
+  };
+
+  const onThumbnailURLChange = (e, index) => {
+    const newImageURL = e.target.value;
+    console.log("WTF", e.target.value);
+    let hostname;
+    try {
+      hostname = new URL(newImageURL).hostname;
+    } catch (error) {
+      // Fail silently
+      setMessage(`Failed to parse thumbnail URL: ${newImageURL}`);
+      return;
+    }
+
+    if (ALLOWED_IMAGE_HOST_NAMES.includes(hostname)) {
+      return;
+    }
+
+    setMessage("Uploading image to IMGUR...");
+    fetch("/.netlify/functions/imgur", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ imageURL: newImageURL }),
+    })
+      .then(response => response.json())
+      .then(body => {
+        const {
+          data: { link },
+        } = body;
+        const img = new Image();
+        setMessage("Scraping new book IMGUR thumbnail data...");
+        img.onload = function() {
+          const updatedBooks = [...displayedBooks];
+          const imageURLs = updatedBooks[index].book.imageURLs;
+          imageURLs.shift();
+          const updatedBook = {
+            book: {
+              ...updatedBooks[index].book,
+              imageURLs: [link, ...imageURLs],
+              imageWidth: this.width,
+              imageHeight: this.height,
+            },
+          };
+          updatedBooks[index] = updatedBook;
+          onChange(
+            fromJS({
+              ...books,
+              [isWantedSelected ? "wanted" : "purchased"]: updatedBooks,
+            }),
+          );
+          setMessage("");
+        };
+        img.onerror = function() {
+          setMessage("Failed to fetch new book IMGUR thumbnail");
+        };
+        img.src = link;
+      })
+      .catch(error => {
+        setMessage("Failed to upload image to IMGUR");
+      });
+  };
+
   return (
     <>
-      <input
-        ref={ref}
-        type="text"
-        value={text}
-        className={styles.input}
-        onChange={onInputChange}
-      />
-      <p className={styles.statusText}>{message}</p>
-      <div className={styles.container}>
-        {wanted.map(({ book }, index) => {
-          return (
-            <motion.div
-              key={book.url}
-              className={styles.item}
-              layoutTransition={spring}
-            >
-              <div
-                className={styles.imageImageWrapper}
-                onClick={e => onImageClick(e, index)}
-                style={{
-                  paddingTop: `${(book.imageHeight / book.imageWidth) * 100}%`,
-                }}
+      <div className={styles.wrapper} ref={ref}>
+        <div className={styles.inputContainer}>
+          <input
+            type="text"
+            value={text}
+            className={styles.input}
+            onChange={onInputChange}
+          />
+          <button
+            className={styles.listToggleButton}
+            onClick={onListToggleButtonClick}
+          >
+            {isWantedSelected
+              ? `${wanted.length} Wanted`
+              : `${purchased.length} Purchased`}
+          </button>
+        </div>
+        <p className={styles.statusText}>{message}</p>
+        <div className={styles.container}>
+          {displayedBooks.map(({ book }, index) => {
+            return (
+              <motion.div
+                key={book.url}
+                className={styles.item}
+                layoutTransition={spring}
               >
-                {selectedIndices.includes(index) ? (
-                  <div className={styles.itemOverlay} />
-                ) : null}
-                <img src={book.imageURLs[0]} className={styles.itemImage} />
-                {selectedIndices.includes(index) ? (
-                  <button
-                    className={styles.itemDeleteButton}
-                    onClick={e => onDeleteButtonClick(e, index)}
-                  >
-                    D
-                  </button>
-                ) : null}
-              </div>
-            </motion.div>
-          );
-        })}
+                <div
+                  className={styles.imageImageWrapper}
+                  onClick={e => onImageClick(e, index)}
+                  style={{
+                    paddingTop: `${(book.imageHeight / book.imageWidth) *
+                      100}%`,
+                  }}
+                >
+                  {selectedIndices.includes(index) ? (
+                    <div className={styles.itemOverlay} />
+                  ) : null}
+                  <img src={book.imageURLs[0]} className={styles.itemImage} />
+                  {selectedIndices.includes(index) ? (
+                    <button
+                      className={styles.itemDeleteButton}
+                      onClick={e => onDeleteButtonClick(e, index)}
+                    >
+                      X
+                    </button>
+                  ) : null}
+                  {selectedIndices.includes(index) ? (
+                    <button
+                      className={styles.itemStatusUpdateButton}
+                      onClick={e => onStatusUpdateButtonClick(e, index)}
+                    >
+                      {isWantedSelected ? "PURCHASED?" : "WANTED?"}
+                    </button>
+                  ) : null}
+                </div>
+                <ContentEditable
+                  className={styles.itemTitle}
+                  html={book.title}
+                  onChange={e => onTitleChange(e, index)}
+                />
+                <ContentEditable
+                  className={styles.itemCaption}
+                  html={book.caption}
+                  onChange={e => onCaptionChange(e, index)}
+                />
+                <ContentEditable
+                  className={styles.itemThumbnail}
+                  html={book.imageURLs[0]}
+                  onChange={e => onThumbnailURLChange(e, index)}
+                />
+              </motion.div>
+            );
+          })}
+        </div>
       </div>
     </>
   );
