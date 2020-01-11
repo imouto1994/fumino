@@ -153,3 +153,7 @@
 .itemCaption:focus {
   outline: none;
 }
+
+.itemThumbnail:focus {
+  outline: none;
+}
