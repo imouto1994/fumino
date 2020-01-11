@@ -1,11 +1,18 @@
 import styles from "./styles.css";
 
-import React, { ReactElement, useState } from "react";
+import React, {
+  ReactElement,
+  CSSProperties,
+  useState,
+  useEffect,
+  useRef,
+} from "react";
+import { WindowScroller, List } from "react-virtualized";
 
-import Lazy from "../Lazy";
 import CardBook from "../CardBook";
 import BookPreview from "../BookPreview";
 import { Book } from "../../data/book";
+import styleConstants from "../../styles.json";
 
 type Props = {
   books: { book: Book }[];
@@ -14,6 +21,29 @@ type Props = {
 export default function CardBookList(props: Props): ReactElement<Props> {
   const { books } = props;
   const [previewedBook, setPreviewedBook] = useState<Book | null>(null);
+  const [windowWidth, setWindowWidth] = useState<number>(window.innerWidth);
+  const listRef = useRef<List>(null);
+
+  useEffect((): (() => void) => {
+    function handleResize(): void {
+      setWindowWidth(window.innerWidth);
+      if (listRef.current != null) {
+        listRef.current.recomputeRowHeights();
+      }
+    }
+
+    window.addEventListener("resize", handleResize);
+    return (): void => window.removeEventListener("resize", handleResize);
+  }, []); // eslint-disable-line react-hooks/exhaustive-deps
+
+  let numItemsPerRow = 2;
+  if (windowWidth >= parseInt(styleConstants.tabletLandscape, 10)) {
+    numItemsPerRow = 4;
+  } else if (windowWidth >= parseInt(styleConstants.tabletLandscape, 10)) {
+    numItemsPerRow = 5;
+  } else if (windowWidth > 2000) {
+    numItemsPerRow = 8;
+  }
 
   const onBookPreview = (book: Book): void => {
     setPreviewedBook(book);
@@ -23,31 +53,69 @@ export default function CardBookList(props: Props): ReactElement<Props> {
     setPreviewedBook(null);
   };
 
+  const renderRow = ({
+    index,
+    key,
+    style,
+  }: {
+    index: number;
+    key: string;
+    style: CSSProperties;
+  }): ReactElement => {
+    const filteredBooks = books.filter(
+      (_, i) => Math.floor(i / numItemsPerRow) === index,
+    );
+    return (
+      <div style={style} key={key} className={styles.row}>
+        {filteredBooks.map(({ book }) => (
+          <div
+            className={styles.itemWrapper}
+            style={{ width: `${100 / numItemsPerRow}%` }}
+            key={book.url}
+          >
+            <CardBook
+              className={styles.item}
+              book={book}
+              onBookPreview={onBookPreview}
+            />
+          </div>
+        ))}
+      </div>
+    );
+  };
+
+  const getRowHeight = ({ index }: { index: number }): number => {
+    const filteredBooks = books.filter(
+      (_, i) => Math.floor(i / numItemsPerRow) === index,
+    );
+    const maxRatio = filteredBooks.reduce(
+      (maxRatio, { book }) =>
+        Math.max(maxRatio, book.imageHeight / book.imageWidth),
+      0,
+    );
+
+    return (windowWidth / numItemsPerRow - 8 * 2) * maxRatio + 61 + 16;
+  };
+
   return (
     <div className={styles.list}>
-      {books.map(({ book }, index) => {
-        const cardBookElement = (
-          <CardBook
-            className={styles.item}
-            book={book}
-            onBookPreview={onBookPreview}
-          />
-        );
-
-        if (index < 8) {
-          return (
-            <div className={styles.itemWrapper} key={index}>
-              {cardBookElement}
-            </div>
-          );
-        } else {
-          return (
-            <Lazy className={styles.itemWrapper} key={index}>
-              {cardBookElement}
-            </Lazy>
-          );
-        }
-      })}
+      <WindowScroller>
+        {({ height, scrollTop, registerChild }): ReactElement => (
+          <div ref={registerChild}>
+            <List
+              ref={listRef}
+              autoHeight
+              height={height}
+              width={windowWidth}
+              scrollTop={scrollTop}
+              rowHeight={getRowHeight}
+              rowRenderer={renderRow}
+              rowCount={Math.ceil(books.length / numItemsPerRow)}
+              overscanRowCount={2}
+            />
+          </div>
+        )}
+      </WindowScroller>
       {previewedBook != null ? (
         <BookPreview
           book={previewedBook}

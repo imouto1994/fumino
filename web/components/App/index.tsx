@@ -42,22 +42,22 @@ export default function App(): ReactElement<void> {
           {theme === "dark" ? "🌝" : "🌚"}
         </button>
         <Switch>
-          <Route path="/d/:type">
+          <Route path="/d/:type?">
             <div className={styles.routeWishlist}>
               <PageDoujinshiLoadable />
             </div>
           </Route>
-          <Route path="/h/:type">
+          <Route path="/h/:type?">
             <div className={styles.routeWishlist}>
               <PageHentaiLoadable />
             </div>
           </Route>
-          <Route path="/m/:type">
+          <Route path="/m/:type?">
             <div className={styles.routeWishlist}>
               <PageMangaLoadable />
             </div>
           </Route>
-          <Route path="/di/:type">
+          <Route path="/di/:type?">
             <div className={styles.routeWishlist}>
               <PageDigitalLoadable />
             </div>

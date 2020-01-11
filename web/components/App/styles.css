@@ -28,8 +28,8 @@
 
 .container {
   display: flex;
-  flex-flow: column nowrap;
   flex: 1;
+  flex-flow: column nowrap;
   color: var(--color-text);
   background-color: var(--color-background);
   transition: $transitionColor, $transitionBackground;
@@ -39,17 +39,17 @@
   position: absolute;
   top: 0;
   right: 0;
-  font-size: 20px;
+  z-index: 1;
   margin-top: 12px;
   margin-right: 16px;
-  z-index: 1;
+  font-size: 20px;
 }
 
 .routeWishlist {
   display: flex;
   flex: 1;
   flex-flow: column nowrap;
-  padding: 48px 12px 64px;
+  padding: 48px 0 64px;
 }
 
 .routeHome {

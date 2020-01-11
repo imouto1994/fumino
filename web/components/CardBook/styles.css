@@ -1,7 +1,7 @@
 .container {
   display: flex;
-  height: 100%;
   flex-flow: column nowrap;
+  height: 100%;
 }
 
 .thumbnail {
@@ -37,14 +37,14 @@
 }
 
 .text {
-  flex: 0 1 auto;
   display: block;
+  flex: 0 1 auto;
 }
 
 .textTitleAnchor {
+  display: inline-block;
   max-width: 100%;
   overflow: hidden;
-  display: inline-block;
 }
 
 .textCaption {

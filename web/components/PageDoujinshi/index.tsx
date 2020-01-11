@@ -22,14 +22,16 @@ export default function PageDoujinshi(): ReactElement<void> {
           { title: `${purchased.length} Purchased`, url: "/d/purchased" },
         ]}
       />
-      <Switch>
-        <Route path="/d/wanted">
-          <CardBookList books={wanted} />
-        </Route>
-        <Route path="/d/purchased">
-          <CardBookList books={purchased} />
-        </Route>
-      </Switch>
+      {process.env.BROWSER ? (
+        <Switch>
+          <Route path="/d/wanted">
+            <CardBookList books={wanted} />
+          </Route>
+          <Route path="/d/purchased">
+            <CardBookList books={purchased} />
+          </Route>
+        </Switch>
+      ) : null}
     </>
   );
 }

@@ -1,15 +1,15 @@
 .container {
-  flex: 1;
   display: flex;
+  flex: 1;
   flex-flow: row wrap;
 }
 
 .link {
-  display: flex;
   position: relative;
+  display: flex;
+  flex: 1 0 auto;
   align-items: center;
   justify-content: center;
-  flex: 1 0 auto;
   width: 50%;
   color: white;
   border: none;
@@ -36,18 +36,14 @@
   }
 }
 
-.link:hover {
-  color: var(--color-primary);
-}
-
 .linkBackgroundContainer {
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: var(--color-foreground);
   z-index: 1;
+  background-color: var(--color-foreground);
 }
 
 .linkBackground {
@@ -62,9 +58,9 @@
   right: 0;
   bottom: 0;
   left: 0;
+  z-index: 2;
   background: black;
   opacity: 0.4;
-  z-index: 2;
 }
 
 .linkOverlayHidden {

@@ -9,6 +9,26 @@
   status = 200
 
 [[redirects]]
+  from = "/d/*"
+  to = "/d/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/h/*"
+  to = "/h/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/m/*"
+  to = "/m/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/di/*"
+  to = "/di/index.html"
+  status = 200
+
+[[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200

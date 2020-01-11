@@ -1,17 +1,17 @@
 .tabs {
   display: flex;
   align-items: center;
-  border: 1px solid var(--color-primary);
-  border-radius: 16px;
   margin: 8px;
   overflow: hidden;
+  border: 1px solid var(--color-primary);
+  border-radius: 16px;
 }
 
 .tab {
   flex: 1;
-  text-align: center;
   padding: 4px 12px;
   color: var(--color-primary);
+  text-align: center;
 }
 
 .tab:not(:first-child) {
@@ -19,6 +19,6 @@
 }
 
 .tabActive {
-  background-color: var(--color-primary);
   color: white;
+  background-color: var(--color-primary);
 }

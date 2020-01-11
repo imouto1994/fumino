@@ -1,5 +1,5 @@
 const browserslist = require("./browserslist");
-const constants = require("./web/styles");
+const constants = require("./web/styles.json");
 
 module.exports = () => ({
   plugins: [

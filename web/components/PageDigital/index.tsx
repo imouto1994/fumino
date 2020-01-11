@@ -22,14 +22,16 @@ export default function PageManga(): ReactElement<void> {
           { title: `${purchased.length} Purchased`, url: "/di/purchased" },
         ]}
       />
-      <Switch>
-        <Route path="/di/wanted">
-          <CardBookList books={wanted} />
-        </Route>
-        <Route path="/di/purchased">
-          <CardBookList books={purchased} />
-        </Route>
-      </Switch>
+      {process.env.BROWSER ? (
+        <Switch>
+          <Route path="/di/wanted">
+            <CardBookList books={wanted} />
+          </Route>
+          <Route path="/di/purchased">
+            <CardBookList books={purchased} />
+          </Route>
+        </Switch>
+      ) : null}
     </>
   );
 }
