@@ -1,9 +1,69 @@
+.wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  flex-flow: column nowrap;
+  background: white;
+}
+
+.inputContainer {
+  position: relative;
+  width: 90%;
+  margin: 16px auto 0;
+}
+
+.input {
+  display: block;
+  width: 100%;
+  padding: 16px 20px;
+  border: solid 2px #dfdfe3;
+  border-radius: 5px;
+  border-top-left-radius: 0;
+  outline: 0;
+  box-shadow: none;
+  background-color: white;
+  color: #444a57;
+  transition: border-color 0.2s ease;
+  font-size: 15px;
+  line-height: 1.5;
+  z-index: 2;
+}
+
+.input:focus,
+.input:active {
+  border-color: #3a69c7;
+}
+
+.listToggleButton {
+  position: absolute;
+  top: 0;
+  right: 8px;
+  bottom: 0;
+  margin: auto;
+  height: 36px;
+  -webkit-appearance: none;
+  background-color: rgb(232, 245, 254);
+  color: rgb(58, 105, 199);
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.statusText {
+  margin-top: 8px;
+  margin-left: 5%;
+}
+
 .container {
   display: flex;
   position: relative;
   flex-flow: row wrap;
   align-items: stretch;
   z-index: 1;
+  overflow: auto;
 }
 
 .item {
@@ -11,8 +71,7 @@
   flex: none;
   display: flex;
   flex-flow: column nowrap;
-  justify-content: space-between;
-  width: 25%;
+  width: 12.5%;
   margin-top: 8px;
   padding: 0 4px;
   cursor: pointer;
@@ -50,8 +109,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  top: -6px;
-  right: -6px;
+  top: 4px;
+  right: 4px;
   -webkit-appearance: none;
   width: 24px;
   height: 24px;
@@ -63,31 +122,34 @@
   z-index: 3;
 }
 
-.input {
-  position: sticky;
-  top: 0;
-  display: block;
+.itemStatusUpdateButton {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  bottom: 0;
   width: 100%;
-  padding: 16px 20px;
-  margin: 0;
-  border: solid 2px #dfdfe3;
-  border-radius: 5px;
-  border-top-left-radius: 0;
-  outline: 0;
-  box-shadow: none;
-  background-color: white;
-  color: #444a57;
-  transition: border-color 0.2s ease;
-  font-size: 15px;
-  line-height: 1.5;
-  z-index: 2;
+  -webkit-appearance: none;
+  height: 24px;
+  cursor: pointer;
+  background: rgb(23, 162, 184);
+  border: none;
+  color: white;
+  z-index: 3;
 }
 
-.input:focus,
-.input:active {
-  border-color: #3a69c7;
+.itemTitle {
+  color: rgb(58, 105, 199);
 }
 
-.statusText {
-  margin-top: 8px;
+.itemTitle:focus {
+  outline: none;
+}
+
+.itemCaption {
+  color: rgb(23, 162, 184);
+}
+
+.itemCaption:focus {
+  outline: none;
 }
