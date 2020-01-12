@@ -245,8 +245,8 @@ const BookFetch = forwardRef((props, ref) => {
   };
 
   const onThumbnailURLChange = (e, index) => {
-    const newImageURL = e.target.value;
-    console.log("WTF", e.target.value);
+    e.preventDefault();
+    const newImageURL = event.clipboardData.getData("text/plain");
     let hostname;
     try {
       hostname = new URL(newImageURL).hostname;
@@ -376,7 +376,7 @@ const BookFetch = forwardRef((props, ref) => {
                 <ContentEditable
                   className={styles.itemThumbnail}
                   html={book.imageURLs[0]}
-                  onChange={e => onThumbnailURLChange(e, index)}
+                  onPaste={e => onThumbnailURLChange(e, index)}
                 />
               </motion.div>
             );
