@@ -246,7 +246,7 @@ const BookFetch = forwardRef((props, ref) => {
 
   const onThumbnailURLChange = (e, index) => {
     e.preventDefault();
-    const newImageURL = event.clipboardData.getData("text/plain");
+    const newImageURL = e.target.value;
     let hostname;
     try {
       hostname = new URL(newImageURL).hostname;
@@ -257,6 +257,33 @@ const BookFetch = forwardRef((props, ref) => {
     }
 
     if (ALLOWED_IMAGE_HOST_NAMES.includes(hostname)) {
+      const img = new Image();
+      setMessage("Scraping new book IMGUR thumbnail data...");
+      img.onload = function() {
+        const updatedBooks = [...displayedBooks];
+        const imageURLs = [...updatedBooks[index].book.imageURLs];
+        imageURLs.shift();
+        const updatedBook = {
+          book: {
+            ...updatedBooks[index].book,
+            imageURLs: [newImageURL, ...imageURLs],
+            imageWidth: this.width,
+            imageHeight: this.height,
+          },
+        };
+        updatedBooks[index] = updatedBook;
+        onChange(
+          fromJS({
+            ...books,
+            [isWantedSelected ? "wanted" : "purchased"]: updatedBooks,
+          }),
+        );
+        setMessage("");
+      };
+      img.onerror = function() {
+        setMessage("Failed to fetch new book IMGUR thumbnail");
+      };
+      img.src = newImageURL;
       return;
     }
 
@@ -373,10 +400,10 @@ const BookFetch = forwardRef((props, ref) => {
                   html={book.caption}
                   onChange={e => onCaptionChange(e, index)}
                 />
-                <ContentEditable
+                <input
                   className={styles.itemThumbnail}
-                  html={book.imageURLs[0]}
-                  onPaste={e => onThumbnailURLChange(e, index)}
+                  value={book.imageURLs[0]}
+                  onChange={e => onThumbnailURLChange(e, index)}
                 />
               </motion.div>
             );

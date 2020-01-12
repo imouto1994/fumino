@@ -502,6 +502,2945 @@
         }
       }
     ],
-    "purchased": []
+    "purchased": [
+      {
+        "book": {
+          "title": "BTOOOM! 01 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51T7G197mhL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107715167/",
+          "caption": "井上 淳哉",
+          "imageWidth": 348,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 02 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/819ouc5hIYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81xuwVT2B7L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/410771537X/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1704,
+          "imageHeight": 2388
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 03 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81%2BzablA60L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/814LUWmFgCL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107715639/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1088,
+          "imageHeight": 1522
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 04 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81TRA7jTpYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81Evpl4xwNL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107715930/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1090,
+          "imageHeight": 1531
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 05 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/519xPylDp1L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107716228/",
+          "caption": "井上 淳哉",
+          "imageWidth": 348,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 6 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51iORO%2BLpmL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107716333/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "ＢＴＯＯＯＭ！  ７ (バンチコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81JFuDGZHiL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81%2BIRUyzv5L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41MeAguogUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107716473/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1129,
+          "imageHeight": 1579
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 08 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51Nd4SZXGrL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107716651/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 09 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51nXZ4BTtBL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107716805/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 10 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51lTYxb9sfL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107716937/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 11 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51Xf1O-wHvL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107717089/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 12 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51465tL92gL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107717186/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 13 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51YTPSzdilL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/410771733X/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 14 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51gZ44w8TCL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107717461/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 15 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81ZkoUJZrQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81%2BiGMT91XL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107717739/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1115,
+          "imageHeight": 1570
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 16 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81Kx3g2MLOL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81IsFfGBFyL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107717941/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1095,
+          "imageHeight": 1527
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 17 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91W0YfUOyVL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91hUpwa5xzL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107718190/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1712,
+          "imageHeight": 2382
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 18 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/5158PAF932L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107718433/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 19 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/510bTdsHn5L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107718719/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 20 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81GhPs2hH8L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81gOCL-Gy3L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107718956/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1095,
+          "imageHeight": 1526
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 21 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71O5eyHSxuL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71nR3yEG0kL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107719189/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1126,
+          "imageHeight": 1572
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 22 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51QBW-eoYWL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107719499/",
+          "caption": "井上 淳哉",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 23 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81v%2BrLr9T3L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/817ZpQx5AtL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107719804/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1105,
+          "imageHeight": 1533
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 24 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81UKzipJZ7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81v%2BEFkcnUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/410772011X/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1105,
+          "imageHeight": 1533
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 26 Dark真実編 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71w0Hu0n0gL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/713sA7kuVeL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107721108/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1135,
+          "imageHeight": 1570
+        }
+      },
+      {
+        "book": {
+          "title": "BTOOOM! 26 Light友情編 (BUNCH COMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71lLrcj4PML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/719TTTcJmOL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4107721094/",
+          "caption": "井上 淳哉",
+          "imageWidth": 1115,
+          "imageHeight": 1564
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 1 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71EXflKxkML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71YbL57xH9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41k2KCAl7fL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088704541/",
+          "caption": "古味 直志",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 2 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71yAf1HZ8NL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088704703/",
+          "caption": "古味 直志",
+          "imageWidth": 761,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 3 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/719cMtUAbkL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71TcVcTksFL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088705033/",
+          "caption": "古味 直志",
+          "imageWidth": 758,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 4 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/710lsRwGj5L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71Tn57ovpnL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41jJH6fJsoL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088705386/",
+          "caption": "古味 直志",
+          "imageWidth": 756,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 5 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71YVYV51SaL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/7196ICscOfL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41331cjjlkL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088706021/",
+          "caption": "古味 直志",
+          "imageWidth": 765,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 6 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/7131YmRhpJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/713C3aFmrcL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41nT%2BzA6v1L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088706307/",
+          "caption": "古味 直志",
+          "imageWidth": 756,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 7 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71eALnZZpKL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71FW0bkB5aL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41APnAGXtUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/408870665X/",
+          "caption": "古味 直志",
+          "imageWidth": 758,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 8 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/712ZIQkq02L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/716D-x9NO2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41WvSuMjbpL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088708059/",
+          "caption": "古味 直志",
+          "imageWidth": 758,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 9 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71pVJ%2BtQkjL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71Rq2OV-YUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088708385/",
+          "caption": "古味 直志",
+          "imageWidth": 759,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 10 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71swx-VdNDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71jhrc0oiNL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41aitT3s2uL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088708903/",
+          "caption": "古味 直志",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 11 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71hG8D0fZ7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71SMAT1H8fL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088800265/",
+          "caption": "古味 直志",
+          "imageWidth": 764,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 12 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71PpRKWsXsL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71bDs1yl72L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41tTID7MXEL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088800583/",
+          "caption": "古味 直志",
+          "imageWidth": 777,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 13 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71tCEuMHIXL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71r%2B6ELvGJL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088801520/",
+          "caption": "古味 直志",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 14 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71EuH7p7qeL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71sR9PVrC%2BL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/408880192X/",
+          "caption": "古味 直志",
+          "imageWidth": 763,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 15 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71MYRgrdS2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71qlux2NmxL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088802225/",
+          "caption": "古味 直志",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 16 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71aqAnKbiwL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71HKXosHteL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41fpLIriIUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088803035/",
+          "caption": "古味 直志",
+          "imageWidth": 762,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 17 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71jAuYF7MBL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71IAEsF7QpL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/418SW9v-ATL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088803302/",
+          "caption": "古味 直志",
+          "imageWidth": 759,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 18 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71FTvSoX8fL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71eKOkB9cFL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088803663/",
+          "caption": "古味 直志",
+          "imageWidth": 745,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 19 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71AwiOu0vNL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71AKr6uPLSL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088804465/",
+          "caption": "古味 直志",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 20 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71I%2BGFbJaEL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/408880483X/",
+          "caption": "古味 直志",
+          "imageWidth": 756,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 21 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/718FmUQcIqL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71bK1TwRM5L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088805801/",
+          "caption": "古味 直志",
+          "imageWidth": 755,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 22 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71wHVG6NzhL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71sf0YUBpCL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088806506/",
+          "caption": "古味 直志",
+          "imageWidth": 755,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 23 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71RDjJBWaEL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81XzGl10qXL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088807170/",
+          "caption": "古味 直志",
+          "imageWidth": 758,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 24 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71NsZrn3DSL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088807499/",
+          "caption": "古味 直志",
+          "imageWidth": 761,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ニセコイ 25 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71hkXhq0JYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/718bT%2BEoFGL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4088808053/",
+          "caption": "古味 直志",
+          "imageWidth": 769,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 1 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/Arhp5fK.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088733045/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 2 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/8D9b7At.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088733266/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 3 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/wgAXBTX.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/408873369X/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 4 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/FBauh7x.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088734122/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 5 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/VUDRVvt.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088734386/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 6 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/hy9Q2pS.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088734963/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 7 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/H76MgaA.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088735188/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 8 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/DeBfyj9.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088735374/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 9 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/aya2ZyR.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088735773/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 10 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/DhFbGIK.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088735978/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 11 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/rQw6uSm.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/408873629X/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 12 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/TQkwzHX.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088736508/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 13 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/lBK0fAB.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088736699/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 14 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/4u91Ysc.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088736958/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 15 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81U9xgd4ZIL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71GehG2ps0L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41-COs8fBzL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088737938/",
+          "caption": "河下 水希",
+          "imageWidth": 974,
+          "imageHeight": 1526
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 16 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/ML0LtBg.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088738187/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 17 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/MwCWcMf.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088738438/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 18 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/0hfqjbU.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088738632/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "いちご100% 19 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/M7mWLx4.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088738845/",
+          "caption": "河下 水希",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　１",
+          "imageURLs": [
+            "https://i.imgur.com/dhFIIpD.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KX9O",
+          "caption": "赤松 健",
+          "imageWidth": 905,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　２",
+          "imageURLs": [
+            "https://i.imgur.com/iix1RZt.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KWQI",
+          "caption": "赤松 健",
+          "imageWidth": 905,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　３",
+          "imageURLs": [
+            "https://i.imgur.com/UIPf8Zr.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34L2FS",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　４",
+          "imageURLs": [
+            "https://i.imgur.com/pMLTqoy.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KX4O",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　５",
+          "imageURLs": [
+            "https://i.imgur.com/f3mRrRa.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KWRM",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　６",
+          "imageURLs": [
+            "https://i.imgur.com/56y3Dhc.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KWTU",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　７",
+          "imageURLs": [
+            "https://i.imgur.com/uY8Ws5k.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KWUY",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　８",
+          "imageURLs": [
+            "https://i.imgur.com/tdy1fbg.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KWWM",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　９",
+          "imageURLs": [
+            "https://i.imgur.com/ceIqvQB.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KXTE",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　１０",
+          "imageURLs": [
+            "https://i.imgur.com/VkeTAh1.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KWV8",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　１１",
+          "imageURLs": [
+            "https://i.imgur.com/Ze3MFuz.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KX8K",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　１２",
+          "imageURLs": [
+            "https://i.imgur.com/WOSvWkv.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34L30W",
+          "caption": "赤松 健",
+          "imageWidth": 905,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　１３",
+          "imageURLs": [
+            "https://i.imgur.com/DMHrzU4.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KX5S",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　１４",
+          "imageURLs": [
+            "https://i.imgur.com/8ubP96j.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KZ5G",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 1 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/Z95JhV1.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088733703/",
+          "caption": "村田 雄介",
+          "imageWidth": 600,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 2 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/1SA5hfq.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088733983/",
+          "caption": "村田 雄介",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 3 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/OuzAeUW.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088734394/",
+          "caption": "村田 雄介",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 4 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/lss7Egm.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/408873498X/",
+          "caption": "村田 雄介",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 5 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/N9Px7Uw.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088735196/",
+          "caption": "村田 雄介",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 6 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/fm9oiFq.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088735536/",
+          "caption": "稲垣 理一郎",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 7 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/LjosKIh.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088735781/",
+          "caption": "村田 雄介",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 8 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/loLda67.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088735986/",
+          "caption": "村田 雄介",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 9 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/Gqwh7QJ.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088736419/",
+          "caption": "村田 雄介",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 10 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/WwtoROD.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/408873663X/",
+          "caption": "村田 雄介",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 11 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/gemNvsY.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088736834/",
+          "caption": "村田 雄介",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 12 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/Wy3lsc4.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088737784/",
+          "caption": "村田 雄介",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 13 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71Us6f0nlxL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/712PE5uyfeL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088738055/",
+          "caption": "村田 雄介",
+          "imageWidth": 766,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 14 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/40Bo4q0.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088738292/",
+          "caption": "村田 雄介",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 15 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71FoCtrDeDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71l9%2BmZDDeL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088738500/",
+          "caption": "村田 雄介",
+          "imageWidth": 766,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 16 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71qkSND1btL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81ZJjjR2pgL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088738748/",
+          "caption": "村田 雄介",
+          "imageWidth": 770,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 17 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71oH5iRcR%2BL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81B-GpehALL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088740068/",
+          "caption": "村田 雄介",
+          "imageWidth": 771,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 18 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71nJ27OPPFL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/8134UfSutaL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088740289/",
+          "caption": "村田 雄介",
+          "imageWidth": 767,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 19 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71yuW9PblQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91H7drP0SGL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41qvJbuxSML.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088741072/",
+          "caption": "村田 雄介",
+          "imageWidth": 764,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 20 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71IFTfYzf9L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088741412/",
+          "caption": "村田 雄介",
+          "imageWidth": 765,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 21 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71hugJOXE5L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/717JIoMRErL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088742648/",
+          "caption": "村田 雄介",
+          "imageWidth": 774,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 22 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71z5ZtBfzKL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71oq%2BVC1imL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088742907/",
+          "caption": "村田 雄介",
+          "imageWidth": 767,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 23 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/bz9GndK.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088743164/",
+          "caption": "村田 雄介",
+          "imageWidth": 599,
+          "imageHeight": 946
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 24 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71ihx3kCamL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71TbAUS9MmL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088743407/",
+          "caption": "村田 雄介",
+          "imageWidth": 771,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 25 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71bogE43%2BXL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088743830/",
+          "caption": "村田 雄介",
+          "imageWidth": 758,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 26 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71K0tkkDhmL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71JvrohsEqL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088744128/",
+          "caption": "村田 雄介",
+          "imageWidth": 743,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 27 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/712gU%2BAnKqL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/717Ej5SABbL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088744330/",
+          "caption": "村田 雄介",
+          "imageWidth": 751,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 28 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71bbhxEfmVL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71AZOmMZS0L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088744748/",
+          "caption": "村田 雄介",
+          "imageWidth": 748,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 29 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71IHE4BZLmL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088744950/",
+          "caption": "村田 雄介",
+          "imageWidth": 754,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 30 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71ekdFfcZmL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/408874523X/",
+          "caption": "村田 雄介",
+          "imageWidth": 758,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 31 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/714AVi1WEHL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71pGXq-LM3L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088745531/",
+          "caption": "村田 雄介",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 32 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71PMO14Iq1L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71Btqd57%2B0L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088745906/",
+          "caption": "村田 雄介",
+          "imageWidth": 755,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 33 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71HdpXzZFfL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088746163/",
+          "caption": "村田 雄介",
+          "imageWidth": 755,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 34 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71kyAai5XmL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088746414/",
+          "caption": "村田 雄介",
+          "imageWidth": 753,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 35 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71FRA3%2B2VLL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088746643/",
+          "caption": "村田 雄介",
+          "imageWidth": 759,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 36 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71JzLtAwBSL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088747135/",
+          "caption": "村田 雄介",
+          "imageWidth": 756,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "アイシールド21 37 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71Fqu7TJf7L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088747356/",
+          "caption": "村田 雄介",
+          "imageWidth": 758,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "恋は雨上がりのように (1) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71bQuCNGN4L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091867286/",
+          "caption": "眉月 じゅん",
+          "imageWidth": 705,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "恋は雨上がりのように (2) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71ZHkgVqEVL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091868681/",
+          "caption": "眉月 じゅん",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "恋は雨上がりのように (3) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/717KO2y0ntL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/409187200X/",
+          "caption": "眉月 じゅん",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "恋は雨上がりのように (4) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71LxEuc1MrL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091874177/",
+          "caption": "眉月 じゅん",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "恋は雨上がりのように (5) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71U8n9AB2dL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091876293/",
+          "caption": "眉月 じゅん",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "恋は雨上がりのように (6) (ビッグコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/Eyni4rK.png",
+            "https://images-na.ssl-images-amazon.com/images/I/71hkkXskkcL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091877982/",
+          "caption": "眉月 じゅん",
+          "imageWidth": 600,
+          "imageHeight": 850
+        }
+      },
+      {
+        "book": {
+          "title": "恋は雨上がりのように (7) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71FnZMIWNeL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091893899/",
+          "caption": "眉月 じゅん",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "恋は雨上がりのように (8) (ビッグコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/TGrwNgg.png",
+            "https://images-na.ssl-images-amazon.com/images/I/71Z7THUnMtL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091895468/",
+          "caption": "眉月 じゅん",
+          "imageWidth": 600,
+          "imageHeight": 850
+        }
+      },
+      {
+        "book": {
+          "title": "恋は雨上がりのように (9) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71ddrzlv-BL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091896561/",
+          "caption": "眉月 じゅん",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "恋は雨上がりのように (10) (ビッグコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/e8fQLk9.png",
+            "https://images-na.ssl-images-amazon.com/images/I/716UWhPwlHL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091897932/",
+          "caption": "眉月 じゅん",
+          "imageWidth": 600,
+          "imageHeight": 850
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの 1 (角川コミックス・エース)",
+          "imageURLs": [
+            "https://i.imgur.com/PbXf2mM.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71rXLr-PJPL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047139734/",
+          "caption": "水無月 すう",
+          "imageWidth": 722,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの 2 (角川コミックス・エース 126-7)",
+          "imageURLs": [
+            "https://i.imgur.com/Wf6RDfT.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047150134/",
+          "caption": "水無月 すう",
+          "imageWidth": 722,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの (3) (角川コミックス・エース 126-8)",
+          "imageURLs": [
+            "https://i.imgur.com/wxTPrOX.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047150797/",
+          "caption": "水無月 すう",
+          "imageWidth": 722,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの (4) (角川コミックス・エース 126-9)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71ITLeM9aOL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047151645/",
+          "caption": "水無月 すう",
+          "imageWidth": 1000,
+          "imageHeight": 1402
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの (5) (角川コミックス・エース 126-10)",
+          "imageURLs": [
+            "https://i.imgur.com/XGYZR52.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047152285/",
+          "caption": "水無月 すう",
+          "imageWidth": 722,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの (6) (角川コミックス・エース 126-11)",
+          "imageURLs": [
+            "https://i.imgur.com/HaPu0qx.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047152927/",
+          "caption": "水無月 すう",
+          "imageWidth": 722,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの (7) (角川コミックス・エース 126-14)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71JCaLc7qgL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/404715301X/",
+          "caption": "水無月 すう",
+          "imageWidth": 1000,
+          "imageHeight": 1429
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの (8) (角川コミックス・エース 126-19)",
+          "imageURLs": [
+            "https://i.imgur.com/MSvwK7W.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047153990/",
+          "caption": "水無月 すう",
+          "imageWidth": 722,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの　（９） (角川コミックス・エース 126-21)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71GCm0UtbPL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047155209/",
+          "caption": "水無月　すう",
+          "imageWidth": 1000,
+          "imageHeight": 1422
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの　（１０） (角川コミックス・エース 126-22)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71ACDYiAvVL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047155454/",
+          "caption": "水無月　すう",
+          "imageWidth": 1000,
+          "imageHeight": 1426
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの　（１１） (角川コミックス・エース 126-26)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71pypIzFzNL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047156035/",
+          "caption": "水無月　すう",
+          "imageWidth": 1000,
+          "imageHeight": 1412
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの　（１２) (角川コミックス・エース 126-27)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71flXiDiyOL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047157112/",
+          "caption": "水無月　すう",
+          "imageWidth": 1000,
+          "imageHeight": 1410
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの　（１３） (角川コミックス・エース 126-28)",
+          "imageURLs": [
+            "https://i.imgur.com/NwKtSoP.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041200083/",
+          "caption": "水無月 すう",
+          "imageWidth": 722,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの　（１４） (カドカワコミックスＡエース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71epH44tIjL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041201632/",
+          "caption": "水無月 すう",
+          "imageWidth": 1000,
+          "imageHeight": 1439
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの (15) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71vceqqBNyL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041203228/",
+          "caption": "水無月 すう",
+          "imageWidth": 1000,
+          "imageHeight": 1420
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの (16) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://i.imgur.com/LlUACtQ.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71MZXc80-AL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41pynjgeosL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041204429/",
+          "caption": "水無月 すう",
+          "imageWidth": 722,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの -17 (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/814rovSXkyL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041206669/",
+          "caption": "水無月 すう",
+          "imageWidth": 1000,
+          "imageHeight": 1418
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの (18) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://i.imgur.com/fZG8tzN.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041208211/",
+          "caption": "水無月 すう",
+          "imageWidth": 847,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの (19) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://i.imgur.com/WreKUqp.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041209765/",
+          "caption": "水無月 すう",
+          "imageWidth": 1129,
+          "imageHeight": 1600
+        }
+      },
+      {
+        "book": {
+          "title": "そらのおとしもの(20) (カドカワコミックス・エース) (角川コミックス・エース 126-35)",
+          "imageURLs": [
+            "https://i.imgur.com/BhJ1Tu8.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041210461/",
+          "caption": "水無月すう",
+          "imageWidth": 1129,
+          "imageHeight": 1600
+        }
+      },
+      {
+        "book": {
+          "title": "猫のお寺の知恩さん (1) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71jX-h0NjJL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091877702/",
+          "caption": "オジロ マコト",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "猫のお寺の知恩さん (2) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71W8c-r2HtL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/409189237X/",
+          "caption": "オジロ マコト",
+          "imageWidth": 705,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "猫のお寺の知恩さん (3) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71cPN7Af73L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091893708/",
+          "caption": "オジロ マコト",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "猫のお寺の知恩さん (4) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/810SrAuLkTL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71IiYiSNylL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091895093/",
+          "caption": "オジロ マコト",
+          "imageWidth": 1082,
+          "imageHeight": 1517
+        }
+      },
+      {
+        "book": {
+          "title": "猫のお寺の知恩さん (5) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91Pm9F53waL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81dnRYQrlQL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091896405/",
+          "caption": "オジロ マコト",
+          "imageWidth": 1662,
+          "imageHeight": 2328
+        }
+      },
+      {
+        "book": {
+          "title": "猫のお寺の知恩さん (6) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71SwwGwPdgL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091897983/",
+          "caption": "オジロ マコト",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "猫のお寺の知恩さん (7) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71NYCq3JWEL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4098600161/",
+          "caption": "オジロ マコト",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "猫のお寺の知恩さん (8) (ビッグコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71EJBLHKolL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4098600773/",
+          "caption": "オジロ マコト",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "猫のお寺の知恩さん (9) (ビッグ コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71SCqdGmnzL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4098601524/",
+          "caption": "オジロ マコト",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "いなり、こんこん、恋いろは。　（１） (角川コミックス・エース 326-1)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71urdKM%2BbGL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81M20Heba8L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41KIHNvowNL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/404715668X/",
+          "caption": "よしだ もろへ",
+          "imageWidth": 1114,
+          "imageHeight": 1564
+        }
+      },
+      {
+        "book": {
+          "title": "いなり、こんこん、恋いろは。　（２） (角川コミックス・エース 326-2)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71dYu79VvBL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81oBK3gjcsL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41ucVtFmgZL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047156965/",
+          "caption": "よしだ もろへ",
+          "imageWidth": 1106,
+          "imageHeight": 1560
+        }
+      },
+      {
+        "book": {
+          "title": "いなり、こんこん、恋いろは。　（３） (角川コミックス・エース 326-3)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/716qQp-%2BLrL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041200830/",
+          "caption": "よしだ もろへ",
+          "imageWidth": 1000,
+          "imageHeight": 1425
+        }
+      },
+      {
+        "book": {
+          "title": "いなり、こんこん、恋いろは。 (4) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71tX0-96s7L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041202809/",
+          "caption": "よしだ もろへ",
+          "imageWidth": 1000,
+          "imageHeight": 1417
+        }
+      },
+      {
+        "book": {
+          "title": "いなり、こんこん、恋いろは。 (5) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81YjZMbusML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81cnKRI5U-L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41jRGAkts%2BL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041204798/",
+          "caption": "よしだ もろへ",
+          "imageWidth": 1113,
+          "imageHeight": 1578
+        }
+      },
+      {
+        "book": {
+          "title": "いなり、こんこん、恋いろは。 (6) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/813L-byt5JL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041206952/",
+          "caption": "よしだ もろへ",
+          "imageWidth": 1000,
+          "imageHeight": 1427
+        }
+      },
+      {
+        "book": {
+          "title": "いなり、こんこん、恋いろは。 (7) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/717ZtUYtfOL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041209358/",
+          "caption": "よしだ もろへ",
+          "imageWidth": 1000,
+          "imageHeight": 1426
+        }
+      },
+      {
+        "book": {
+          "title": "いなり、こんこん、恋いろは。 (8) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71gZnUmS4WL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71BwdTE1SmL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41EiHD8MXBL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041210348/",
+          "caption": "よしだ もろへ",
+          "imageWidth": 1099,
+          "imageHeight": 1578
+        }
+      },
+      {
+        "book": {
+          "title": "いなり、こんこん、恋いろは。 (9) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81ra1dl4-SL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041024544/",
+          "caption": "よしだ もろへ",
+          "imageWidth": 1083,
+          "imageHeight": 1536
+        }
+      },
+      {
+        "book": {
+          "title": "いなり、こんこん、恋いろは。 （10） (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81djgPKtfWL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041031257/",
+          "caption": "よしだ もろへ",
+          "imageWidth": 1099,
+          "imageHeight": 1536
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 1",
+          "imageURLs": [
+            "https://i.imgur.com/QSPC8fy.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488813",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1072
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 2",
+          "imageURLs": [
+            "https://i.imgur.com/MKCdUrd.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488800",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1093
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 3",
+          "imageURLs": [
+            "https://i.imgur.com/7aExAQ2.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488787",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 759,
+          "imageHeight": 1095
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 4",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/021/0100407021/01004070210.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488774",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 1465,
+          "imageHeight": 2147
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 5",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/251/0100427251/01004272510.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488735",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 1491,
+          "imageHeight": 2138
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 6",
+          "imageURLs": [
+            "https://i.imgur.com/c503guP.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488722",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1093
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 7",
+          "imageURLs": [
+            "https://i.imgur.com/9r4nPpC.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1035316996",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1093
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 8",
+          "imageURLs": [
+            "https://i.imgur.com/I3HM86X.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031647798",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1093
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 9",
+          "imageURLs": [
+            "https://i.imgur.com/mYj9XEZ.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/315/0100569315/01005693151.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1042028402",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1093
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ヤングアニマルコミックス 雨蘭 無邪気の楽園 10",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/589/0100600589/01006005892.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1050676639",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 716,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ヤングアニマルコミックス 雨蘭 無邪気の楽園 11",
+          "imageURLs": [
+            "https://i.imgur.com/2jm5nnQ.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1064270687",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1088
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ヤングアニマルコミックス 雨蘭 無邪気の楽園 <完> 12",
+          "imageURLs": [
+            "https://i.imgur.com/GGIdhkR.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1078387283",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1088
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(1) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/GuReJuC.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063846385/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(2) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/au6RYSP.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063847268/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(3) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/Xwy11RL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063847748/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(4) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/uCoNvPa.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063848019/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(5) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/V8vEW5V.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063848507/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(6) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/S07Q63r.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063848957/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(7) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/GRaUTs4.png",
+            "https://images-na.ssl-images-amazon.com/images/I/71uChDCFCXL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/406394929X/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(8) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/nhinqxH.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063949664/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(9) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/m2JbaHV.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063949966/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(10) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/C3mZqNt.png",
+            "https://images-na.ssl-images-amazon.com/images/I/71iv5HbqtFL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063950301/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(11) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/aw1OsIy.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063950816/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(12) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/CxYV3L2.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063951618/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(13)<完> (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/VdAqiDf.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063952177/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "僕だけがいない街 (1) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61oS1RcyLvL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041205573/",
+          "caption": "三部 けい",
+          "imageWidth": 1000,
+          "imageHeight": 1417
+        }
+      },
+      {
+        "book": {
+          "title": "僕だけがいない街 (2) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/810W6ImuudL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041207010/",
+          "caption": "三部 けい",
+          "imageWidth": 1000,
+          "imageHeight": 1419
+        }
+      },
+      {
+        "book": {
+          "title": "僕だけがいない街 (3) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81dRCDnhJQL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041209110/",
+          "caption": "三部 けい",
+          "imageWidth": 1000,
+          "imageHeight": 1423
+        }
+      },
+      {
+        "book": {
+          "title": "僕だけがいない街 (4) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91GasbiHafL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041017424/",
+          "caption": "三部 けい",
+          "imageWidth": 1090,
+          "imageHeight": 1536
+        }
+      },
+      {
+        "book": {
+          "title": "僕だけがいない街 (5) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71AEKujS8FL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041017432/",
+          "caption": "三部 けい",
+          "imageWidth": 1090,
+          "imageHeight": 1536
+        }
+      },
+      {
+        "book": {
+          "title": "僕だけがいない街 (6) (カドカワコミックス･エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81z3eNiICjL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041031346/",
+          "caption": "三部 けい",
+          "imageWidth": 1087,
+          "imageHeight": 1536
+        }
+      },
+      {
+        "book": {
+          "title": "僕だけがいない街 (7) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://i.imgur.com/yHkHQwV.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61AVbViC-yL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041036755/",
+          "caption": "三部 けい",
+          "imageWidth": 1128,
+          "imageHeight": 1600
+        }
+      },
+      {
+        "book": {
+          "title": "僕だけがいない街 (8) (カドカワコミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/716KWPDSIzL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041039150/",
+          "caption": "三部 けい",
+          "imageWidth": 1000,
+          "imageHeight": 1468
+        }
+      },
+      {
+        "book": {
+          "title": "僕だけがいない街 9 (角川コミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71CvmDunTpL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041048796/",
+          "caption": "三部 けい",
+          "imageWidth": 1000,
+          "imageHeight": 1417
+        }
+      },
+      {
+        "book": {
+          "title": "サマーウォーズ (1) (角川コミックス・エース 245-1)",
+          "imageURLs": [
+            "https://i.imgur.com/XrGB5IQ.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/404715296X/",
+          "caption": "杉基 イクラ",
+          "imageWidth": 722,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "サマーウォーズ (2) (角川コミックス・エース 245-2)",
+          "imageURLs": [
+            "https://i.imgur.com/J98zJYY.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/404715377X/",
+          "caption": "杉基 イクラ",
+          "imageWidth": 722,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "サマーウォーズ　（３） (角川コミックス・エース 245-3)",
+          "imageURLs": [
+            "https://i.imgur.com/Uj51V96.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047154741/",
+          "caption": "杉基　イクラ",
+          "imageWidth": 722,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "カウントラブル(1) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/cKF1iW5.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/406384322X/",
+          "caption": "奈央 晃徳",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "カウントラブル(2) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/6JaXiU7.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063843726/",
+          "caption": "奈央 晃徳",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "カウントラブル(3) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/nYv38XZ.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063844374/",
+          "caption": "奈央 晃徳",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "カウントラブル(4) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/4Dzzbcm.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063845141/",
+          "caption": "奈央 晃徳",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "カウントラブル(5) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/VUWhcxw.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063845923/",
+          "caption": "奈央 晃徳",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "カウントラブル(6) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/Mird9Kl.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063846660/",
+          "caption": "奈央 晃徳",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "カウントラブル(7)<完> (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/O37WnTg.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063847772/",
+          "caption": "奈央 晃徳",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "金の彼女 銀の彼女(1) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://i.imgur.com/IIy1Fbg.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063714330/",
+          "caption": "赤衣 丸歩郎",
+          "imageWidth": 750,
+          "imageHeight": 1124
+        }
+      },
+      {
+        "book": {
+          "title": "金の彼女 銀の彼女(2) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://i.imgur.com/reaSONl.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063714497/",
+          "caption": "赤衣 丸歩郎",
+          "imageWidth": 750,
+          "imageHeight": 1131
+        }
+      },
+      {
+        "book": {
+          "title": "金の彼女 銀の彼女(3) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91XRDOGI4UL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81c6%2BEu9zgL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91GkPclJm3L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41Pr8iCkbgL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063714659/",
+          "caption": "赤衣 丸歩郎",
+          "imageWidth": 1716,
+          "imageHeight": 2560
+        }
+      },
+      {
+        "book": {
+          "title": "金の彼女 銀の彼女(4) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://i.imgur.com/ms9PEGN.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61YARuau4ZL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063714829/",
+          "caption": "赤衣 丸歩郎",
+          "imageWidth": 640,
+          "imageHeight": 965
+        }
+      },
+      {
+        "book": {
+          "title": "金の彼女 銀の彼女(5) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://i.imgur.com/s0zjFTo.png",
+            "https://images-na.ssl-images-amazon.com/images/I/712Xd44RdtL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063925129/",
+          "caption": "赤衣 丸歩郎",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "金の彼女 銀の彼女(6) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://i.imgur.com/d5wFNmS.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063925331/",
+          "caption": "赤衣 丸歩郎",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "金の彼女 銀の彼女(7) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://i.imgur.com/BL2txZK.png",
+            "https://images-na.ssl-images-amazon.com/images/I/61uZs%2BV-wXL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063925609/",
+          "caption": "赤衣 丸歩郎",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "金の彼女 銀の彼女(8) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://i.imgur.com/8gxLiQT.png",
+            "https://images-na.ssl-images-amazon.com/images/I/71G1J5jCNYL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063925862/",
+          "caption": "赤衣 丸歩郎",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "金の彼女 銀の彼女(9) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://i.imgur.com/6NCAU2g.png",
+            "https://images-na.ssl-images-amazon.com/images/I/61yM%2BkXPxML.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065108179/",
+          "caption": "赤衣 丸歩郎",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "金の彼女 銀の彼女(10) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://i.imgur.com/1DDqE9r.png",
+            "https://images-na.ssl-images-amazon.com/images/I/61VoUmpx2DL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/516-22tuheL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51h6FgHCOeL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065114586/",
+          "caption": "赤衣 丸歩郎",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "徒然チルドレン(1) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/oGu60SF.png",
+            "https://images-na.ssl-images-amazon.com/images/I/61S-vU1WmpL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063951685/",
+          "caption": "若林 稔弥",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "徒然チルドレン(2) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/kQlrT1j.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063953017/",
+          "caption": "若林 稔弥",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "徒然チルドレン(3) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/nBlJr17.png",
+            "https://images-na.ssl-images-amazon.com/images/I/61yvCxKepIL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063954269/",
+          "caption": "若林 稔弥",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "徒然チルドレン(4) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/ZhQ5MYF.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/406395515X/",
+          "caption": "若林 稔弥",
+          "imageWidth": 2717,
+          "imageHeight": 4063
+        }
+      },
+      {
+        "book": {
+          "title": "徒然チルドレン(5) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/6kjy7Wm.png",
+            "https://images-na.ssl-images-amazon.com/images/I/614Ck%2Byhq8L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063956474/",
+          "caption": "若林 稔弥",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "徒然チルドレン(6) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/Ev666Xl.png",
+            "https://images-na.ssl-images-amazon.com/images/I/61t2OWKTLaL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063957357/",
+          "caption": "若林 稔弥",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "徒然チルドレン(7) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/JMWKFrQ.png",
+            "https://images-na.ssl-images-amazon.com/images/I/61XHnh0W-0L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063958493/",
+          "caption": "若林 稔弥",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "徒然チルドレン(8) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/3glyikj.png",
+            "https://images-na.ssl-images-amazon.com/images/I/61V9l2G5wLL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063959562/",
+          "caption": "若林 稔弥",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "徒然チルドレン(9) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/awynnQZ.png",
+            "https://images-na.ssl-images-amazon.com/images/I/51BIUfs1K1L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/406510209X/",
+          "caption": "若林 稔弥",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "徒然チルドレン(10) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/tkNnf8d.png",
+            "https://images-na.ssl-images-amazon.com/images/I/61oofXWXPsL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065103916/",
+          "caption": "若林 稔弥",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "徒然チルドレン(11) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/4SwWdrl.png",
+            "https://images-na.ssl-images-amazon.com/images/I/61SHW3N49HL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51Cp3MYbjhL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065110645/",
+          "caption": "若林 稔弥",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "徒然チルドレン(12) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/n9ckEcX.png",
+            "https://images-na.ssl-images-amazon.com/images/I/518ef-qRyyL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51kAKt5K6iL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065117941/",
+          "caption": "若林 稔弥",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      }
+    ]
   }
 }
