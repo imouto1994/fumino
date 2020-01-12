@@ -277,7 +277,7 @@ const BookFetch = forwardRef((props, ref) => {
         setMessage("Scraping new book IMGUR thumbnail data...");
         img.onload = function() {
           const updatedBooks = [...displayedBooks];
-          const imageURLs = updatedBooks[index].book.imageURLs;
+          const imageURLs = [...updatedBooks[index].book.imageURLs];
           imageURLs.shift();
           const updatedBook = {
             book: {
