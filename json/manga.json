@@ -3617,6 +3617,417 @@
           "imageWidth": 1125,
           "imageHeight": 1600
         }
+      },
+      {
+        "book": {
+          "title": "よつばと!(1) (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91090cw4CTL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/817z41wuNlL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048690663/",
+          "caption": "あずま きよひこ",
+          "imageWidth": 1499,
+          "imageHeight": 2138
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと!(2) (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71m9-3pmmdL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048691880/",
+          "caption": "あずま きよひこ",
+          "imageWidth": 749,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと! 3 (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81fswfMPlTL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71Djwttgh5L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41F6G0jWV5L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048692941/",
+          "caption": "あずま きよひこ",
+          "imageWidth": 1102,
+          "imageHeight": 1553
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと!(4) (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81cDAIfO0bL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048668501/",
+          "caption": "あずま  きよひこ",
+          "imageWidth": 1010,
+          "imageHeight": 1448
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと!(5) (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81kF-S9DVvL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/404866851X/",
+          "caption": "あずま  きよひこ",
+          "imageWidth": 990,
+          "imageHeight": 1434
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと!(6) (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81S3i%2BeT6IL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71FzgXJeH9L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048690671/",
+          "caption": "あずま きよひこ",
+          "imageWidth": 1007,
+          "imageHeight": 1427
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと!(7) (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81SzapEebfL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71XHfydS52L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048691023/",
+          "caption": "あずま きよひこ",
+          "imageWidth": 1044,
+          "imageHeight": 1490
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと! 8 (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81mCCEpAzCL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71yr-24DohL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048671510/",
+          "caption": "あずま きよひこ",
+          "imageWidth": 1073,
+          "imageHeight": 1524
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと!  9 (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51alvnGhlaL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048682474/",
+          "caption": "あずま きよひこ",
+          "imageWidth": 357,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと! 10 (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51e7NjH7eHL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048701436/",
+          "caption": "あずま きよひこ",
+          "imageWidth": 352,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと! 11 (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51fvT5iIDnL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048860976/",
+          "caption": "あずま きよひこ",
+          "imageWidth": 332,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと! 12 (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71E-XCgV-RL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048913522/",
+          "caption": "あずま きよひこ",
+          "imageWidth": 702,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと! (13) (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/614lNI9mJxL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048655949/",
+          "caption": "あずまきよひこ",
+          "imageWidth": 704,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "よつばと!(14) (電撃コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81op5RAKd1L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4048937057/",
+          "caption": "あずま きよひこ",
+          "imageWidth": 1000,
+          "imageHeight": 1422
+        }
+      },
+      {
+        "book": {
+          "title": "乙嫁語り 1巻 (BEAM COMIX)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91Z%2B2Y0l5aL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91W2dxA3NlL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/416SXaURTOL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047260762/",
+          "caption": "森 薫",
+          "imageWidth": 1696,
+          "imageHeight": 2432
+        }
+      },
+      {
+        "book": {
+          "title": "乙嫁語り 2巻 (ビームコミックス) (BEAM COMIX)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/814W3vjRLrL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81y%2BU9AHStL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047265861/",
+          "caption": "森 薫",
+          "imageWidth": 1081,
+          "imageHeight": 1537
+        }
+      },
+      {
+        "book": {
+          "title": "乙嫁語り(3) (ビームコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81wRmq7BMJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81h1EYgyGDL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047273287/",
+          "caption": "森 薫",
+          "imageWidth": 1082,
+          "imageHeight": 1536
+        }
+      },
+      {
+        "book": {
+          "title": "乙嫁語り 4巻 (ビームコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81YBgDsVDOL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81ljmJb1coL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047280836/",
+          "caption": "森 薫",
+          "imageWidth": 1101,
+          "imageHeight": 1530
+        }
+      },
+      {
+        "book": {
+          "title": "乙嫁語り 5巻 (ビームコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61-Wi5CnMXL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047286311/",
+          "caption": "森 薫",
+          "imageWidth": 351,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "乙嫁語り 6巻 (ビームコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81X14rS7u1L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81O935g%2B3fL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047293962/",
+          "caption": "森 薫",
+          "imageWidth": 1097,
+          "imageHeight": 1540
+        }
+      },
+      {
+        "book": {
+          "title": "乙嫁語り 7巻 (ビームコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91fbnfi4WOL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91crKVYpq1L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047302430/",
+          "caption": "森 薫",
+          "imageWidth": 1836,
+          "imageHeight": 2560
+        }
+      },
+      {
+        "book": {
+          "title": "乙嫁語り 8巻 (ビームコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/kBobdKB.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047307823/",
+          "caption": "森 薫",
+          "imageWidth": 1125,
+          "imageHeight": 1600
+        }
+      },
+      {
+        "book": {
+          "title": "乙嫁語り 9巻 (ハルタコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/A1OxfR%2BZIJL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047343781/",
+          "caption": "森 薫",
+          "imageWidth": 1764,
+          "imageHeight": 2508
+        }
+      },
+      {
+        "book": {
+          "title": "乙嫁語り 10巻 (ハルタコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/914zCwsMJNL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047348295/",
+          "caption": "森 薫",
+          "imageWidth": 1514,
+          "imageHeight": 2151
+        }
+      },
+      {
+        "book": {
+          "title": "乙嫁語り 11巻 (ハルタコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91wBet%2BjVuL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047353434/",
+          "caption": "森 薫",
+          "imageWidth": 1801,
+          "imageHeight": 2560
+        }
+      },
+      {
+        "book": {
+          "title": "だんちがい (1) (4コマKINGSぱれっとコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/lFiKJrF.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/475808159X/",
+          "caption": "米田 和佐",
+          "imageWidth": 598,
+          "imageHeight": 850
+        }
+      },
+      {
+        "book": {
+          "title": "だんちがい (2) (IDコミックス 4コマKINGSぱれっとコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71YKsG2A2iL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/475808226X/",
+          "caption": "米田 和佐",
+          "imageWidth": 904,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "だんちがい(3) (IDコミックス/4コマKINGSぱれっとコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71H%2BgFsOQvL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4758082308/",
+          "caption": "米田 和佐",
+          "imageWidth": 872,
+          "imageHeight": 1243
+        }
+      },
+      {
+        "book": {
+          "title": "だんちがい 4 (4コマKINGSぱれっとコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71ZdudLljEL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4758082464/",
+          "caption": "米田 和佐",
+          "imageWidth": 902,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "だんちがい (5) (4コマKINGSぱれっとコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/Dtd1SvN.png",
+            "https://images-na.ssl-images-amazon.com/images/I/71a%2BZUGj2RL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4758082707/",
+          "caption": "米田 和佐",
+          "imageWidth": 598,
+          "imageHeight": 850
+        }
+      },
+      {
+        "book": {
+          "title": "だんちがい (6) (4コマKINGSぱれっとコミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/3o4qaBS.png",
+            "https://images-na.ssl-images-amazon.com/images/I/71-uWOkQHzL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4758082944/",
+          "caption": "米田 和佐",
+          "imageWidth": 598,
+          "imageHeight": 850
+        }
+      },
+      {
+        "book": {
+          "title": "だんちがい (7) (4コマKINGSぱれっとコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81iJj13VmlL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4758083150/",
+          "caption": "米田 和佐",
+          "imageWidth": 1750,
+          "imageHeight": 2481
+        }
+      },
+      {
+        "book": {
+          "title": "だんちがい (8) (4コマKINGSぱれっとコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81kAPq8ZZPL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4758083339/",
+          "caption": "米田 和佐",
+          "imageWidth": 1742,
+          "imageHeight": 2473
+        }
       }
     ]
   }
