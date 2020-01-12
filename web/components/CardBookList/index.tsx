@@ -37,12 +37,12 @@ export default function CardBookList(props: Props): ReactElement<Props> {
   }, []); // eslint-disable-line react-hooks/exhaustive-deps
 
   let numItemsPerRow = 2;
-  if (windowWidth >= parseInt(styleConstants.tabletLandscape, 10)) {
-    numItemsPerRow = 4;
-  } else if (windowWidth >= parseInt(styleConstants.tabletLandscape, 10)) {
-    numItemsPerRow = 5;
-  } else if (windowWidth > 2000) {
+  if (windowWidth > 2000) {
     numItemsPerRow = 8;
+  } else if (windowWidth >= parseInt(styleConstants.desktop, 10)) {
+    numItemsPerRow = 5;
+  } else if (windowWidth >= parseInt(styleConstants.tabletLandscape, 10)) {
+    numItemsPerRow = 4;
   }
 
   const onBookPreview = (book: Book): void => {
