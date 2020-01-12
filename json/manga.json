@@ -2621,6 +2621,102 @@
           "imageWidth": 1099,
           "imageHeight": 1536
         }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 1",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/818/0100366818/01003668180.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488813",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 1508,
+          "imageHeight": 2147
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 2",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/201/0100379201/01003792010.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488800",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 1482,
+          "imageHeight": 2147
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 3",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/481/0100391481/01003914810.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488787",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 1491,
+          "imageHeight": 2130
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 4",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/021/0100407021/01004070210.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488774",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 1465,
+          "imageHeight": 2147
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 5",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/251/0100427251/01004272510.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488735",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 1491,
+          "imageHeight": 2138
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 6",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/804/0100446804/01004468040.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488722",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 734,
+          "imageHeight": 1090
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 7",
+          "imageURLs": [
+            "https://i.imgur.com/9r4nPpC.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1035316996",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1093
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 8",
+          "imageURLs": [
+            "https://i.imgur.com/I3HM86X.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031647798",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1093
+        }
       }
     ]
   }
