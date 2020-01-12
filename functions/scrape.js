@@ -190,18 +190,30 @@ function scrapeAmazon(htmlString) {
   const scriptContent = $("#imageBlockOuter")
     .next()
     .html();
-  const match = scriptContent.match(/\[\{"mainUrl":(.*)\]/);
-  if (match != null) {
-    const imagesJSON = JSON.parse(match[0]);
-    imageURLs = imagesJSON.map(image => image.mainUrl);
+  if (scriptContent != null) {
+    const match = scriptContent.match(/\[\{"mainUrl":(.*)\]/);
+    if (match != null) {
+      const imagesJSON = JSON.parse(match[0]);
+      imageURLs = imagesJSON.map(image => image.mainUrl);
+    } else {
+      throw new Error(
+        "Failed to extract thumbnail images for this Amazon book",
+      );
+    }
   } else {
-    throw new Error("Failed to extract thumbnail images for this Amazon book");
+    // Ebooks
+    const ebookThumbnailURL = $("#ebooksImageBlock img").attr("src");
+    imageURLs.push(ebookThumbnailURL);
   }
 
   // Scrape Title
-  const title = $("#productTitle")
-    .text()
-    .trim();
+  const title =
+    $("#productTitle")
+      .text()
+      .trim() ||
+    $("#ebooksProductTitle")
+      .text()
+      .trim();
 
   // Scrape Caption
   const caption =
