@@ -1527,6 +1527,226 @@
         }
       }
     ],
-    "purchased": []
+    "purchased": [
+      {
+        "book": {
+          "title": "レンアイサンプル",
+          "imageURLs": [
+            "https://i.imgur.com/oVXcFnk.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/35/87/200011358736-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/35/87/200011358736-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/35/87/200011358736-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/35/87/200011358736-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/35/87/200011358736-6p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200011358736/",
+          "caption": "ワニマガジン社 / ホムンクルス 著",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "はじらいブレイク",
+          "imageURLs": [
+            "https://i.imgur.com/jf28DmM.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/04/37/200011043708-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/04/37/200011043708-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/04/37/200011043708-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/04/37/200011043708-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/04/37/200011043708-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/04/37/200011043708-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/04/37/200011043708-8p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200011043708/",
+          "caption": "ワニマガジン社 / ホムンクルス 著",
+          "imageWidth": 848,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "求愛エトランゼ",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/710zPkP3I9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81VLDPHGWYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81kgPHrqeZL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81KX7rAJIcL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81MyndoLgXL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81QwdpwIb3L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81Y3DbMvMJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81ZHmFshOOL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81H56WWHceL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/811w3Bw-3xL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81F0z6eycJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81MtfA8OB0L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/810s0hvwi7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81XlldRda%2BL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81t4E5bJVfL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81gLmYxZACL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81BbNAFukaL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4862696384/",
+          "caption": "ホムンクルス",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "なぱた 好きだらけ",
+          "imageURLs": [
+            "https://i.imgur.com/y4YKZ68.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/389/0100400389/01004003893.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/389/0100400389/01004003892.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/389/0100400389/01004003896.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1030093427",
+          "caption": "ワニマガジン社 / なぱた",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "なぱた ぱんでもにうむ",
+          "imageURLs": [
+            "https://i.imgur.com/mwNjFnA.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/580/0101224580/01012245802.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/580/0101224580/01012245805.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/580/0101224580/01012245801.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/580/0101224580/01012245806.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/580/0101224580/01012245803.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1034346156",
+          "caption": "ワニマガジン社 / なぱた",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "ひとりじめ",
+          "imageURLs": [
+            "https://i.imgur.com/530Amky.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/96/70/200011967046-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/96/70/200011967046-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/96/70/200011967046-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/96/70/200011967046-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/96/70/200011967046-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/96/70/200011967046-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/96/70/200011967046-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/96/70/200011967046-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200011967046/",
+          "caption": "ワニマガジン社 / なぱた/著",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "イジラレ",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81clOwTMTJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91cPjcx2ftL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81JhG7GwT%2BL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81x5Rav0upL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81tSIxpQlqL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81XyMQzskCL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81C5134Q53L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81K%2BbhwvA-L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81SvkZu-ikL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81D56%2B5YCOL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81Iuc8YjCdL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81sfELPsoOL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81lY%2BpDYX%2BL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81RsvX85xiL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4862696317/",
+          "caption": "愛上陸",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "夢見ル乙女",
+          "imageURLs": [
+            "https://i.imgur.com/q1coc9q.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/930/0100627930/01006279301.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/930/0100627930/01006279302.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/930/0100627930/01006279303.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1089513125",
+          "caption": "ワニマガジン社 / 愛上陸",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "初恋より気持ちいい",
+          "imageURLs": [
+            "https://i.imgur.com/mg60RvC.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/893/0101383893/01013838931.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/893/0101383893/01013838937.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/893/0101383893/01013838938.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1115363066",
+          "caption": "ワニマガジン社 / えーすけ",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "愛しいキミを狂うほど・・・",
+          "imageURLs": [
+            "https://i.imgur.com/Ixhrlvz.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/905/0101320905/01013209051.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/905/0101320905/01013209052.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/905/0101320905/01013209053.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1087126013",
+          "caption": "ワニマガジン社 / えーすけ",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "幾日",
+          "imageURLs": [
+            "https://i.imgur.com/KTpdwIW.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/328/0101324328/01013243282.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/328/0101324328/01013243281.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/328/0101324328/01013243283.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1089303175",
+          "caption": "ワニマガジン社 / 幾花にいろ",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "故に人妻は寝取られた。",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81idyk5kpnL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71pcZ9Jk5KL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71h5SXNBhIL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91bWgfrgSRL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71HU8npT6wL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81PETSJXEiL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81EdjSq1z7L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4866532467/",
+          "caption": "あらくれ",
+          "imageWidth": 1757,
+          "imageHeight": 2503
+        }
+      }
+    ]
   }
 }
