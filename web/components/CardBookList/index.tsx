@@ -21,12 +21,14 @@ type Props = {
 export default function CardBookList(props: Props): ReactElement<Props> {
   const { books } = props;
   const [previewedBook, setPreviewedBook] = useState<Book | null>(null);
-  const [windowWidth, setWindowWidth] = useState<number>(window.innerWidth);
+  const [windowWidth, setWindowWidth] = useState<number>(
+    document.documentElement.clientWidth,
+  );
   const listRef = useRef<List>(null);
 
   useEffect((): (() => void) => {
     function handleResize(): void {
-      setWindowWidth(window.innerWidth);
+      setWindowWidth(document.documentElement.clientWidth);
       if (listRef.current != null) {
         listRef.current.recomputeRowHeights();
       }
