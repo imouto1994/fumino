@@ -12,6 +12,7 @@ import { WindowScroller, List } from "react-virtualized";
 import CardBook from "../CardBook";
 import BookPreview from "../BookPreview";
 import { Book } from "../../data/book";
+import { verticalScrollbarWidth } from "../../utils/dom";
 import styleConstants from "../../styles.json";
 
 type Props = {
@@ -21,14 +22,12 @@ type Props = {
 export default function CardBookList(props: Props): ReactElement<Props> {
   const { books } = props;
   const [previewedBook, setPreviewedBook] = useState<Book | null>(null);
-  const [windowWidth, setWindowWidth] = useState<number>(
-    document.documentElement.clientWidth,
-  );
+  const [windowWidth, setWindowWidth] = useState<number>(window.innerWidth);
   const listRef = useRef<List>(null);
 
   useEffect((): (() => void) => {
     function handleResize(): void {
-      setWindowWidth(document.documentElement.clientWidth);
+      setWindowWidth(window.innerWidth);
       if (listRef.current != null) {
         listRef.current.recomputeRowHeights();
       }
@@ -96,7 +95,12 @@ export default function CardBookList(props: Props): ReactElement<Props> {
       0,
     );
 
-    return (windowWidth / numItemsPerRow - 8 * 2) * maxRatio + 61 + 16;
+    return (
+      ((windowWidth - verticalScrollbarWidth) / numItemsPerRow - 8 * 2) *
+        maxRatio +
+      61 +
+      16
+    );
   };
 
   return (
@@ -108,7 +112,7 @@ export default function CardBookList(props: Props): ReactElement<Props> {
               ref={listRef}
               autoHeight
               height={height}
-              width={windowWidth}
+              width={windowWidth - verticalScrollbarWidth}
               scrollTop={scrollTop}
               rowHeight={getRowHeight}
               rowRenderer={renderRow}
