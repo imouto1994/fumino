@@ -1390,6 +1390,174 @@
           "imageWidth": 600,
           "imageHeight": 946
         }
+      },
+      {
+        "book": {
+          "title": "ラブひな　１",
+          "imageURLs": [
+            "https://i.imgur.com/dhFIIpD.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KX9O",
+          "caption": "赤松 健",
+          "imageWidth": 905,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　２",
+          "imageURLs": [
+            "https://i.imgur.com/iix1RZt.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KWQI",
+          "caption": "赤松 健",
+          "imageWidth": 905,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　３",
+          "imageURLs": [
+            "https://i.imgur.com/UIPf8Zr.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34L2FS",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　４",
+          "imageURLs": [
+            "https://i.imgur.com/pMLTqoy.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KX4O",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　５",
+          "imageURLs": [
+            "https://i.imgur.com/f3mRrRa.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KWRM",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　６",
+          "imageURLs": [
+            "https://i.imgur.com/56y3Dhc.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KWTU",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　７",
+          "imageURLs": [
+            "https://i.imgur.com/uY8Ws5k.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KWUY",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　８",
+          "imageURLs": [
+            "https://i.imgur.com/tdy1fbg.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KWWM",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　９",
+          "imageURLs": [
+            "https://i.imgur.com/ceIqvQB.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KXTE",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　１０",
+          "imageURLs": [
+            "https://i.imgur.com/VkeTAh1.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KWV8",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　１１",
+          "imageURLs": [
+            "https://i.imgur.com/Ze3MFuz.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KX8K",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　１２",
+          "imageURLs": [
+            "https://i.imgur.com/WOSvWkv.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34L30W",
+          "caption": "赤松 健",
+          "imageWidth": 905,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　１３",
+          "imageURLs": [
+            "https://i.imgur.com/DMHrzU4.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KX5S",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
+      },
+      {
+        "book": {
+          "title": "ラブひな　１４",
+          "imageURLs": [
+            "https://i.imgur.com/8ubP96j.png"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/B00R34KZ5G",
+          "caption": "赤松 健",
+          "imageWidth": 599,
+          "imageHeight": 848
+        }
       }
     ]
   }
