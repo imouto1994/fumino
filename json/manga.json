@@ -2626,36 +2626,36 @@
         "book": {
           "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 1",
           "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/01/00/818/0100366818/01003668180.jpg"
+            "https://i.imgur.com/QSPC8fy.jpg"
           ],
           "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488813",
           "caption": "白泉社 / 雨蘭",
-          "imageWidth": 1508,
-          "imageHeight": 2147
+          "imageWidth": 765,
+          "imageHeight": 1072
         }
       },
       {
         "book": {
           "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 2",
           "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/01/00/201/0100379201/01003792010.jpg"
+            "https://i.imgur.com/MKCdUrd.jpg"
           ],
           "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488800",
           "caption": "白泉社 / 雨蘭",
-          "imageWidth": 1482,
-          "imageHeight": 2147
+          "imageWidth": 765,
+          "imageHeight": 1093
         }
       },
       {
         "book": {
           "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 3",
           "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/01/00/481/0100391481/01003914810.jpg"
+            "https://i.imgur.com/7aExAQ2.jpg"
           ],
           "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488787",
           "caption": "白泉社 / 雨蘭",
-          "imageWidth": 1491,
-          "imageHeight": 2130
+          "imageWidth": 759,
+          "imageHeight": 1095
         }
       },
       {
@@ -2686,12 +2686,12 @@
         "book": {
           "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 6",
           "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/01/00/804/0100446804/01004468040.jpg"
+            "https://i.imgur.com/c503guP.jpg"
           ],
           "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026488722",
           "caption": "白泉社 / 雨蘭",
-          "imageWidth": 734,
-          "imageHeight": 1090
+          "imageWidth": 765,
+          "imageHeight": 1093
         }
       },
       {
@@ -2716,6 +2716,213 @@
           "caption": "白泉社 / 雨蘭",
           "imageWidth": 765,
           "imageHeight": 1093
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ジェッツコミックス 雨蘭 無邪気の楽園 9",
+          "imageURLs": [
+            "https://i.imgur.com/mYj9XEZ.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/315/0100569315/01005693151.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1042028402",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1093
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ヤングアニマルコミックス 雨蘭 無邪気の楽園 10",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/589/0100600589/01006005892.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1050676639",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 716,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ヤングアニマルコミックス 雨蘭 無邪気の楽園 11",
+          "imageURLs": [
+            "https://i.imgur.com/2jm5nnQ.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1064270687",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1088
+        }
+      },
+      {
+        "book": {
+          "title": "白泉社 ヤングアニマルコミックス 雨蘭 無邪気の楽園 <完> 12",
+          "imageURLs": [
+            "https://i.imgur.com/GGIdhkR.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1078387283",
+          "caption": "白泉社 / 雨蘭",
+          "imageWidth": 765,
+          "imageHeight": 1088
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(1) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/GuReJuC.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063846385/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(2) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/au6RYSP.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063847268/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(3) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/Xwy11RL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063847748/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(4) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/uCoNvPa.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063848019/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(5) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/V8vEW5V.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063848507/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(6) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/S07Q63r.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063848957/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(7) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/GRaUTs4.png",
+            "https://images-na.ssl-images-amazon.com/images/I/71uChDCFCXL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/406394929X/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(8) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/nhinqxH.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063949664/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(9) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/m2JbaHV.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063949966/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(10) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/C3mZqNt.png",
+            "https://images-na.ssl-images-amazon.com/images/I/71iv5HbqtFL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063950301/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(11) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/aw1OsIy.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063950816/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(12) (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/CxYV3L2.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063951618/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
+        }
+      },
+      {
+        "book": {
+          "title": "我妻さんは俺のヨメ(13)<完> (講談社コミックス)",
+          "imageURLs": [
+            "https://i.imgur.com/VdAqiDf.png"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4063952177/",
+          "caption": "西木田 景志",
+          "imageWidth": 599,
+          "imageHeight": 896
         }
       }
     ]
