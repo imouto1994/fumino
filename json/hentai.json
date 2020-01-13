@@ -2217,6 +2217,176 @@
           "imageWidth": 1733,
           "imageHeight": 2475
         }
+      },
+      {
+        "book": {
+          "title": "シスターブリーダー",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81uRLAqKejL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81Hym0cwrfL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81glYJL45HL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81Xws2FbP6L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81r2Z9L4P0L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81ZPc4JtpDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81qm26KI7FL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81qeNDMnGBL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81fxW52iN1L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81Y8zRCbDEL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81BiBuZlkwL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81skUYVtMFL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4862694225/",
+          "caption": "武田 弘光",
+          "imageWidth": 1069,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "いまりあ",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/815KzcXp3RL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81TyNJkgbYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91Gv1zTNk6L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81N54u61vJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81NyKqbpQML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81euelxI6NL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/818jfQD1JcL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91M9AqB%2BpAL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91mzCupHGyL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91RsHLf9EnL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4862693490/",
+          "caption": "武田弘光",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "ジーオーティー",
+          "imageURLs": [
+            "https://i.imgur.com/le4gk4O.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/768/0101404768/01014047681.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/768/0101404768/01014047682.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/768/0101404768/01014047683.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1125469578",
+          "caption": "ジーオーティー / 武田弘光",
+          "imageWidth": 846,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ツンデロ",
+          "imageURLs": [
+            "https://i.imgur.com/coPx1HO.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1027912248",
+          "caption": "コアマガジン / 武田弘光",
+          "imageWidth": 806,
+          "imageHeight": 1120
+        }
+      },
+      {
+        "book": {
+          "title": "ひめさまおとし",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81qGhdECZkL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91NgeRG%2BKBL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81qGAH-zPtL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81y78rqXsYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81F-WCuhMTL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81T%2Bm-KHBML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81sHN4F1byL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81emY0BBX2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81dC7Bfg1SL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/811Lve40g9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81WRb5iqgkL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81e2uckaxNL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4862695515/",
+          "caption": "犬江しんすけ",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "純嬢恋歌",
+          "imageURLs": [
+            "https://i.imgur.com/2z6eAxr.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/444/0100409444/01004094442.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1121126551",
+          "caption": "ワニマガジン社 / 犬江しんすけ",
+          "imageWidth": 1280,
+          "imageHeight": 1756
+        }
+      },
+      {
+        "book": {
+          "title": "メイド嫁",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/829/0100281829/010028182913.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/829/0100281829/010028182917.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/829/0100281829/01002818293.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/829/0100281829/010028182915.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/829/0100281829/010028182916.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/829/0100281829/010028182918.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1055092297",
+          "caption": "コアマガジン / 鬼月あるちゅ",
+          "imageWidth": 1144,
+          "imageHeight": 1618
+        }
+      },
+      {
+        "book": {
+          "title": "ラブミーテンダー",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81HqscmmxZL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81q3cEeAU9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81n5VKq-sQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81o4TROUmsL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81PdbqNFKBL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81DCXEqjddL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81a3eKu6A1L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81bwi%2BhntzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81vHerodMvL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81LnJ47BIoL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81j1PjjSFjL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81gEA2mQubL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4862695280/",
+          "caption": "藤丸",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "ボクの弥生さん",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81g1UW04niL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91G66HlhcAL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/8182aBETaOL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91yOBqv%2BUKL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91vUawE1WoL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81K1LSehNoL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91nbBxxLUIL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91409ywhfxL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81x-T1FHzbL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91dieLcFxjL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91ox%2B4L6FpL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81DKiASFTUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4862693520/",
+          "caption": "月野定規",
+          "imageWidth": 1069,
+          "imageHeight": 1500
+        }
       }
     ]
   }
