@@ -3591,19 +3591,6 @@
       },
       {
         "book": {
-          "title": "もっと!お眠りルーン先生",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/01/788/0401082788/04010827880.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/01/788/0401082788/04010827881.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1088232391",
-          "caption": "Xration / mil",
-          "imageWidth": 1060,
-          "imageHeight": 1512
-        }
-      },
-      {
-        "book": {
           "title": "お眠りルーン先生",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/00/219/0400058219/04000582196.jpg",
@@ -3613,6 +3600,19 @@
           "caption": "Xration / mil",
           "imageWidth": 1048,
           "imageHeight": 1504
+        }
+      },
+      {
+        "book": {
+          "title": "もっと!お眠りルーン先生",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/788/0401082788/04010827880.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/788/0401082788/04010827881.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1088232391",
+          "caption": "Xration / mil",
+          "imageWidth": 1060,
+          "imageHeight": 1512
         }
       },
       {
@@ -3643,15 +3643,15 @@
       },
       {
         "book": {
-          "title": "鬼ヶ島の籠絡",
+          "title": "参上!鬼ヶ島",
           "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/932/0400141932/04001419328.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/932/0400141932/04001419329.jpg"
+            "https://i.imgur.com/PYCnsPy.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/085/0400062085/04000620853.jpg"
           ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031408559",
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1024775907",
           "caption": "Xration / mil",
-          "imageWidth": 1065,
-          "imageHeight": 1512
+          "imageWidth": 1280,
+          "imageHeight": 1807
         }
       },
       {
@@ -3669,28 +3669,15 @@
       },
       {
         "book": {
-          "title": "参上!鬼ヶ島",
+          "title": "鬼ヶ島の籠絡",
           "imageURLs": [
-            "https://i.imgur.com/PYCnsPy.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/085/0400062085/04000620853.jpg"
+            "https://img.mandarake.co.jp/webshopimg/04/00/932/0400141932/04001419328.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/932/0400141932/04001419329.jpg"
           ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1024775907",
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031408559",
           "caption": "Xration / mil",
-          "imageWidth": 1280,
-          "imageHeight": 1807
-        }
-      },
-      {
-        "book": {
-          "title": "鬼ヶ島の繁栄",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/874/0400294874/04002948740.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/874/0400294874/04002948741.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1057935046",
-          "caption": "Xration / mil",
-          "imageWidth": 2048,
-          "imageHeight": 2975
+          "imageWidth": 1065,
+          "imageHeight": 1512
         }
       },
       {
@@ -3704,6 +3691,19 @@
           "caption": "Xration / mil",
           "imageWidth": 500,
           "imageHeight": 701
+        }
+      },
+      {
+        "book": {
+          "title": "鬼ヶ島の繁栄",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/874/0400294874/04002948740.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/874/0400294874/04002948741.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1057935046",
+          "caption": "Xration / mil",
+          "imageWidth": 2048,
+          "imageHeight": 2975
         }
       },
       {
@@ -3734,16 +3734,28 @@
       },
       {
         "book": {
-          "title": "MIXED-REAL Union",
+          "title": "RΩ2 Re;birth",
           "imageURLs": [
-            "https://i.imgur.com/DMGOdTU.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/674/0400079674/04000796745.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/674/0400079674/04000796746.jpg"
+            "https://i.imgur.com/B8hylEs.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/161/0400107161/04001071613.jpg"
           ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031538598",
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1045043726",
           "caption": "Xration / mil",
-          "imageWidth": 1280,
-          "imageHeight": 1811
+          "imageWidth": 1034,
+          "imageHeight": 1518
+        }
+      },
+      {
+        "book": {
+          "title": "秘書艦鹿島の報告書",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/860/0401129860/04011298600.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/860/0401129860/04011298601.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1108686136",
+          "caption": "Xration / mil",
+          "imageWidth": 2048,
+          "imageHeight": 2963
         }
       },
       {
@@ -3757,6 +3769,32 @@
           "caption": "Xration / mil",
           "imageWidth": 600,
           "imageHeight": 851
+        }
+      },
+      {
+        "book": {
+          "title": "MIXED-REAL",
+          "imageURLs": [
+            "https://i.imgur.com/NiwR3Nb.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/234/0400058234/04000582342.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1004495504",
+          "caption": "Xration / mil",
+          "imageWidth": 1084,
+          "imageHeight": 1516
+        }
+      },
+      {
+        "book": {
+          "title": "MIXED-REAL 2",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/235/0400058235/04000582351.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/235/0400058235/04000582352.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1038660037",
+          "caption": "Xration / mil",
+          "imageWidth": 1060,
+          "imageHeight": 1517
         }
       },
       {
@@ -3787,54 +3825,16 @@
       },
       {
         "book": {
-          "title": "MIXED-REAL 2",
+          "title": "MIXED-REAL Union",
           "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/235/0400058235/04000582351.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/235/0400058235/04000582352.jpg"
+            "https://i.imgur.com/DMGOdTU.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/674/0400079674/04000796745.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/674/0400079674/04000796746.jpg"
           ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1038660037",
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031538598",
           "caption": "Xration / mil",
-          "imageWidth": 1060,
-          "imageHeight": 1517
-        }
-      },
-      {
-        "book": {
-          "title": "秘書艦鹿島の報告書",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/01/860/0401129860/04011298600.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/01/860/0401129860/04011298601.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1108686136",
-          "caption": "Xration / mil",
-          "imageWidth": 2048,
-          "imageHeight": 2963
-        }
-      },
-      {
-        "book": {
-          "title": "MIXED-REAL",
-          "imageURLs": [
-            "https://i.imgur.com/NiwR3Nb.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/234/0400058234/04000582342.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1004495504",
-          "caption": "Xration / mil",
-          "imageWidth": 1084,
-          "imageHeight": 1516
-        }
-      },
-      {
-        "book": {
-          "title": "RΩ2 Re;birth",
-          "imageURLs": [
-            "https://i.imgur.com/B8hylEs.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/161/0400107161/04001071613.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1045043726",
-          "caption": "Xration / mil",
-          "imageWidth": 1034,
-          "imageHeight": 1518
+          "imageWidth": 1280,
+          "imageHeight": 1811
         }
       }
     ]
