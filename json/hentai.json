@@ -256,7 +256,7 @@
         "book": {
           "title": "田舎処女",
           "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/01/00/276/0100449276/01004492760.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91WCzJxSlaL.jpg",
             "https://img.mandarake.co.jp/webshopimg/01/00/276/0100449276/01004492762.jpg",
             "https://img.mandarake.co.jp/webshopimg/01/00/276/0100449276/01004492765.jpg",
             "https://img.mandarake.co.jp/webshopimg/01/00/276/0100449276/01004492766.jpg",
@@ -265,8 +265,8 @@
           ],
           "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1024794029",
           "caption": "木星在住",
-          "imageWidth": 859,
-          "imageHeight": 1228
+          "imageWidth": 1500,
+          "imageHeight": 2109
         }
       },
       {
@@ -349,7 +349,7 @@
         "book": {
           "title": "ぽっぴんcherry",
           "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/01/00/741/0100354741/01003547411.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81Miz%2BYRlYL.jpg",
             "https://img.mandarake.co.jp/webshopimg/01/00/741/0100354741/01003547412.jpg",
             "https://img.mandarake.co.jp/webshopimg/01/00/741/0100354741/01003547418.jpg",
             "https://img.mandarake.co.jp/webshopimg/01/00/741/0100354741/01003547419.jpg",
@@ -358,23 +358,23 @@
           ],
           "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1034963695",
           "caption": "三糸シド",
-          "imageWidth": 1039,
-          "imageHeight": 1515
+          "imageWidth": 900,
+          "imageHeight": 1267
         }
       },
       {
         "book": {
           "title": "ラストフルベリー",
           "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/01/00/801/0100393801/01003938011.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81T1tLmtkFL.jpg",
             "https://img.mandarake.co.jp/webshopimg/01/00/801/0100393801/01003938012.jpg",
             "https://img.mandarake.co.jp/webshopimg/01/00/801/0100393801/01003938013.jpg",
             "https://img.mandarake.co.jp/webshopimg/01/00/801/0100393801/01003938014.jpg"
           ],
           "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1030023747",
           "caption": "三糸シド",
-          "imageWidth": 921,
-          "imageHeight": 1309
+          "imageWidth": 1774,
+          "imageHeight": 2560
         }
       },
       {
@@ -1215,15 +1215,15 @@
         "book": {
           "title": "あの娘の境界線",
           "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/01/01/136/0101374136/01013741360.jpg",
+            "https://i.imgur.com/YE7JcgS.jpg",
             "https://img.mandarake.co.jp/webshopimg/01/01/136/0101374136/01013741361.jpg",
             "https://img.mandarake.co.jp/webshopimg/01/01/136/0101374136/01013741362.jpg",
             "https://img.mandarake.co.jp/webshopimg/01/01/136/0101374136/01013741363.jpg"
           ],
           "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1109244447",
           "caption": "おそまつ",
-          "imageWidth": 712,
-          "imageHeight": 1024
+          "imageWidth": 1057,
+          "imageHeight": 1500
         }
       },
       {
