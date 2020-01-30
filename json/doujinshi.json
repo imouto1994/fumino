@@ -4708,6 +4708,32 @@
           "imageWidth": 1437,
           "imageHeight": 2016
         }
+      },
+      {
+        "book": {
+          "title": "惨苦の乙女 前編",
+          "imageURLs": [
+            "https://i.imgur.com/6URAU07.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/327/0401132327/04011323273.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1105122888",
+          "caption": "ふらんそわ / EBA",
+          "imageWidth": 1280,
+          "imageHeight": 1814
+        }
+      },
+      {
+        "book": {
+          "title": "惨苦の乙女 後編",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/04/338/0404021338/04040213380.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/04/338/0404021338/04040213381.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1119982031",
+          "caption": "ふらんそわ / EBA",
+          "imageWidth": 600,
+          "imageHeight": 854
+        }
       }
     ],
     "purchased": [
