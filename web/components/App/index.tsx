@@ -24,6 +24,40 @@ export default function App(): ReactElement<void> {
     theme === "dark" ? styles.themeDark : styles.themeLight,
   );
 
+  const routes = [
+    <Route path="/m/:type?" key="/m">
+      <div className={styles.routeWishlist}>
+        <PageMLoadable />
+      </div>
+    </Route>,
+  ];
+  if (!process.env.LITE) {
+    routes.concat([
+      <Route path="/d/:type?" key="/d">
+        <div className={styles.routeWishlist}>
+          <PageDLoadable />
+        </div>
+      </Route>,
+      <Route path="/h/:type?" key="/h">
+        <div className={styles.routeWishlist}>
+          <PageHLoadable />
+        </div>
+      </Route>,
+      <Route path="/di/:type?" key="/di">
+        <div className={styles.routeWishlist}>
+          <PageDiLoadable />
+        </div>
+      </Route>,
+    ]);
+  }
+  routes.push(
+    <Route path="/:rest*" key="/rest">
+      <div className={styles.routeHome}>
+        <PageHome />
+      </div>
+    </Route>,
+  );
+
   return (
     <ThemeContext.Provider value={theme}>
       <Helmet>
@@ -41,35 +75,8 @@ export default function App(): ReactElement<void> {
         <button className={styles.themeButton} onClick={onThemeToggle}>
           {theme === "dark" ? "🌝" : "🌚"}
         </button>
-        <Switch>
-          <Route path="/d/:type?">
-            <div className={styles.routeWishlist}>
-              <PageDLoadable />
-            </div>
-          </Route>
-          <Route path="/h/:type?">
-            <div className={styles.routeWishlist}>
-              <PageHLoadable />
-            </div>
-          </Route>
-          <Route path="/m/:type?">
-            <div className={styles.routeWishlist}>
-              <PageMLoadable />
-            </div>
-          </Route>
-          <Route path="/di/:type?">
-            <div className={styles.routeWishlist}>
-              <PageDiLoadable />
-            </div>
-          </Route>
-          <Route path="/:rest*">
-            <div className={styles.routeHome}>
-              <PageHome />
-            </div>
-          </Route>
-        </Switch>
-
         <NavBar />
+        <Switch>{routes}</Switch>
       </div>
     </ThemeContext.Provider>
   );

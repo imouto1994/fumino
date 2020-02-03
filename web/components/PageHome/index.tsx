@@ -11,14 +11,22 @@ import PageMLoadable from "../PageMLoadable";
 import PageDiLoadable from "../PageDiLoadable";
 
 export default function PageHome(): ReactElement<void> {
-  return (
-    <div className={styles.container}>
-      <HomeThumbnail href="/d" imageURL="/coverD.jpg" />
-      <HomeThumbnail href="/h" imageURL="/coverH.jpg" />
-      <HomeThumbnail href="/m" imageURL="/coverM.jpg" />
-      <HomeThumbnail href="/di" imageURL="/coverDi.jpg" />
-    </div>
-  );
+  if (process.env.LITE) {
+    return (
+      <div className={styles.container}>
+        <HomeThumbnail href="/m" imageURL="/coverMLite.jpg" />
+      </div>
+    );
+  } else {
+    return (
+      <div className={styles.container}>
+        <HomeThumbnail href="/d" imageURL="/coverD.jpg" />
+        <HomeThumbnail href="/h" imageURL="/coverH.jpg" />
+        <HomeThumbnail href="/m" imageURL="/coverM.jpg" />
+        <HomeThumbnail href="/di" imageURL="/coverDi.jpg" />
+      </div>
+    );
+  }
 }
 
 type HomeThumbnailProps = {
@@ -46,10 +54,13 @@ function HomeThumbnail(
       PageDiLoadable.preload();
     }
   };
+  const linkClassName = classnames(styles.link, {
+    [styles.linkFull]: !process.env.LITE,
+  });
 
   return (
     <Link href={`${href}/wanted`}>
-      <a onMouseOver={onLinkHover} className={styles.link}>
+      <a onMouseOver={onLinkHover} className={linkClassName}>
         <div className={styles.linkBackgroundContainer}>
           <Image
             className={styles.linkBackground}

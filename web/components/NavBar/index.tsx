@@ -11,24 +11,32 @@ import PageMLoadable from "../PageMLoadable";
 import PageDiLoadable from "../PageDiLoadable";
 import Text from "../Text";
 
-const links: { title: string; url: "/d" | "/h" | "/m" | "/di" }[] = [
-  {
-    title: "/d",
-    url: "/d",
-  },
-  {
-    title: "/h",
-    url: "/h",
-  },
-  {
-    title: "/m",
-    url: "/m",
-  },
-  {
-    title: "/di",
-    url: "/di",
-  },
-];
+const links: { title: string; url: "/d" | "/h" | "/m" | "/di" }[] = process.env
+  .LITE
+  ? [
+      {
+        title: "/manga",
+        url: "/m",
+      },
+    ]
+  : [
+      {
+        title: "/d",
+        url: "/d",
+      },
+      {
+        title: "/h",
+        url: "/h",
+      },
+      {
+        title: "/m",
+        url: "/m",
+      },
+      {
+        title: "/di",
+        url: "/di",
+      },
+    ];
 
 export default function NavBar(): ReactElement<void> {
   return (

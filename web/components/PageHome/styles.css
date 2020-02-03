@@ -10,13 +10,17 @@
   flex: 1 0 auto;
   align-items: center;
   justify-content: center;
-  width: 50%;
   color: white;
   border: none;
 
   &:hover {
     color: var(--color-primary);
   }
+}
+
+.linkFull {
+  flex: 0 0 50%;
+  width: 50%;
 
   &:nth-child(even) {
     border-left: var(--color-foreground) 1px solid;
@@ -60,7 +64,7 @@
   left: 0;
   z-index: 2;
   background: black;
-  opacity: 0.4;
+  opacity: 0.6;
 }
 
 .linkOverlayHidden {

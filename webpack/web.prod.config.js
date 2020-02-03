@@ -117,6 +117,7 @@ module.exports = {
     new webpack.DefinePlugin({
       "process.env.NODE_ENV": JSON.stringify("production"),
       "process.env.BROWSER": true,
+      "process.env.LITE": !!process.env.LITE,
     }),
     new CopyWebpackPlugin([
       {

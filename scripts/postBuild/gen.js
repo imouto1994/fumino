@@ -52,7 +52,9 @@ function ensureDirSync(dirPath) {
 }
 
 (async function() {
-  const staticURLS = ["/", "/d", "/m", "/h", "/di"];
+  const staticURLS = process.env.LITE
+    ? ["/", "/m"]
+    : ["/", "/d", "/m", "/h", "/di"];
 
   // Generate all static pages
   for (const url of staticURLS) {
