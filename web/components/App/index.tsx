@@ -61,10 +61,10 @@ export default function App(): ReactElement<void> {
   return (
     <ThemeContext.Provider value={theme}>
       <Helmet>
-        <title>{"Youn's Wishlist"}</title>
+        <title>{"Youn's Manga Database"}</title>
         <meta
           name="description"
-          content="Wishlist of weeaboo stuffs to be purchased"
+          content="Personal database of weeaboo stuffs"
         />
         <meta
           name="theme-color"

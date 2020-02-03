@@ -63,7 +63,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "Wishlist",
+      title: "Mantabase",
       template: path.resolve(__dirname, "../web/index.html"),
     }),
     new webpack.HotModuleReplacementPlugin(),

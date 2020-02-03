@@ -13,9 +13,9 @@
       "sizes": "512x512"
     }
   ],
-  "name": "Youn's Wishlist",
+  "name": "Youn's Manga Database",
   "orientation": "portrait",
-  "short_name": "Wishlist",
+  "short_name": "Mantabase",
   "start_url": "/",
   "theme_color": "#fafcfc"
 }

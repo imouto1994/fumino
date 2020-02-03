@@ -13,8 +13,13 @@ export default function PageD(): ReactElement<void> {
   return (
     <>
       <Helmet>
-        <title>D Wishlist</title>
-        <link rel="canonical" href="https://wishlist.noobsaigon.com/d" />
+        <title>D Database</title>
+        <link
+          rel="canonical"
+          href={`https://${
+            process.env.LITE ? "fumino" : "wishlist"
+          }.noobsaigon.com/d`}
+        />
       </Helmet>
       <Tabs
         tabs={[

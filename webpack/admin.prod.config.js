@@ -118,7 +118,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "Wishlist Admin",
+      title: "Mantabase Admin",
       template: path.resolve(__dirname, "../admin/index.html"),
     }),
     new CopyWebpackPlugin([

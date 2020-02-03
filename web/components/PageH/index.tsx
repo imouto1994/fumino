@@ -13,8 +13,13 @@ export default function PageH(): ReactElement<void> {
   return (
     <>
       <Helmet>
-        <title>H Wishlist</title>
-        <link rel="canonical" href="https://wishlist.noobsaigon.com/h" />
+        <title>H Database</title>
+        <link
+          rel="canonical"
+          href={`https://${
+            process.env.LITE ? "fumino" : "wishlist"
+          }.noobsaigon.com/d`}
+        />
       </Helmet>
       <Tabs
         tabs={[
