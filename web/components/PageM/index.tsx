@@ -4,16 +4,16 @@ import { Route, Switch } from "wouter";
 
 import CardBookList from "../CardBookList";
 import Tabs from "../Tabs";
-import mangaBooks from "../../../json/manga.json";
+import booksJSON from "../../../json/m.json";
 
-export default function PageManga(): ReactElement<void> {
-  const { books } = mangaBooks;
+export default function PageM(): ReactElement<void> {
+  const { books } = booksJSON;
   const { wanted, purchased } = books;
 
   return (
     <>
       <Helmet>
-        <title>Manga Wishlist</title>
+        <title>M Wishlist</title>
         <link rel="canonical" href="https://wishlist.noobsaigon.com/m" />
       </Helmet>
       <Tabs

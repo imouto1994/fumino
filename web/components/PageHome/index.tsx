@@ -5,18 +5,18 @@ import classnames from "classnames";
 import { Link } from "wouter";
 
 import Image from "../Image";
-import PageDoujinshiLoadable from "../PageDoujinshiLoadable";
-import PageHentaiLoadable from "../PageHentaiLoadable";
-import PageMangaLoadable from "../PageMangaLoadable";
-import PageDigitalLoadable from "../PageDigitalLoadable";
+import PageDLoadable from "../PageDLoadable";
+import PageHLoadable from "../PageHLoadable";
+import PageMLoadable from "../PageMLoadable";
+import PageDiLoadable from "../PageDiLoadable";
 
 export default function PageHome(): ReactElement<void> {
   return (
     <div className={styles.container}>
-      <HomeThumbnail href="/d" imageURL="/coverDoujinshi.jpg" />
-      <HomeThumbnail href="/h" imageURL="/coverHentai.jpg" />
-      <HomeThumbnail href="/m" imageURL="/coverManga.jpg" />
-      <HomeThumbnail href="/di" imageURL="/coverDigital.jpg" />
+      <HomeThumbnail href="/d" imageURL="/coverD.jpg" />
+      <HomeThumbnail href="/h" imageURL="/coverH.jpg" />
+      <HomeThumbnail href="/m" imageURL="/coverM.jpg" />
+      <HomeThumbnail href="/di" imageURL="/coverDi.jpg" />
     </div>
   );
 }
@@ -37,13 +37,13 @@ function HomeThumbnail(
 
   const onLinkHover = (): void => {
     if (href === "/d") {
-      PageDoujinshiLoadable.preload();
+      PageDLoadable.preload();
     } else if (href === "/h") {
-      PageHentaiLoadable.preload();
+      PageHLoadable.preload();
     } else if (href === "/m") {
-      PageMangaLoadable.preload();
+      PageMLoadable.preload();
     } else {
-      PageDigitalLoadable.preload();
+      PageDiLoadable.preload();
     }
   };
 

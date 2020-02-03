@@ -2,6 +2,8 @@ backend:
   name: github
   repo: imouto1994/Fumino
   squash_merges: true
+  commit_messages:
+    update: Update collection {{collection}}
 
 publish_mode: editorial_workflow
 
@@ -13,30 +15,30 @@ collections:
   - label: "Pages"
     name: "pages"
     files:
-      - label: "Doujinshi Page"
-        name: "doujinshi"
-        file: "json/doujinshi.json"
+      - label: "/d Page"
+        name: "d"
+        file: "json/d.json"
         fields:
           - label: Books
             name: books
             widget: bookFetch
-      - label: "Hentai Page"
-        name: "hentai"
-        file: "json/hentai.json"
+      - label: "/h Page"
+        name: "h"
+        file: "json/h.json"
         fields:
           - label: Books
             name: books
             widget: bookFetch
-      - label: "Manga Page"
-        name: "manga"
-        file: "json/manga.json"
+      - label: "/m Page"
+        name: "m"
+        file: "json/m.json"
         fields:
           - label: Books
             name: books
             widget: bookFetch
-      - label: "Digital Pages"
-        name: "digital"
-        file: "json/digital.json"
+      - label: "/di Pages"
+        name: "di"
+        file: "json/di.json"
         fields:
           - label: Books
             name: books

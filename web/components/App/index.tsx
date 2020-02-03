@@ -5,10 +5,10 @@ import { Route, Switch } from "wouter";
 import { Helmet } from "react-helmet-async";
 import classnames from "classnames";
 
-import PageDoujinshiLoadable from "../PageDoujinshiLoadable";
-import PageHentaiLoadable from "../PageHentaiLoadable";
-import PageMangaLoadable from "../PageMangaLoadable";
-import PageDigitalLoadable from "../PageDigitalLoadable";
+import PageDLoadable from "../PageDLoadable";
+import PageHLoadable from "../PageHLoadable";
+import PageMLoadable from "../PageMLoadable";
+import PageDiLoadable from "../PageDiLoadable";
 import PageHome from "../PageHome";
 import NavBar from "../NavBar";
 import { Theme, ThemeContext } from "../../contexts/theme";
@@ -44,22 +44,22 @@ export default function App(): ReactElement<void> {
         <Switch>
           <Route path="/d/:type?">
             <div className={styles.routeWishlist}>
-              <PageDoujinshiLoadable />
+              <PageDLoadable />
             </div>
           </Route>
           <Route path="/h/:type?">
             <div className={styles.routeWishlist}>
-              <PageHentaiLoadable />
+              <PageHLoadable />
             </div>
           </Route>
           <Route path="/m/:type?">
             <div className={styles.routeWishlist}>
-              <PageMangaLoadable />
+              <PageMLoadable />
             </div>
           </Route>
           <Route path="/di/:type?">
             <div className={styles.routeWishlist}>
-              <PageDigitalLoadable />
+              <PageDiLoadable />
             </div>
           </Route>
           <Route path="/:rest*">

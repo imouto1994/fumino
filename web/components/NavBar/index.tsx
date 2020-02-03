@@ -5,27 +5,27 @@ import { useRoute, Link } from "wouter";
 
 import IconLogo from "../IconLogo";
 import LinkText from "../LinkText";
-import PageDoujinshiLoadable from "../PageDoujinshiLoadable";
-import PageHentaiLoadable from "../PageHentaiLoadable";
-import PageMangaLoadable from "../PageMangaLoadable";
-import PageDigitalLoadable from "../PageDigitalLoadable";
+import PageDLoadable from "../PageDLoadable";
+import PageHLoadable from "../PageHLoadable";
+import PageMLoadable from "../PageMLoadable";
+import PageDiLoadable from "../PageDiLoadable";
 import Text from "../Text";
 
 const links: { title: string; url: "/d" | "/h" | "/m" | "/di" }[] = [
   {
-    title: "/doujinshi",
+    title: "/d",
     url: "/d",
   },
   {
-    title: "/hentai",
+    title: "/h",
     url: "/h",
   },
   {
-    title: "/manga",
+    title: "/m",
     url: "/m",
   },
   {
-    title: "/digital",
+    title: "/di",
     url: "/di",
   },
 ];
@@ -56,13 +56,13 @@ function NavLink(props: NavLinkProps): ReactElement<NavLinkProps> {
 
   const onLinkHover = (): void => {
     if (url === "/d") {
-      PageDoujinshiLoadable.preload();
+      PageDLoadable.preload();
     } else if (url === "/h") {
-      PageHentaiLoadable.preload();
+      PageHLoadable.preload();
     } else if (url === "/m") {
-      PageMangaLoadable.preload();
+      PageMLoadable.preload();
     } else {
-      PageDigitalLoadable.preload();
+      PageDiLoadable.preload();
     }
   };
 
