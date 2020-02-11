@@ -24,7 +24,7 @@ export default function App(): ReactElement<void> {
     theme === "dark" ? styles.themeDark : styles.themeLight,
   );
 
-  const routes = [
+  let routes = [
     <Route path="/m/:type?" key="/m">
       <div className={styles.routeWishlist}>
         <PageMLoadable />
@@ -32,7 +32,7 @@ export default function App(): ReactElement<void> {
     </Route>,
   ];
   if (!process.env.LITE) {
-    routes.concat([
+    routes = routes.concat([
       <Route path="/d/:type?" key="/d">
         <div className={styles.routeWishlist}>
           <PageDLoadable />
