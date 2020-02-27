@@ -3,372 +3,6 @@
     "wanted": [
       {
         "book": {
-          "title": "冬虫夏草6",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-7p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030793366/",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 800,
-          "imageHeight": 1130
-        }
-      },
-      {
-        "book": {
-          "title": "商店街の穴妻たち",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-7p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-8p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030793369/",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 800,
-          "imageHeight": 1130
-        }
-      },
-      {
-        "book": {
-          "title": "福山さん1",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/129/0400080129/04000801294.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/129/0400080129/04000801293.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1027297413",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 692,
-          "imageHeight": 977
-        }
-      },
-      {
-        "book": {
-          "title": "福山さん2 紺",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/131/0400080131/04000801310.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/131/0400080131/04000801313.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1027297374",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 1071,
-          "imageHeight": 1510
-        }
-      },
-      {
-        "book": {
-          "title": "福山さん2 縞",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/130/0400080130/04000801300.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/130/0400080130/04000801303.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1062630074",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 1073,
-          "imageHeight": 1504
-        }
-      },
-      {
-        "book": {
-          "title": "福山さん3 私を海に連れてって",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/133/0400080133/04000801330.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/133/0400080133/04000801334.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1062630100",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 1038,
-          "imageHeight": 1467
-        }
-      },
-      {
-        "book": {
-          "title": "福山さん3 大噴火",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/132/0400080132/04000801325.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/132/0400080132/04000801326.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1027482728",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 1031,
-          "imageHeight": 1487
-        }
-      },
-      {
-        "book": {
-          "title": "福山さん4 旅情編",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/134/0400080134/04000801343.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/134/0400080134/04000801342.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1034307793",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 427,
-          "imageHeight": 598
-        }
-      },
-      {
-        "book": {
-          "title": "福山さん5",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/135/0400080135/04000801350.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/135/0400080135/04000801353.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1047161530",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 282,
-          "imageHeight": 400
-        }
-      },
-      {
-        "book": {
-          "title": "福山さん6",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/136/0400080136/04000801364.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/136/0400080136/04000801363.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026962338",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 1022,
-          "imageHeight": 1487
-        }
-      },
-      {
-        "book": {
-          "title": "福山さん7 cream on the strawberry",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/137/0400080137/04000801370.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/137/0400080137/04000801372.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1067068690",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 319,
-          "imageHeight": 450
-        }
-      },
-      {
-        "book": {
-          "title": "福山さんの中出しナース",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/143/0400080143/04000801435.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/143/0400080143/04000801434.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1029227692",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 351,
-          "imageHeight": 500
-        }
-      },
-      {
-        "book": {
-          "title": "福山さん総集編壱",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/144/0400080144/04000801448.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/144/0400080144/04000801447.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1061068670",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 692,
-          "imageHeight": 994
-        }
-      },
-      {
-        "book": {
-          "title": "長門ドロップス",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/145/0400080145/04000801454.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/145/0400080145/04000801453.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026877513",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 692,
-          "imageHeight": 994
-        }
-      },
-      {
-        "book": {
-          "title": "たったひとりの傭兵団",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/140/0400080140/04000801401.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/140/0400080140/04000801404.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031926258",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 319,
-          "imageHeight": 450
-        }
-      },
-      {
-        "book": {
-          "title": "たったひとりの傭兵団2",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/141/0400080141/04000801414.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/141/0400080141/04000801413.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1067069535",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 692,
-          "imageHeight": 994
-        }
-      },
-      {
-        "book": {
-          "title": "たったひとりの傭兵団3 エルフと奴隷オークション",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/142/0400080142/04000801427.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/142/0400080142/04000801423.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/142/0400080142/04000801425.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1067069470",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 690,
-          "imageHeight": 994
-        }
-      },
-      {
-        "book": {
-          "title": "むしじょ。",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/139/0400080139/04000801391.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/139/0400080139/04000801393.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1067068924",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 355,
-          "imageHeight": 502
-        }
-      },
-      {
-        "book": {
-          "title": "ハイエルフ×ハイスクール 白",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/01/915/0401004915/04010049150.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/01/915/0401004915/04010049154.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/01/915/0401004915/04010049155.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1062630009",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 353,
-          "imageHeight": 500
-        }
-      },
-      {
-        "book": {
-          "title": "ハイエルフ×ハイスクール 黒",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/01/916/0401004916/04010049161.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/01/916/0401004916/04010049164.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031408351",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 425,
-          "imageHeight": 600
-        }
-      },
-      {
-        "book": {
-          "title": "ハイエルフ×ハイスクール",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/138/0400080138/04000801380.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/138/0400080138/04000801385.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/138/0400080138/04000801387.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1062629970",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 283,
-          "imageHeight": 400
-        }
-      },
-      {
-        "book": {
-          "title": "ハイエルフ×ハイスクール TWINTAIL",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/446/0400179446/04001794462.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/446/0400179446/04001794461.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1038175436",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 683,
-          "imageHeight": 941
-        }
-      },
-      {
-        "book": {
-          "title": "ハイエルフ×ハイスクール 白黒",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/556/0400173556/04001735560.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/556/0400173556/04001735565.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1037098165",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 2054,
-          "imageHeight": 2972
-        }
-      },
-      {
-        "book": {
-          "title": "ハイエルフ×ハイスクール襲撃編前日",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/397/0400239397/04002393973.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/397/0400239397/04002393976.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1049511254",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 1391,
-          "imageHeight": 2016
-        }
-      },
-      {
-        "book": {
-          "title": "ハイエルフ×ハイスクール カミナくんの1日",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/177/0400292177/04002921770.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/177/0400292177/04002921771.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/177/0400292177/04002921773.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1057781191",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 2039,
-          "imageHeight": 2972
-        }
-      },
-      {
-        "book": {
-          "title": "ハイエルフ×ハイスクール ドスケベスメル",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/178/0400292178/04002921784.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/178/0400292178/04002921783.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1057527613",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 693,
-          "imageHeight": 994
-        }
-      },
-      {
-        "book": {
-          "title": "ハイエルフ×ハイスクール襲撃編当日",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/398/0400239398/04002393983.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/398/0400239398/04002393984.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1049511176",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 1391,
-          "imageHeight": 2016
-        }
-      },
-      {
-        "book": {
           "title": "魔法少女20.0",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/76/040030797697-1p.jpg",
@@ -401,56 +35,6 @@
           "caption": "綾枷家の猫 / 綾枷ちよこ",
           "imageWidth": 800,
           "imageHeight": 1119
-        }
-      },
-      {
-        "book": {
-          "title": "お姉ちゃんの忘れ物を届けに来たハズなのに…",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-7p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-8p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-9p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030794459/",
-          "caption": "綾枷家の猫 / 綾枷ちよこ",
-          "imageWidth": 800,
-          "imageHeight": 1119
-        }
-      },
-      {
-        "book": {
-          "title": "私が万引きをした理由を聞いてください3",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/39/040030763937-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/39/040030763937-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/39/040030763937-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/39/040030763937-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/39/040030763937-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/39/040030763937-6p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030763937/",
-          "caption": "綾枷家の猫 / 綾枷ちよこ",
-          "imageWidth": 800,
-          "imageHeight": 1119
-        }
-      },
-      {
-        "book": {
-          "title": "再婚相手の息子は昔、私を犯したあの子でした",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/01/940/0401156940/04011569402.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/01/940/0401156940/04011569401.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1124192562",
-          "caption": "綾枷家の猫 / 綾枷ちよこ、綾枷りべり",
-          "imageWidth": 1048,
-          "imageHeight": 1499
         }
       },
       {
@@ -553,108 +137,6 @@
       },
       {
         "book": {
-          "title": "月曜日のたわわ　そのIX",
-          "imageURLs": [
-            "https://i.imgur.com/SvopXTC.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-6p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030800086/",
-          "caption": "比村乳業 / 比村奇石",
-          "imageWidth": 1280,
-          "imageHeight": 1804
-        }
-      },
-      {
-        "book": {
-          "title": "黄昏の娼エルフ5",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-7p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-8p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-9p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030795373/",
-          "caption": "H.B.A / うさぎなごむ",
-          "imageWidth": 800,
-          "imageHeight": 1129
-        }
-      },
-      {
-        "book": {
-          "title": "鬼ヶ島総集編",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-7p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-8p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-9p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030796986/",
-          "caption": "Xration / mil",
-          "imageWidth": 800,
-          "imageHeight": 1130
-        }
-      },
-      {
-        "book": {
-          "title": "廊下の娘03",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/73/040030797344-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/73/040030797344-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/73/040030797344-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/73/040030797344-4p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030797344/",
-          "caption": "メタボ喫茶異臭騒ぎ / いたちょう",
-          "imageWidth": 800,
-          "imageHeight": 1120
-        }
-      },
-      {
-        "book": {
-          "title": "巫女×喪失",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/990/0400172990/04001729904.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/990/0400172990/04001729905.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1036323768",
-          "caption": "abgrund / さいかわゆさ",
-          "imageWidth": 716,
-          "imageHeight": 1024
-        }
-      },
-      {
-        "book": {
-          "title": "白百合姉妹攻略",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/67/040030796774-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/67/040030796774-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/67/040030796774-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/67/040030796774-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/67/040030796774-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/67/040030796774-6p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030796774/",
-          "caption": "abgrund / さいかわゆさ",
-          "imageWidth": 800,
-          "imageHeight": 1126
-        }
-      },
-      {
-        "book": {
           "title": "サキュバステードライフ10",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/76/040030797689-1p.jpg",
@@ -671,37 +153,6 @@
       },
       {
         "book": {
-          "title": "ずっと信じてる",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-7p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030795966/",
-          "caption": "ピアニッシモ / ピジャ",
-          "imageWidth": 717,
-          "imageHeight": 1012
-        }
-      },
-      {
-        "book": {
-          "title": "秘めごと小町",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/30/617/0430050617/04300506172.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/30/617/0430050617/04300506171.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1095284111",
-          "caption": "ピアニッシモ / ピジャ",
-          "imageWidth": 1039,
-          "imageHeight": 1491
-        }
-      },
-      {
-        "book": {
           "title": "ONEONEONE",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/00/852/0400147852/04001478520.jpg",
@@ -711,69 +162,6 @@
           "caption": "ピアニッシモ / ピジャ",
           "imageWidth": 352,
           "imageHeight": 503
-        }
-      },
-      {
-        "book": {
-          "title": "僕の愛した艦娘 1",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/27/078/0427000078/04270000784.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/27/078/0427000078/04270000785.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1050553906",
-          "caption": "50on! / WAON/越前",
-          "imageWidth": 1426,
-          "imageHeight": 2016
-        }
-      },
-      {
-        "book": {
-          "title": "僕の愛した艦娘2",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/11/145/0411000145/04110001450.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/11/145/0411000145/04110001451.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1040158235",
-          "caption": "50on! / WAON/越前",
-          "imageWidth": 2078,
-          "imageHeight": 2978
-        }
-      },
-      {
-        "book": {
-          "title": "催眠性指導総集編１",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-7p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-8p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-9p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030796057/",
-          "caption": "50on! / 愛上陸",
-          "imageWidth": 800,
-          "imageHeight": 1136
-        }
-      },
-      {
-        "book": {
-          "title": "催眠性指導　小幡夏美の場合",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-6p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030801982/",
-          "caption": "50on! / 愛上陸",
-          "imageWidth": 800,
-          "imageHeight": 1083
         }
       },
       {
@@ -811,161 +199,6 @@
           "caption": "てろめあな / ぐすたふ",
           "imageWidth": 800,
           "imageHeight": 1134
-        }
-      },
-      {
-        "book": {
-          "title": "水着の下の誘惑 おかわり?",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/01/988/0401162988/04011629880.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/01/988/0401162988/04011629881.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1124115069",
-          "caption": "てろめあな / ぐすたふ",
-          "imageWidth": 1069,
-          "imageHeight": 1508
-        }
-      },
-      {
-        "book": {
-          "title": "真冬の夜の総集編３",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-7p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-8p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030802430/",
-          "caption": "サイクロン / 令泉",
-          "imageWidth": 800,
-          "imageHeight": 1119
-        }
-      },
-      {
-        "book": {
-          "title": "あなたの願いが叶いますように。",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-5p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030802175/",
-          "caption": "mon-petit / もんぷち",
-          "imageWidth": 800,
-          "imageHeight": 1130
-        }
-      },
-      {
-        "book": {
-          "title": "RAIN -告白してきたのは妹だった-",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-7p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030800240/",
-          "caption": "JACK-POT / じゅら",
-          "imageWidth": 650,
-          "imageHeight": 921
-        }
-      },
-      {
-        "book": {
-          "title": "Lust Kiss",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-7p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-8p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030798283/",
-          "caption": "Vパン'sエクスタシー / 左藤空気",
-          "imageWidth": 715,
-          "imageHeight": 1000
-        }
-      },
-      {
-        "book": {
-          "title": "Betrayed Blue",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/23/951/0423010951/04230109510.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/23/951/0423010951/04230109513.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1104243035",
-          "caption": "Vパン'sエクスタシー / 佐藤空気",
-          "imageWidth": 698,
-          "imageHeight": 994
-        }
-      },
-      {
-        "book": {
-          "title": "ネトシス～春野香澄～",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/30/199/0430070199/04300701990.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/30/199/0430070199/04300701992.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1118569854",
-          "caption": "Vパン'sエクスタシー / 佐藤空気",
-          "imageWidth": 2054,
-          "imageHeight": 2963
-        }
-      },
-      {
-        "book": {
-          "title": "ネトカノ-涼森瑞希-",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/30/809/0430051809/04300518094.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/30/809/0430051809/04300518095.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1096486299",
-          "caption": "Vパン'sエクスタシー / 佐藤空気",
-          "imageWidth": 1031,
-          "imageHeight": 1491
-        }
-      },
-      {
-        "book": {
-          "title": "ネトカノ After Party-Mizuki-",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/30/950/0430065950/04300659502.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/30/950/0430065950/04300659501.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1112246550",
-          "caption": "Vパン'sエクスタシー / 佐藤空気",
-          "imageWidth": 695,
-          "imageHeight": 1000
-        }
-      },
-      {
-        "book": {
-          "title": "催眠仙人の集団セクハラ我慢修行",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-7p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030797915/",
-          "caption": "ちんちん亭 / chin",
-          "imageWidth": 800,
-          "imageHeight": 1152
         }
       },
       {
@@ -1026,21 +259,6 @@
           "caption": "フニフニラボ / たまごろー",
           "imageWidth": 800,
           "imageHeight": 1128
-        }
-      },
-      {
-        "book": {
-          "title": "三船美優は孕みたい",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/66/040030796688-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/66/040030796688-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/66/040030796688-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/66/040030796688-4p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030796688/",
-          "caption": "ゴロメンツ / ヤスイリオスケ",
-          "imageWidth": 715,
-          "imageHeight": 1000
         }
       },
       {
@@ -1248,22 +466,6 @@
           "caption": "2P-Color / 月本築希",
           "imageWidth": 800,
           "imageHeight": 1119
-        }
-      },
-      {
-        "book": {
-          "title": "媚薬妻は義父専用オナペット",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/99/040030799967-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/99/040030799967-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/99/040030799967-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/99/040030799967-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/99/040030799967-5p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030799967/",
-          "caption": "AMP / 野良黒ネロ",
-          "imageWidth": 800,
-          "imageHeight": 1131
         }
       },
       {
@@ -1659,22 +861,6 @@
       },
       {
         "book": {
-          "title": "清楚彼女、堕ちる。",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800089-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800089-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800089-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800089-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800089-5p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030800089/",
-          "caption": "もすきーと音。 / ぐれーともす",
-          "imageWidth": 800,
-          "imageHeight": 1142
-        }
-      },
-      {
-        "book": {
           "title": "良き妻",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/15/040030801533-1p.jpg",
@@ -1795,295 +981,6 @@
       },
       {
         "book": {
-          "title": "FROM FUMIKA",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765542-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765542-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765542-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765542-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765542-5p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030765542/",
-          "caption": "蕎麦部 / らっそん",
-          "imageWidth": 800,
-          "imageHeight": 1130
-        }
-      },
-      {
-        "book": {
-          "title": "摘マレタ異国ノ華",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/21/040030792145-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/21/040030792145-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/21/040030792145-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/21/040030792145-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/21/040030792145-5p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030792145/",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 800,
-          "imageHeight": 1142
-        }
-      },
-      {
-        "book": {
-          "title": "YOLO",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/720/0400173720/04001737204.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/720/0400173720/04001737205.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1038004811",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 1408,
-          "imageHeight": 2005
-        }
-      },
-      {
-        "book": {
-          "title": "ABYSS",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/944/0400141944/04001419442.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/944/0400141944/04001419446.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031201300",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 1297,
-          "imageHeight": 1820
-        }
-      },
-      {
-        "book": {
-          "title": "Looting",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/451/0400119451/04001194511.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/451/0400119451/04001194513.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1101723505",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 1075,
-          "imageHeight": 1511
-        }
-      },
-      {
-        "book": {
-          "title": "Love Pet",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/257/0400080257/04000802570.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/257/0400080257/04000802575.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1054193061",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 319,
-          "imageHeight": 450
-        }
-      },
-      {
-        "book": {
-          "title": "CONCEIVE",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/253/0400080253/04000802530.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/253/0400080253/04000802535.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1122428527",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 1068,
-          "imageHeight": 1504
-        }
-      },
-      {
-        "book": {
-          "title": "VALKYRIA",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/276/0400080276/04000802760.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/276/0400080276/04000802764.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1120141138",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 1073,
-          "imageHeight": 1515
-        }
-      },
-      {
-        "book": {
-          "title": "T@NTR",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/275/0400080275/04000802752.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/275/0400080275/04000802753.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1055683472",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 354,
-          "imageHeight": 500
-        }
-      },
-      {
-        "book": {
-          "title": "predation",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/271/0400080271/04000802710.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/271/0400080271/04000802713.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1122428631",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 1073,
-          "imageHeight": 1514
-        }
-      },
-      {
-        "book": {
-          "title": "LOVERS",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/258/0400080258/04000802588.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/258/0400080258/04000802584.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1033077525",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 1051,
-          "imageHeight": 1499
-        }
-      },
-      {
-        "book": {
-          "title": "HYPNOTISM",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/256/0400080256/04000802561.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/256/0400080256/04000802562.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026081315",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 500,
-          "imageHeight": 711
-        }
-      },
-      {
-        "book": {
-          "title": "PLEDGE",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/270/0400080270/04000802706.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/270/0400080270/04000802703.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1025068056",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 1052,
-          "imageHeight": 1495
-        }
-      },
-      {
-        "book": {
-          "title": "Phantom thief",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/287/0400292287/04002922870.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/287/0400292287/04002922871.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1058922513",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 534,
-          "imageHeight": 767
-        }
-      },
-      {
-        "book": {
-          "title": "Trigger",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/507/0400239507/04002395073.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/507/0400239507/04002395071.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1105564394",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 2027,
-          "imageHeight": 2982
-        }
-      },
-      {
-        "book": {
-          "title": "5STAR",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/04/820/0404016820/04040168202.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/04/820/0404016820/04040168201.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1118218737",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 1035,
-          "imageHeight": 1491
-        }
-      },
-      {
-        "book": {
-          "title": "AWESOME",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/481/0400351481/04003514810.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/481/0400351481/04003514811.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1080333890",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 574,
-          "imageHeight": 800
-        }
-      },
-      {
-        "book": {
-          "title": "堕落ノ華",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/30/469/0430070469/04300704690.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1119297529",
-          "caption": "だらぶち堂 / だらぶち",
-          "imageWidth": 2149,
-          "imageHeight": 3031
-        }
-      },
-      {
-        "book": {
-          "title": "女子大生高坂穂乃果のヤリサー事件簿",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-7p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030803372/",
-          "caption": "第6基地 / キチロク",
-          "imageWidth": 800,
-          "imageHeight": 1119
-        }
-      },
-      {
-        "book": {
-          "title": "元ギャルママが急にできた件。II",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/34/040030803441-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/34/040030803441-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/34/040030803441-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/34/040030803441-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/34/040030803441-5p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030803441/",
-          "caption": "ひとのふんどし / ゆきよし真水",
-          "imageWidth": 675,
-          "imageHeight": 953
-        }
-      },
-      {
-        "book": {
-          "title": "元ギャルママが急にできた件。",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/66/040030766647-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/66/040030766647-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/66/040030766647-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/66/040030766647-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/66/040030766647-5p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030766647/",
-          "caption": "ひとのふんどし / ゆきよし真水",
-          "imageWidth": 675,
-          "imageHeight": 953
-        }
-      },
-      {
-        "book": {
           "title": "隣のJKに脅されて入り浸られてます（泣",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/72/24/040030722474-1p.jpg",
@@ -2118,57 +1015,6 @@
       },
       {
         "book": {
-          "title": "etude",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802174-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802174-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802174-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802174-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802174-5p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030802174/",
-          "caption": "LAMINARIA / しおこんぶ",
-          "imageWidth": 800,
-          "imageHeight": 1120
-        }
-      },
-      {
-        "book": {
-          "title": "りあむちゃんは尊いよっ！",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-7p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030765198/",
-          "caption": "LAMINARIA / しおこんぶ",
-          "imageWidth": 800,
-          "imageHeight": 1120
-        }
-      },
-      {
-        "book": {
-          "title": "ベルカクテル",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/51/040030695155-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/51/040030695155-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/51/040030695155-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/51/040030695155-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/51/040030695155-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/51/040030695155-6p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030695155/",
-          "caption": "LAMINARIA / しおこんぶ",
-          "imageWidth": 800,
-          "imageHeight": 1120
-        }
-      },
-      {
-        "book": {
           "title": "LET",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/47/040030594776-1p.jpg",
@@ -2181,19 +1027,6 @@
           "caption": "LAMINARIA / しおこんぶ",
           "imageWidth": 800,
           "imageHeight": 1119
-        }
-      },
-      {
-        "book": {
-          "title": "maple poison",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/263/0400125263/04001252631.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/263/0400125263/04001252635.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1034416252",
-          "caption": "LAMINARIA / しおこんぶ",
-          "imageWidth": 356,
-          "imageHeight": 501
         }
       },
       {
@@ -2358,83 +1191,6 @@
       },
       {
         "book": {
-          "title": "人妻・春子の調教寝取られ性活＜完全版＞　～かつて娘を弄んだ男達が、私のカラダを狂わせる～",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-7p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-8p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-9p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030787737/",
-          "caption": "がらくた少女 / 三糸シド",
-          "imageWidth": 800,
-          "imageHeight": 1129
-        }
-      },
-      {
-        "book": {
-          "title": "彼女は超有名芸能人・・・そして僕にナイショでAV女優 サトミ・サトナ後日談1",
-          "imageURLs": [
-            "https://i.imgur.com/TdDGrCT.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/312/0400151312/04001513123.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1032959355",
-          "caption": "がらくた少女 / 三糸シド",
-          "imageWidth": 906,
-          "imageHeight": 1280
-        }
-      },
-      {
-        "book": {
-          "title": "彼女は超有名芸能人・・・そして僕にナイショでAV女優 サトミ・サトナ後日談3",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/310/0400151310/04001513103.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/310/0400151310/04001513101.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1092227603",
-          "caption": "がらくた少女 / 三糸シド",
-          "imageWidth": 707,
-          "imageHeight": 1008
-        }
-      },
-      {
-        "book": {
-          "title": "彼女は超有名芸能人・・・そして僕にナイショでAV女優 サトミ・サトナ後日談2",
-          "imageURLs": [
-            "https://i.imgur.com/QK9tew3.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/311/0400151311/04001513112.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1036450752",
-          "caption": "がらくた少女 / 三糸シド",
-          "imageWidth": 1280,
-          "imageHeight": 1817
-        }
-      },
-      {
-        "book": {
-          "title": "懲らしめ　-藤林杏の憂鬱-",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-7p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030788468/",
-          "caption": "からあげ市場 / あぶり",
-          "imageWidth": 682,
-          "imageHeight": 1000
-        }
-      },
-      {
-        "book": {
           "title": "獅子が兎に堕ちる時",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/25/040030792579-1p.jpg",
@@ -2562,32 +1318,6 @@
       },
       {
         "book": {
-          "title": "Speise",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/252/0400127252/04001272525.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/252/0400127252/04001272524.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1029229655",
-          "caption": "Flieger / 貂",
-          "imageWidth": 1039,
-          "imageHeight": 1487
-        }
-      },
-      {
-        "book": {
-          "title": "生殖者",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/07/594/0407000594/04070005944.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/07/594/0407000594/04070005943.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1038177620",
-          "caption": "Flieger / 貂",
-          "imageWidth": 1035,
-          "imageHeight": 1487
-        }
-      },
-      {
-        "book": {
           "title": "FAREWELL",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/00/258/0400127258/04001272582.jpg",
@@ -2597,45 +1327,6 @@
           "caption": "Flieger / 貂",
           "imageWidth": 1968,
           "imageHeight": 3008
-        }
-      },
-      {
-        "book": {
-          "title": "旦那はチョロイン",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/01/574/0401072574/04010725743.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/01/574/0401072574/04010725744.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1081864146",
-          "caption": "Flieger / 貂",
-          "imageWidth": 1031,
-          "imageHeight": 1502
-        }
-      },
-      {
-        "book": {
-          "title": "奥の太道",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/01/134/0401043134/04010431342.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/01/134/0401043134/04010431343.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1072113353",
-          "caption": "Flieger / オリジナル",
-          "imageWidth": 708,
-          "imageHeight": 1024
-        }
-      },
-      {
-        "book": {
-          "title": "農村だより",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/370/0400241370/04002413700.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/370/0400241370/04002413701.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1052148967",
-          "caption": "Flieger / 貂",
-          "imageWidth": 701,
-          "imageHeight": 1005
         }
       },
       {
@@ -2679,88 +1370,6 @@
       },
       {
         "book": {
-          "title": "蛙王",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/237/0400127237/04001272370.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/237/0400127237/04001272374.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/237/0400127237/04001272375.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1029229161",
-          "caption": "Flieger / 貂",
-          "imageWidth": 350,
-          "imageHeight": 493
-        }
-      },
-      {
-        "book": {
-          "title": "STOISCH",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/251/0400127251/04001272514.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/251/0400127251/04001272515.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/251/0400127251/04001272516.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031641155",
-          "caption": "Flieger / 貂",
-          "imageWidth": 1408,
-          "imageHeight": 2005
-        }
-      },
-      {
-        "book": {
-          "title": "刺 暫定版",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/248/0400127248/04001272482.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/248/0400127248/04001272483.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/248/0400127248/04001272484.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1016700437",
-          "caption": "Flieger / 貂",
-          "imageWidth": 354,
-          "imageHeight": 500
-        }
-      },
-      {
-        "book": {
-          "title": "世嗣教育(仮)",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/30/846/0430038846/04300388465.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/30/846/0430038846/04300388461.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1080327299",
-          "caption": "Flieger / 貂",
-          "imageWidth": 2087,
-          "imageHeight": 3007
-        }
-      },
-      {
-        "book": {
-          "title": "親指姫",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/23/265/0423000265/04230002650.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/23/265/0423000265/04230002652.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/23/265/0423000265/04230002654.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1067857491",
-          "caption": "Flieger / 貂",
-          "imageWidth": 2054,
-          "imageHeight": 2978
-        }
-      },
-      {
-        "book": {
-          "title": "魔術C",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/260/0400127260/04001272605.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/260/0400127260/04001272603.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1029229343",
-          "caption": "Flieger / 貂",
-          "imageWidth": 1054,
-          "imageHeight": 1508
-        }
-      },
-      {
-        "book": {
           "title": "SALOPP10",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/23/262/0423001262/04230012625.jpg",
@@ -2787,19 +1396,6 @@
       },
       {
         "book": {
-          "title": "大和撫子",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/262/0400127262/04001272625.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/262/0400127262/04001272624.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1028090842",
-          "caption": "Flieger / 貂",
-          "imageWidth": 1044,
-          "imageHeight": 1487
-        }
-      },
-      {
-        "book": {
           "title": "Haustiere",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/00/257/0400127257/04001272571.jpg",
@@ -2809,19 +1405,6 @@
           "caption": "Flieger / 貂",
           "imageWidth": 667,
           "imageHeight": 1024
-        }
-      },
-      {
-        "book": {
-          "title": "DARKSEDUCER PREV",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/266/0400127266/04001272663.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/266/0400127266/04001272664.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1030645576",
-          "caption": "Flieger / 貂",
-          "imageWidth": 354,
-          "imageHeight": 500
         }
       },
       {
@@ -2861,19 +1444,6 @@
           "caption": "Flieger / 貂",
           "imageWidth": 1031,
           "imageHeight": 1499
-        }
-      },
-      {
-        "book": {
-          "title": "苦痛の典礼",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/01/135/0401043135/04010431351.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/01/135/0401043135/04010431355.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1078819351",
-          "caption": "Flieger / 貂",
-          "imageWidth": 1012,
-          "imageHeight": 1490
         }
       },
       {
@@ -3022,52 +1592,6 @@
       },
       {
         "book": {
-          "title": "僕の彼女とセックスしてください",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765534-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765534-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765534-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765534-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765534-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765534-6p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030765534/",
-          "caption": "ハチミン / えいとまん",
-          "imageWidth": 800,
-          "imageHeight": 1119
-        }
-      },
-      {
-        "book": {
-          "title": "レンタルラヴァーズ",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/27/040030692717-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/27/040030692717-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/27/040030692717-3p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030692717/",
-          "caption": "ハチミン / えいとまん",
-          "imageWidth": 572,
-          "imageHeight": 815
-        }
-      },
-      {
-        "book": {
-          "title": "カゾク狂ミ",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/83/040030798358-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/83/040030798358-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/83/040030798358-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/83/040030798358-4p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030798358/",
-          "caption": "ハチミン / えいとまん",
-          "imageWidth": 800,
-          "imageHeight": 1122
-        }
-      },
-      {
-        "book": {
           "title": "君のものになる前に",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/27/377/0427003377/04270033770.jpg",
@@ -3161,19 +1685,6 @@
       },
       {
         "book": {
-          "title": "純愛NTR～ログインサボったら嫁が雌犬調教されてた～",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/30/196/0430070196/04300701962.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/30/196/0430070196/04300701961.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/DetailPage/item?itemCode=1118318018",
-          "caption": "マッパなまった / マッパニナッタ",
-          "imageWidth": 1044,
-          "imageHeight": 1487
-        }
-      },
-      {
-        "book": {
           "title": "鷺沢文香のあやまち",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/23/086/0423014086/04230140860.jpg",
@@ -3183,19 +1694,6 @@
           "caption": "Re:Cre@tors / 柊はじめ",
           "imageWidth": 713,
           "imageHeight": 1002
-        }
-      },
-      {
-        "book": {
-          "title": "Night Blooming",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/07/840/0407010840/04070108400.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/07/840/0407010840/04070108401.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1120385889",
-          "caption": "SMUGGLER / カズヲダイスケ",
-          "imageWidth": 710,
-          "imageHeight": 1012
         }
       },
       {
@@ -3321,19 +1819,6 @@
           "caption": "Cior / KEN１",
           "imageWidth": 356,
           "imageHeight": 502
-        }
-      },
-      {
-        "book": {
-          "title": "ミミ＄ショック",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/23/093/0423015093/04230150930.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/23/093/0423015093/04230150932.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1124403890",
-          "caption": "Many B / 押梅にょら",
-          "imageWidth": 692,
-          "imageHeight": 994
         }
       },
       {
@@ -3499,19 +1984,6 @@
       },
       {
         "book": {
-          "title": "心の怪盗ノ女性事情",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/935/0400293935/04002939350.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/935/0400293935/04002939351.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1057001516",
-          "caption": "MTSP / Jin",
-          "imageWidth": 300,
-          "imageHeight": 424
-        }
-      },
-      {
-        "book": {
           "title": "一夜限りのアヤマチ",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/92/040030809261-1p.jpg",
@@ -3550,32 +2022,6 @@
           "caption": "灯色の研究室 (作品数:5) / 灯問",
           "imageWidth": 352,
           "imageHeight": 500
-        }
-      },
-      {
-        "book": {
-          "title": "異類婚姻譚 若鮎",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/30/848/0430074848/04300748481.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/30/848/0430074848/04300748482.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1128920792",
-          "caption": "コドモビール / ユキバスターZ",
-          "imageWidth": 1022,
-          "imageHeight": 1461
-        }
-      },
-      {
-        "book": {
-          "title": "JUNE BRIDE マタニティフォトブック",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/01/451/0401103451/04011034510.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/01/451/0401103451/04011034511.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1103716392",
-          "caption": "コドモビール / ユキバスターZ",
-          "imageWidth": 1600,
-          "imageHeight": 2273
         }
       },
       {
@@ -3995,19 +2441,6 @@
       },
       {
         "book": {
-          "title": "男を知った戦車娘総集編",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/30/524/0430051524/04300515240.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/30/524/0430051524/04300515242.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1097751589",
-          "caption": "ごむはち / ゴム",
-          "imageWidth": 562,
-          "imageHeight": 800
-        }
-      },
-      {
-        "book": {
           "title": "男を知った戦車娘二",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/00/085/0400292085/04002920850.jpg",
@@ -4129,25 +2562,6 @@
       },
       {
         "book": {
-          "title": "倉敷先生は発情期　総集編Final",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-7p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-8p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030591809/",
-          "caption": "ごしっぷごしっく / ししじ",
-          "imageWidth": 700,
-          "imageHeight": 990
-        }
-      },
-      {
-        "book": {
           "title": "冴子姐さんが大学の同級生に悪戯され弄ばれる本",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/00/289/0400239289/04002392893.jpg",
@@ -4232,32 +2646,6 @@
           "caption": "聖性屋 / 聖シロー",
           "imageWidth": 700,
           "imageHeight": 989
-        }
-      },
-      {
-        "book": {
-          "title": "タチアイ",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/30/060/0430071060/04300710600.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/30/060/0430071060/04300710601.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1127279581",
-          "caption": "Salt180 / シオロク",
-          "imageWidth": 1042,
-          "imageHeight": 1487
-        }
-      },
-      {
-        "book": {
-          "title": "タチアイ2",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/11/900/0411003900/04110039001.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/11/900/0411003900/04110039004.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1128417328",
-          "caption": "Salt180 / シオロク",
-          "imageWidth": 698,
-          "imageHeight": 997
         }
       },
       {
@@ -4418,146 +2806,6 @@
           "caption": "とんぷぅら亭 / サエモン",
           "imageWidth": 800,
           "imageHeight": 1129
-        }
-      },
-      {
-        "book": {
-          "title": "睡華",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-7p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-8p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-9p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030697037/",
-          "caption": "Pale Scarlet / 松河",
-          "imageWidth": 800,
-          "imageHeight": 1121
-        }
-      },
-      {
-        "book": {
-          "title": "睡華弐",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/47/040030764727-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/47/040030764727-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/47/040030764727-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/47/040030764727-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/47/040030764727-5p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030764727/",
-          "caption": "Pale Scarlet / 松河",
-          "imageWidth": 583,
-          "imageHeight": 800
-        }
-      },
-      {
-        "book": {
-          "title": "眠り姫",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/458/0400324458/04003244580.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/458/0400324458/04003244581.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1088736453",
-          "caption": "pale scarlet / 松河",
-          "imageWidth": 1028,
-          "imageHeight": 1478
-        }
-      },
-      {
-        "book": {
-          "title": "眠り姫 II",
-          "imageURLs": [
-            "https://i.imgur.com/pOTVeW8.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/30/570/0430051570/04300515704.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1097936189",
-          "caption": "pale scarlet / 松河",
-          "imageWidth": 1280,
-          "imageHeight": 1837
-        }
-      },
-      {
-        "book": {
-          "title": "ヒトヅマカリ ～人妻借～",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/611/0400116611/04001166111.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/611/0400116611/04001166112.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1116895194",
-          "caption": "イナフミン / イナフミン",
-          "imageWidth": 1048,
-          "imageHeight": 1459
-        }
-      },
-      {
-        "book": {
-          "title": "ヒトヅマカリ ~人妻借~",
-          "imageURLs": [
-            "https://i.imgur.com/Xrpv03c.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/610/0400116610/04001166103.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1037828206",
-          "caption": "イナフミン / イナフミン",
-          "imageWidth": 1280,
-          "imageHeight": 1827
-        }
-      },
-      {
-        "book": {
-          "title": "ヒトヅマカリ堕",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/305/0400141305/04001413051.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/305/0400141305/04001413053.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031888324",
-          "caption": "イナフミン / 矢来あきら",
-          "imageWidth": 2051,
-          "imageHeight": 2951
-        }
-      },
-      {
-        "book": {
-          "title": "魔獣帝国秘史 夫のために快楽拷問に耐える亡国の王妃",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/049/0400295049/04002950490.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/049/0400295049/04002950491.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1057126121",
-          "caption": "イナフミン / 矢来あきら",
-          "imageWidth": 2048,
-          "imageHeight": 2963
-        }
-      },
-      {
-        "book": {
-          "title": "魔獣帝国秘史 中 夫のために快楽拷問に耐える亡国の王妃",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/27/189/0427002189/04270021890.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/27/189/0427002189/04270021891.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1114717525",
-          "caption": "イナフミン / 矢来あきら",
-          "imageWidth": 696,
-          "imageHeight": 996
-        }
-      },
-      {
-        "book": {
-          "title": "魔獣帝国秘史 下 夫のために快楽拷問に耐える亡国の王妃",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/01/861/0401098861/04010988612.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/01/861/0401098861/04010988613.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1097778954",
-          "caption": "イナフミン / イナフミン",
-          "imageWidth": 1037,
-          "imageHeight": 1490
         }
       },
       {
@@ -4762,19 +3010,6 @@
       },
       {
         "book": {
-          "title": "ママンキャンノットカムバック?",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/00/177/0400325177/04003251770.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/177/0400325177/04003251771.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1079476644",
-          "caption": "ヴェロニカの歯 / の歯",
-          "imageWidth": 2048,
-          "imageHeight": 2963
-        }
-      },
-      {
-        "book": {
           "title": "もう提督の側に戻れない… 1",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/00/219/0400161219/04001612190.jpg",
@@ -4889,19 +3124,6 @@
           "caption": "エス書店 / さんい",
           "imageWidth": 2056,
           "imageHeight": 2981
-        }
-      },
-      {
-        "book": {
-          "title": "爆乳解禁!!ナマ出し向井拓海",
-          "imageURLs": [
-            "https://i.imgur.com/cU0reOm.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/00/673/0400039673/04000396734.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1010311223",
-          "caption": "沙悟荘 / 瀬浦沙悟",
-          "imageWidth": 1280,
-          "imageHeight": 1814
         }
       },
       {
@@ -5099,19 +3321,6 @@
       },
       {
         "book": {
-          "title": "失恋鹿島の夏休み",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/04/30/864/0430071864/04300718642.jpg",
-            "https://img.mandarake.co.jp/webshopimg/04/30/864/0430071864/04300718643.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1128661845",
-          "caption": "CHIBIKKO KINGDOM / けこちゃ",
-          "imageWidth": 1061,
-          "imageHeight": 1512
-        }
-      },
-      {
-        "book": {
           "title": "CHIBIKKO KINGDOM Collection.01 総集編",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/30/202/0430001202/04300012027.jpg",
@@ -5163,6 +3372,19 @@
           "caption": "MTSP / JIN",
           "imageWidth": 1280,
           "imageHeight": 1816
+        }
+      },
+      {
+        "book": {
+          "title": "心の怪盗ノ女性事情",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/935/0400293935/04002939350.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/935/0400293935/04002939351.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1057001516",
+          "caption": "MTSP / Jin",
+          "imageWidth": 300,
+          "imageHeight": 424
         }
       },
       {
@@ -5364,6 +3586,192 @@
       },
       {
         "book": {
+          "title": "親指姫",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/23/265/0423000265/04230002650.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/23/265/0423000265/04230002652.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/23/265/0423000265/04230002654.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1067857491",
+          "caption": "Flieger / 貂",
+          "imageWidth": 2054,
+          "imageHeight": 2978
+        }
+      },
+      {
+        "book": {
+          "title": "Speise",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/252/0400127252/04001272525.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/252/0400127252/04001272524.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1029229655",
+          "caption": "Flieger / 貂",
+          "imageWidth": 1039,
+          "imageHeight": 1487
+        }
+      },
+      {
+        "book": {
+          "title": "刺 暫定版",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/248/0400127248/04001272482.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/248/0400127248/04001272483.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/248/0400127248/04001272484.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1016700437",
+          "caption": "Flieger / 貂",
+          "imageWidth": 354,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "STOISCH",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/251/0400127251/04001272514.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/251/0400127251/04001272515.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/251/0400127251/04001272516.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031641155",
+          "caption": "Flieger / 貂",
+          "imageWidth": 1408,
+          "imageHeight": 2005
+        }
+      },
+      {
+        "book": {
+          "title": "奥の太道",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/134/0401043134/04010431342.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/134/0401043134/04010431343.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1072113353",
+          "caption": "Flieger / オリジナル",
+          "imageWidth": 708,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "苦痛の典礼",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/135/0401043135/04010431351.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/135/0401043135/04010431355.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1078819351",
+          "caption": "Flieger / 貂",
+          "imageWidth": 1012,
+          "imageHeight": 1490
+        }
+      },
+      {
+        "book": {
+          "title": "生殖者",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/07/594/0407000594/04070005944.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/07/594/0407000594/04070005943.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1038177620",
+          "caption": "Flieger / 貂",
+          "imageWidth": 1035,
+          "imageHeight": 1487
+        }
+      },
+      {
+        "book": {
+          "title": "農村だより",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/370/0400241370/04002413700.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/370/0400241370/04002413701.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1052148967",
+          "caption": "Flieger / 貂",
+          "imageWidth": 701,
+          "imageHeight": 1005
+        }
+      },
+      {
+        "book": {
+          "title": "世嗣教育(仮)",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/846/0430038846/04300388465.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/846/0430038846/04300388461.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1080327299",
+          "caption": "Flieger / 貂",
+          "imageWidth": 2087,
+          "imageHeight": 3007
+        }
+      },
+      {
+        "book": {
+          "title": "旦那はチョロイン",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/574/0401072574/04010725743.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/574/0401072574/04010725744.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1081864146",
+          "caption": "Flieger / 貂",
+          "imageWidth": 1031,
+          "imageHeight": 1502
+        }
+      },
+      {
+        "book": {
+          "title": "大和撫子",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/262/0400127262/04001272625.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/262/0400127262/04001272624.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1028090842",
+          "caption": "Flieger / 貂",
+          "imageWidth": 1044,
+          "imageHeight": 1487
+        }
+      },
+      {
+        "book": {
+          "title": "DARKSEDUCER PREV",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/266/0400127266/04001272663.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/266/0400127266/04001272664.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1030645576",
+          "caption": "Flieger / 貂",
+          "imageWidth": 354,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "蛙王",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/237/0400127237/04001272370.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/237/0400127237/04001272374.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/237/0400127237/04001272375.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1029229161",
+          "caption": "Flieger / 貂",
+          "imageWidth": 350,
+          "imageHeight": 493
+        }
+      },
+      {
+        "book": {
+          "title": "魔術C",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/260/0400127260/04001272605.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/260/0400127260/04001272603.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1029229343",
+          "caption": "Flieger / 貂",
+          "imageWidth": 1054,
+          "imageHeight": 1508
+        }
+      },
+      {
+        "book": {
           "title": "姫騎士テイム 1",
           "imageURLs": [
             "https://i.imgur.com/6EkDIWi.jpg",
@@ -5400,6 +3808,31 @@
           "caption": "Xration / mil",
           "imageWidth": 1280,
           "imageHeight": 1777
+        }
+      },
+      {
+        "book": {
+          "title": "モードレッドがおじさんと",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/074/0430052074/04300520740.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/074/0430052074/04300520741.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1102191180",
+          "caption": "Xration / mil",
+          "imageWidth": 2069,
+          "imageHeight": 2969
+        }
+      },
+      {
+        "book": {
+          "title": "姫騎士テイム補",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/153/0400101153/04001011530.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1108722107",
+          "caption": "Xration / mil",
+          "imageWidth": 1066,
+          "imageHeight": 1510
         }
       },
       {
@@ -5517,6 +3950,26 @@
           "caption": "Xration / mil",
           "imageWidth": 2048,
           "imageHeight": 2975
+        }
+      },
+      {
+        "book": {
+          "title": "鬼ヶ島総集編",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/69/040030796986-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030796986/",
+          "caption": "Xration / mil",
+          "imageWidth": 800,
+          "imageHeight": 1130
         }
       },
       {
@@ -6205,6 +4658,22 @@
       },
       {
         "book": {
+          "title": "あなたの願いが叶いますように。",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802175-5p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030802175/",
+          "caption": "mon-petit / もんぷち",
+          "imageWidth": 800,
+          "imageHeight": 1130
+        }
+      },
+      {
+        "book": {
           "title": "雌神楽 フェイト編 全集",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/01/398/0401101398/04011013980.jpg",
@@ -6832,6 +5301,26 @@
       },
       {
         "book": {
+          "title": "黄昏の娼エルフ5",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/53/040030795373-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030795373/",
+          "caption": "H.B.A / うさぎなごむ",
+          "imageWidth": 800,
+          "imageHeight": 1129
+        }
+      },
+      {
+        "book": {
           "title": "隷属エルフメイド",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/47/81/040030478120-1p.jpg",
@@ -6952,6 +5441,19 @@
           "caption": "H.B.A / うさぎなごむ",
           "imageWidth": 1044,
           "imageHeight": 1487
+        }
+      },
+      {
+        "book": {
+          "title": "巫女×喪失",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/990/0400172990/04001729904.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/990/0400172990/04001729905.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1036323768",
+          "caption": "abgrund / さいかわゆさ",
+          "imageWidth": 716,
+          "imageHeight": 1024
         }
       },
       {
@@ -7141,6 +5643,23 @@
       },
       {
         "book": {
+          "title": "白百合姉妹攻略",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/67/040030796774-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/67/040030796774-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/67/040030796774-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/67/040030796774-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/67/040030796774-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/67/040030796774-6p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030796774/",
+          "caption": "abgrund / さいかわゆさ",
+          "imageWidth": 800,
+          "imageHeight": 1126
+        }
+      },
+      {
+        "book": {
           "title": "ジョシアナ",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/30/335/0430051335/04300513350.jpg",
@@ -7188,6 +5707,37 @@
           "caption": "らぼまじ！ / 武田あらのぶ",
           "imageWidth": 800,
           "imageHeight": 1130
+        }
+      },
+      {
+        "book": {
+          "title": "ずっと信じてる",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/59/040030795966-7p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030795966/",
+          "caption": "ピアニッシモ / ピジャ",
+          "imageWidth": 717,
+          "imageHeight": 1012
+        }
+      },
+      {
+        "book": {
+          "title": "秘めごと小町",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/617/0430050617/04300506172.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/617/0430050617/04300506171.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1095284111",
+          "caption": "ピアニッシモ / ピジャ",
+          "imageWidth": 1039,
+          "imageHeight": 1491
         }
       },
       {
@@ -8016,6 +6566,43 @@
       },
       {
         "book": {
+          "title": "催眠性指導総集編１",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/60/040030796057-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030796057/",
+          "caption": "50on! / 愛上陸",
+          "imageWidth": 800,
+          "imageHeight": 1136
+        }
+      },
+      {
+        "book": {
+          "title": "催眠性指導　小幡夏美の場合",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/19/040030801982-6p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030801982/",
+          "caption": "50on! / 愛上陸",
+          "imageWidth": 800,
+          "imageHeight": 1083
+        }
+      },
+      {
+        "book": {
           "title": "催眠性指導 野崎悠の場合 オフセット版",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/23/115/0423013115/04230131150.jpg",
@@ -8025,6 +6612,32 @@
           "caption": "50on! / 愛上陸",
           "imageWidth": 695,
           "imageHeight": 994
+        }
+      },
+      {
+        "book": {
+          "title": "僕の愛した艦娘 1",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/27/078/0427000078/04270000784.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/27/078/0427000078/04270000785.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1050553906",
+          "caption": "50on! / WAON/越前",
+          "imageWidth": 1426,
+          "imageHeight": 2016
+        }
+      },
+      {
+        "book": {
+          "title": "僕の愛した艦娘2",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/11/145/0411000145/04110001450.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/11/145/0411000145/04110001451.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1040158235",
+          "caption": "50on! / WAON/越前",
+          "imageWidth": 2078,
+          "imageHeight": 2978
         }
       },
       {
@@ -8067,6 +6680,42 @@
           "caption": "JACK-POT / じゅら",
           "imageWidth": 1034,
           "imageHeight": 1487
+        }
+      },
+      {
+        "book": {
+          "title": "RAIN -告白してきたのは妹だった-",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/02/040030800240-7p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030800240/",
+          "caption": "JACK-POT / じゅら",
+          "imageWidth": 650,
+          "imageHeight": 921
+        }
+      },
+      {
+        "book": {
+          "title": "女子大生高坂穂乃果のヤリサー事件簿",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/33/040030803372-7p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030803372/",
+          "caption": "第6基地 / キチロク",
+          "imageWidth": 800,
+          "imageHeight": 1119
         }
       },
       {
@@ -8175,6 +6824,56 @@
       },
       {
         "book": {
+          "title": "私が万引きをした理由を聞いてください3",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/39/040030763937-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/39/040030763937-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/39/040030763937-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/39/040030763937-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/39/040030763937-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/39/040030763937-6p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030763937/",
+          "caption": "綾枷家の猫 / 綾枷ちよこ",
+          "imageWidth": 800,
+          "imageHeight": 1119
+        }
+      },
+      {
+        "book": {
+          "title": "お姉ちゃんの忘れ物を届けに来たハズなのに…",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/44/040030794459-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030794459/",
+          "caption": "綾枷家の猫 / 綾枷ちよこ",
+          "imageWidth": 800,
+          "imageHeight": 1119
+        }
+      },
+      {
+        "book": {
+          "title": "再婚相手の息子は昔、私を犯したあの子でした",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/940/0401156940/04011569402.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/940/0401156940/04011569401.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1124192562",
+          "caption": "綾枷家の猫 / 綾枷ちよこ、綾枷りべり",
+          "imageWidth": 1048,
+          "imageHeight": 1499
+        }
+      },
+      {
+        "book": {
           "title": "夜行バスで痴漢されて寝取られた妻",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/04/00/077/0400325077/04003250775.jpg",
@@ -8265,6 +6964,21 @@
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/46/040030694608-4p.jpg"
           ],
           "url": "https://ec.toranoana.jp/tora_r/ec/item/040030694608/",
+          "caption": "メタボ喫茶異臭騒ぎ / いたちょう",
+          "imageWidth": 800,
+          "imageHeight": 1120
+        }
+      },
+      {
+        "book": {
+          "title": "廊下の娘03",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/73/040030797344-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/73/040030797344-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/73/040030797344-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/73/040030797344-4p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030797344/",
           "caption": "メタボ喫茶異臭騒ぎ / いたちょう",
           "imageWidth": 800,
           "imageHeight": 1120
@@ -8387,6 +7101,45 @@
           "caption": "コドモビール / ユキバスターZ",
           "imageWidth": 1408,
           "imageHeight": 2005
+        }
+      },
+      {
+        "book": {
+          "title": "JUNE BRIDE マタニティフォトブック",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/451/0401103451/04011034510.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/451/0401103451/04011034511.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1103716392",
+          "caption": "コドモビール / ユキバスターZ",
+          "imageWidth": 1600,
+          "imageHeight": 2273
+        }
+      },
+      {
+        "book": {
+          "title": "エロギャルちゃんに搾られたい",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/029/0430005029/04300050290.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/029/0430005029/04300050291.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1047263593",
+          "caption": "コドモビール / ユキバスターZ",
+          "imageWidth": 728,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "異類婚姻譚 若鮎",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/848/0430074848/04300748481.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/848/0430074848/04300748482.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1128920792",
+          "caption": "コドモビール / ユキバスターZ",
+          "imageWidth": 1022,
+          "imageHeight": 1461
         }
       },
       {
@@ -8746,6 +7499,19 @@
       },
       {
         "book": {
+          "title": "水着の下の誘惑 おかわり?",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/988/0401162988/04011629880.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/988/0401162988/04011629881.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1124115069",
+          "caption": "てろめあな / ぐすたふ",
+          "imageWidth": 1069,
+          "imageHeight": 1508
+        }
+      },
+      {
+        "book": {
           "title": "みだれうち",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/50/040030765078-1p.jpg",
@@ -8912,6 +7678,25 @@
           "caption": "サイクロン / 和泉、冷泉",
           "imageWidth": 1280,
           "imageHeight": 1885
+        }
+      },
+      {
+        "book": {
+          "title": "真冬の夜の総集編３",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/24/040030802430-8p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030802430/",
+          "caption": "サイクロン / 令泉",
+          "imageWidth": 800,
+          "imageHeight": 1119
         }
       },
       {
@@ -9315,6 +8100,352 @@
       },
       {
         "book": {
+          "title": "月曜日のたわわ　そのIX",
+          "imageURLs": [
+            "https://i.imgur.com/SvopXTC.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800086-6p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030800086/",
+          "caption": "比村乳業 / 比村奇石",
+          "imageWidth": 1280,
+          "imageHeight": 1804
+        }
+      },
+      {
+        "book": {
+          "title": "福山さん1",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/129/0400080129/04000801294.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/129/0400080129/04000801293.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1027297413",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 692,
+          "imageHeight": 977
+        }
+      },
+      {
+        "book": {
+          "title": "福山さん2 縞",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/130/0400080130/04000801300.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/130/0400080130/04000801303.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1062630074",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 1073,
+          "imageHeight": 1504
+        }
+      },
+      {
+        "book": {
+          "title": "福山さん2 紺",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/131/0400080131/04000801310.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/131/0400080131/04000801313.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1027297374",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 1071,
+          "imageHeight": 1510
+        }
+      },
+      {
+        "book": {
+          "title": "福山さん3 大噴火",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/132/0400080132/04000801325.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/132/0400080132/04000801326.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1027482728",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 1031,
+          "imageHeight": 1487
+        }
+      },
+      {
+        "book": {
+          "title": "福山さん3 私を海に連れてって",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/133/0400080133/04000801330.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/133/0400080133/04000801334.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1062630100",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 1038,
+          "imageHeight": 1467
+        }
+      },
+      {
+        "book": {
+          "title": "福山さん4 旅情編",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/134/0400080134/04000801343.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/134/0400080134/04000801342.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1034307793",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 427,
+          "imageHeight": 598
+        }
+      },
+      {
+        "book": {
+          "title": "福山さん5",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/135/0400080135/04000801350.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/135/0400080135/04000801353.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1047161530",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 282,
+          "imageHeight": 400
+        }
+      },
+      {
+        "book": {
+          "title": "福山さん6",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/136/0400080136/04000801364.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/136/0400080136/04000801363.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026962338",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 1022,
+          "imageHeight": 1487
+        }
+      },
+      {
+        "book": {
+          "title": "福山さん7 cream on the strawberry",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/137/0400080137/04000801370.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/137/0400080137/04000801372.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1067068690",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 319,
+          "imageHeight": 450
+        }
+      },
+      {
+        "book": {
+          "title": "福山さんの中出しナース",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/143/0400080143/04000801435.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/143/0400080143/04000801434.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1029227692",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 351,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "福山さん総集編壱",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/144/0400080144/04000801448.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/144/0400080144/04000801447.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1061068670",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 692,
+          "imageHeight": 994
+        }
+      },
+      {
+        "book": {
+          "title": "むしじょ。",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/139/0400080139/04000801391.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/139/0400080139/04000801393.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1067068924",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 355,
+          "imageHeight": 502
+        }
+      },
+      {
+        "book": {
+          "title": "たったひとりの傭兵団",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/140/0400080140/04000801401.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/140/0400080140/04000801404.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031926258",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 319,
+          "imageHeight": 450
+        }
+      },
+      {
+        "book": {
+          "title": "たったひとりの傭兵団2",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/141/0400080141/04000801414.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/141/0400080141/04000801413.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1067069535",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 692,
+          "imageHeight": 994
+        }
+      },
+      {
+        "book": {
+          "title": "たったひとりの傭兵団3 エルフと奴隷オークション",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/142/0400080142/04000801427.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/142/0400080142/04000801423.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/142/0400080142/04000801425.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1067069470",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 690,
+          "imageHeight": 994
+        }
+      },
+      {
+        "book": {
+          "title": "ハイエルフ×ハイスクール",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/138/0400080138/04000801380.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/138/0400080138/04000801385.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/138/0400080138/04000801387.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1062629970",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 283,
+          "imageHeight": 400
+        }
+      },
+      {
+        "book": {
+          "title": "ハイエルフ×ハイスクール 白",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/915/0401004915/04010049150.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/915/0401004915/04010049154.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/915/0401004915/04010049155.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1062630009",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "ハイエルフ×ハイスクール 黒",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/916/0401004916/04010049161.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/916/0401004916/04010049164.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031408351",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 425,
+          "imageHeight": 600
+        }
+      },
+      {
+        "book": {
+          "title": "ハイエルフ×ハイスクール 白黒",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/556/0400173556/04001735560.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/556/0400173556/04001735565.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1037098165",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 2054,
+          "imageHeight": 2972
+        }
+      },
+      {
+        "book": {
+          "title": "ハイエルフ×ハイスクール TWINTAIL",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/446/0400179446/04001794462.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/446/0400179446/04001794461.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1038175436",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 683,
+          "imageHeight": 941
+        }
+      },
+      {
+        "book": {
+          "title": "ハイエルフ×ハイスクール襲撃編当日",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/398/0400239398/04002393983.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/398/0400239398/04002393984.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1049511176",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 1391,
+          "imageHeight": 2016
+        }
+      },
+      {
+        "book": {
+          "title": "ハイエルフ×ハイスクール ドスケベスメル",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/178/0400292178/04002921784.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/178/0400292178/04002921783.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1057527613",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 693,
+          "imageHeight": 994
+        }
+      },
+      {
+        "book": {
+          "title": "ハイエルフ×ハイスクール襲撃編前日",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/397/0400239397/04002393973.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/397/0400239397/04002393976.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1049511254",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 1391,
+          "imageHeight": 2016
+        }
+      },
+      {
+        "book": {
+          "title": "ハイエルフ×ハイスクール カミナくんの1日",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/177/0400292177/04002921770.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/177/0400292177/04002921771.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/177/0400292177/04002921773.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1057781191",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 2039,
+          "imageHeight": 2972
+        }
+      },
+      {
+        "book": {
+          "title": "長門ドロップス",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/145/0400080145/04000801454.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/145/0400080145/04000801453.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026877513",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 692,
+          "imageHeight": 994
+        }
+      },
+      {
+        "book": {
           "title": "冬虫夏草",
           "imageURLs": [
             "https://i.imgur.com/yopBZhW.jpg",
@@ -9399,6 +8530,24 @@
           "caption": "シュート・ザ・ムーン / フエタキシ",
           "imageWidth": 1062,
           "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "冬虫夏草6",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793366-7p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030793366/",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 800,
+          "imageHeight": 1130
         }
       },
       {
@@ -9492,6 +8641,25 @@
           "caption": "シュート・ザ・ムーン / フエタキシ",
           "imageWidth": 1042,
           "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "商店街の穴妻たち",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-8p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030793369/",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 800,
+          "imageHeight": 1130
         }
       },
       {
@@ -9628,6 +8796,1267 @@
           "caption": "夢茶会 / むちゃ",
           "imageWidth": 717,
           "imageHeight": 1012
+        }
+      },
+      {
+        "book": {
+          "title": "タチアイ",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/060/0430071060/04300710600.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/060/0430071060/04300710601.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1127279581",
+          "caption": "Salt180 / シオロク",
+          "imageWidth": 1042,
+          "imageHeight": 1487
+        }
+      },
+      {
+        "book": {
+          "title": "タチアイ2",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/11/900/0411003900/04110039001.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/11/900/0411003900/04110039004.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1128417328",
+          "caption": "Salt180 / シオロク",
+          "imageWidth": 698,
+          "imageHeight": 997
+        }
+      },
+      {
+        "book": {
+          "title": "媚薬妻は義父専用オナペット",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/99/040030799967-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/99/040030799967-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/99/040030799967-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/99/040030799967-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/99/040030799967-5p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030799967/",
+          "caption": "AMP / 野良黒ネロ",
+          "imageWidth": 800,
+          "imageHeight": 1131
+        }
+      },
+      {
+        "book": {
+          "title": "etude",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802174-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802174-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802174-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802174-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/21/040030802174-5p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030802174/",
+          "caption": "LAMINARIA / しおこんぶ",
+          "imageWidth": 800,
+          "imageHeight": 1120
+        }
+      },
+      {
+        "book": {
+          "title": "ベルカクテル",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/51/040030695155-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/51/040030695155-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/51/040030695155-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/51/040030695155-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/51/040030695155-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/51/040030695155-6p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030695155/",
+          "caption": "LAMINARIA / しおこんぶ",
+          "imageWidth": 800,
+          "imageHeight": 1120
+        }
+      },
+      {
+        "book": {
+          "title": "りあむちゃんは尊いよっ！",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/51/040030765198-7p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030765198/",
+          "caption": "LAMINARIA / しおこんぶ",
+          "imageWidth": 800,
+          "imageHeight": 1120
+        }
+      },
+      {
+        "book": {
+          "title": "maple poison",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/263/0400125263/04001252631.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/263/0400125263/04001252635.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1034416252",
+          "caption": "LAMINARIA / しおこんぶ",
+          "imageWidth": 356,
+          "imageHeight": 501
+        }
+      },
+      {
+        "book": {
+          "title": "純愛NTR～ログインサボったら嫁が雌犬調教されてた～",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/196/0430070196/04300701962.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/196/0430070196/04300701961.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/DetailPage/item?itemCode=1118318018",
+          "caption": "マッパなまった / マッパニナッタ",
+          "imageWidth": 1044,
+          "imageHeight": 1487
+        }
+      },
+      {
+        "book": {
+          "title": "懲らしめ　-藤林杏の憂鬱-",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/84/040030788468-7p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030788468/",
+          "caption": "からあげ市場 / あぶり",
+          "imageWidth": 682,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "元ギャルママが急にできた件。",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/66/040030766647-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/66/040030766647-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/66/040030766647-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/66/040030766647-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/66/040030766647-5p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030766647/",
+          "caption": "ひとのふんどし / ゆきよし真水",
+          "imageWidth": 675,
+          "imageHeight": 953
+        }
+      },
+      {
+        "book": {
+          "title": "元ギャルママが急にできた件。II",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/34/040030803441-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/34/040030803441-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/34/040030803441-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/34/040030803441-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/34/040030803441-5p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030803441/",
+          "caption": "ひとのふんどし / ゆきよし真水",
+          "imageWidth": 675,
+          "imageHeight": 953
+        }
+      },
+      {
+        "book": {
+          "title": "男を知った戦車娘総集編",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/524/0430051524/04300515240.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/524/0430051524/04300515242.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1097751589",
+          "caption": "ごむはち / ゴム",
+          "imageWidth": 562,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "彼女は超有名芸能人・・・そして僕にナイショでAV女優 サトミ・サトナ後日談1",
+          "imageURLs": [
+            "https://i.imgur.com/TdDGrCT.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/312/0400151312/04001513123.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1032959355",
+          "caption": "がらくた少女 / 三糸シド",
+          "imageWidth": 906,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "彼女は超有名芸能人・・・そして僕にナイショでAV女優 サトミ・サトナ後日談2",
+          "imageURLs": [
+            "https://i.imgur.com/QK9tew3.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/311/0400151311/04001513112.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1036450752",
+          "caption": "がらくた少女 / 三糸シド",
+          "imageWidth": 1280,
+          "imageHeight": 1817
+        }
+      },
+      {
+        "book": {
+          "title": "彼女は超有名芸能人・・・そして僕にナイショでAV女優 サトミ・サトナ後日談3",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/310/0400151310/04001513103.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/310/0400151310/04001513101.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1092227603",
+          "caption": "がらくた少女 / 三糸シド",
+          "imageWidth": 707,
+          "imageHeight": 1008
+        }
+      },
+      {
+        "book": {
+          "title": "人妻・春子の調教寝取られ性活＜完全版＞　～かつて娘を弄んだ男達が、私のカラダを狂わせる～",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/78/77/040030787737-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030787737/",
+          "caption": "がらくた少女 / 三糸シド",
+          "imageWidth": 800,
+          "imageHeight": 1129
+        }
+      },
+      {
+        "book": {
+          "title": "Night Blooming",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/07/840/0407010840/04070108400.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/07/840/0407010840/04070108401.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1120385889",
+          "caption": "SMUGGLER / カズヲダイスケ",
+          "imageWidth": 710,
+          "imageHeight": 1012
+        }
+      },
+      {
+        "book": {
+          "title": "レンタルラヴァーズ",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/27/040030692717-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/27/040030692717-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/27/040030692717-3p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030692717/",
+          "caption": "ハチミン / えいとまん",
+          "imageWidth": 572,
+          "imageHeight": 815
+        }
+      },
+      {
+        "book": {
+          "title": "僕の彼女とセックスしてください",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765534-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765534-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765534-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765534-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765534-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765534-6p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030765534/",
+          "caption": "ハチミン / えいとまん",
+          "imageWidth": 800,
+          "imageHeight": 1119
+        }
+      },
+      {
+        "book": {
+          "title": "カゾク狂ミ",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/83/040030798358-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/83/040030798358-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/83/040030798358-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/83/040030798358-4p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030798358/",
+          "caption": "ハチミン / えいとまん",
+          "imageWidth": 800,
+          "imageHeight": 1122
+        }
+      },
+      {
+        "book": {
+          "title": "催眠仙人の集団セクハラ我慢修行",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/79/040030797915-7p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030797915/",
+          "caption": "ちんちん亭 / chin",
+          "imageWidth": 800,
+          "imageHeight": 1152
+        }
+      },
+      {
+        "book": {
+          "title": "三船美優は孕みたい",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/66/040030796688-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/66/040030796688-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/66/040030796688-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/66/040030796688-4p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030796688/",
+          "caption": "ゴロメンツ / ヤスイリオスケ",
+          "imageWidth": 715,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "倉敷先生は発情期　総集編Final",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/59/18/040030591809-8p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030591809/",
+          "caption": "ごしっぷごしっく / ししじ",
+          "imageWidth": 700,
+          "imageHeight": 990
+        }
+      },
+      {
+        "book": {
+          "title": "ママンキャンノットカムバック?",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/177/0400325177/04003251770.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/177/0400325177/04003251771.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1079476644",
+          "caption": "ヴェロニカの歯 / の歯",
+          "imageWidth": 2048,
+          "imageHeight": 2963
+        }
+      },
+      {
+        "book": {
+          "title": "睡華",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/69/70/040030697037-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030697037/",
+          "caption": "Pale Scarlet / 松河",
+          "imageWidth": 800,
+          "imageHeight": 1121
+        }
+      },
+      {
+        "book": {
+          "title": "睡華 弐",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/04/906/0404021906/04040219062.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/04/906/0404021906/04040219063.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1122104892&ref=list&keyword=pale%20scarlet&lang=en",
+          "caption": "pale scarlet / 松河",
+          "imageWidth": 1037,
+          "imageHeight": 1490
+        }
+      },
+      {
+        "book": {
+          "title": "眠り姫",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/458/0400324458/04003244580.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/458/0400324458/04003244581.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1088736453",
+          "caption": "pale scarlet / 松河",
+          "imageWidth": 1028,
+          "imageHeight": 1478
+        }
+      },
+      {
+        "book": {
+          "title": "眠り姫 II",
+          "imageURLs": [
+            "https://i.imgur.com/pOTVeW8.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/570/0430051570/04300515704.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1097936189",
+          "caption": "pale scarlet / 松河",
+          "imageWidth": 1280,
+          "imageHeight": 1837
+        }
+      },
+      {
+        "book": {
+          "title": "爆乳解禁!!ナマ出し向井拓海",
+          "imageURLs": [
+            "https://i.imgur.com/cU0reOm.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/673/0400039673/04000396734.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1010311223",
+          "caption": "沙悟荘 / 瀬浦沙悟",
+          "imageWidth": 1280,
+          "imageHeight": 1814
+        }
+      },
+      {
+        "book": {
+          "title": "失恋鹿島の夏休み",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/864/0430071864/04300718642.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/864/0430071864/04300718643.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1128661845",
+          "caption": "CHIBIKKO KINGDOM / けこちゃ",
+          "imageWidth": 1061,
+          "imageHeight": 1512
+        }
+      },
+      {
+        "book": {
+          "title": "清楚彼女、堕ちる。",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800089-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800089-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800089-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800089-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/80/00/040030800089-5p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030800089/",
+          "caption": "もすきーと音。 / ぐれーともす",
+          "imageWidth": 800,
+          "imageHeight": 1142
+        }
+      },
+      {
+        "book": {
+          "title": "いつまでもあなたと。",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/968/0400294968/04002949680.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/968/0400294968/04002949681.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1108215081",
+          "caption": "あまりにセンパク! / ヨッコラ",
+          "imageWidth": 1068,
+          "imageHeight": 1530
+        }
+      },
+      {
+        "book": {
+          "title": "貴音は欲求不満",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/450/0401156450/04011564500.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/450/0401156450/04011564501.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1130245219",
+          "caption": "あまりにセンパク! / ヨッコラ",
+          "imageWidth": 600,
+          "imageHeight": 875
+        }
+      },
+      {
+        "book": {
+          "title": "貴音発情中",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/23/979/0423010979/04230109790.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/23/979/0423010979/04230109793.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1109205018",
+          "caption": "あまりにセンパク! / ヨッコラ",
+          "imageWidth": 707,
+          "imageHeight": 1005
+        }
+      },
+      {
+        "book": {
+          "title": "大人真と水着ファッションショーする本",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/847/0430074847/04300748470.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/847/0430074847/04300748471.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1123184009",
+          "caption": "あまりにセンパク! / ヨッコラ",
+          "imageWidth": 1077,
+          "imageHeight": 1512
+        }
+      },
+      {
+        "book": {
+          "title": "子は子作りがシたい-after-",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/23/978/0423010978/04230109782.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/23/978/0423010978/04230109781.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1110907238",
+          "caption": "あまりにセンパク! / ヨッコラ",
+          "imageWidth": 727,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "アイドルマスター 律子は子作りがシたい",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/04/538/0404013538/04040135380.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/04/538/0404013538/04040135381.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1095128865",
+          "caption": "あまりにセンパク! / ヨッコラ",
+          "imageWidth": 550,
+          "imageHeight": 796
+        }
+      },
+      {
+        "book": {
+          "title": "I miss you.",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/431/0400322431/04003224311.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/431/0400322431/04003224313.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1094294551",
+          "caption": "あまりにセンパク! / ヨッコラ",
+          "imageWidth": 641,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "BabyHeart",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/976/0430038976/04300389760.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/976/0430038976/04300389761.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1080233491",
+          "caption": "あまりにセンパク! / ヨッコラ",
+          "imageWidth": 2056,
+          "imageHeight": 2963
+        }
+      },
+      {
+        "book": {
+          "title": "Lust Kiss",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/82/040030798283-8p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030798283/",
+          "caption": "Vパン'sエクスタシー / 左藤空気",
+          "imageWidth": 715,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "ネトシス～春野香澄～",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/199/0430070199/04300701990.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/199/0430070199/04300701992.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1118569854",
+          "caption": "Vパン'sエクスタシー / 佐藤空気",
+          "imageWidth": 2054,
+          "imageHeight": 2963
+        }
+      },
+      {
+        "book": {
+          "title": "ネトカノ-涼森瑞希-",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/809/0430051809/04300518094.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/809/0430051809/04300518095.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1096486299",
+          "caption": "Vパン'sエクスタシー / 佐藤空気",
+          "imageWidth": 1031,
+          "imageHeight": 1491
+        }
+      },
+      {
+        "book": {
+          "title": "ネトカノ After Party-Mizuki-",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/950/0430065950/04300659502.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/950/0430065950/04300659501.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1112246550",
+          "caption": "Vパン'sエクスタシー / 佐藤空気",
+          "imageWidth": 695,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "Betrayed Blue",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/23/951/0423010951/04230109510.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/23/951/0423010951/04230109513.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1104243035",
+          "caption": "Vパン'sエクスタシー / 佐藤空気",
+          "imageWidth": 698,
+          "imageHeight": 994
+        }
+      },
+      {
+        "book": {
+          "title": "摘マレタ異国ノ華",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/21/040030792145-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/21/040030792145-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/21/040030792145-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/21/040030792145-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/21/040030792145-5p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030792145/",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 800,
+          "imageHeight": 1142
+        }
+      },
+      {
+        "book": {
+          "title": "Trigger",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/507/0400239507/04002395073.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/507/0400239507/04002395071.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1105564394",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 2027,
+          "imageHeight": 2982
+        }
+      },
+      {
+        "book": {
+          "title": "T@NTR",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/275/0400080275/04000802752.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/275/0400080275/04000802753.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1055683472",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 354,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "AWESOME",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/481/0400351481/04003514810.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/481/0400351481/04003514811.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1080333890",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 574,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "HYPNOTISM",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/256/0400080256/04000802561.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/256/0400080256/04000802562.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1026081315",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 500,
+          "imageHeight": 711
+        }
+      },
+      {
+        "book": {
+          "title": "predation",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/271/0400080271/04000802710.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/271/0400080271/04000802713.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1122428631",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 1073,
+          "imageHeight": 1514
+        }
+      },
+      {
+        "book": {
+          "title": "Looting",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/451/0400119451/04001194511.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/451/0400119451/04001194513.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1101723505",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 1075,
+          "imageHeight": 1511
+        }
+      },
+      {
+        "book": {
+          "title": "CONCEIVE",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/253/0400080253/04000802530.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/253/0400080253/04000802535.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1122428527",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 1068,
+          "imageHeight": 1504
+        }
+      },
+      {
+        "book": {
+          "title": "Love Pet",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/257/0400080257/04000802570.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/257/0400080257/04000802575.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1054193061",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 319,
+          "imageHeight": 450
+        }
+      },
+      {
+        "book": {
+          "title": "SLAVE P3:TRIO AFTER",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/273/0400080273/04000802733.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/273/0400080273/04000802736.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1032962072",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 2048,
+          "imageHeight": 2975
+        }
+      },
+      {
+        "book": {
+          "title": "Passionate",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/974/0430050974/04300509740.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/974/0430050974/04300509741.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1095412590",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 550,
+          "imageHeight": 781
+        }
+      },
+      {
+        "book": {
+          "title": "VALKYRIA",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/276/0400080276/04000802760.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/276/0400080276/04000802764.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1120141138",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 1073,
+          "imageHeight": 1515
+        }
+      },
+      {
+        "book": {
+          "title": "ABYSS",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/944/0400141944/04001419442.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/944/0400141944/04001419446.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031201300",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 1297,
+          "imageHeight": 1820
+        }
+      },
+      {
+        "book": {
+          "title": "PLEDGE",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/270/0400080270/04000802706.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/270/0400080270/04000802703.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1025068056",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 1052,
+          "imageHeight": 1495
+        }
+      },
+      {
+        "book": {
+          "title": "LOVERS",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/258/0400080258/04000802588.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/258/0400080258/04000802584.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1033077525",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 1051,
+          "imageHeight": 1499
+        }
+      },
+      {
+        "book": {
+          "title": "YOLO",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/720/0400173720/04001737204.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/720/0400173720/04001737205.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1038004811",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 1408,
+          "imageHeight": 2005
+        }
+      },
+      {
+        "book": {
+          "title": "AddOn!",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/258/0401043258/04010432580.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/258/0401043258/04010432581.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/258/0401043258/04010432583.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1078887900",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 2060,
+          "imageHeight": 2972
+        }
+      },
+      {
+        "book": {
+          "title": "Sweet Milk",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/274/0400080274/04000802743.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/274/0400080274/04000802741.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1025067848",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 701,
+          "imageHeight": 1008
+        }
+      },
+      {
+        "book": {
+          "title": "NASTY P3:TRIO AFTER",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/261/0400080261/04000802612.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/261/0400080261/04000802613.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1028090933",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 2060,
+          "imageHeight": 2978
+        }
+      },
+      {
+        "book": {
+          "title": "P3:TRIO",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/262/0400080262/04000802627.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/262/0400080262/04000802626.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1025368499",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 1414,
+          "imageHeight": 2005
+        }
+      },
+      {
+        "book": {
+          "title": "夜伽",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/975/0430050975/04300509750.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/975/0430050975/04300509751.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1101739495",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 1140,
+          "imageHeight": 1611
+        }
+      },
+      {
+        "book": {
+          "title": "5STAR",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/04/820/0404016820/04040168202.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/04/820/0404016820/04040168201.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1118218737",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 1035,
+          "imageHeight": 1491
+        }
+      },
+      {
+        "book": {
+          "title": "Phantom thief",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/287/0400292287/04002922870.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/287/0400292287/04002922871.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1058922513",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 534,
+          "imageHeight": 767
+        }
+      },
+      {
+        "book": {
+          "title": "堕落ノ華",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/469/0430070469/04300704690.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1119297529",
+          "caption": "だらぶち堂 / だらぶち",
+          "imageWidth": 2149,
+          "imageHeight": 3031
+        }
+      },
+      {
+        "book": {
+          "title": "ミミ＄ショック",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/23/093/0423015093/04230150930.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/23/093/0423015093/04230150932.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1124403890",
+          "caption": "Many B / 押梅にょら",
+          "imageWidth": 692,
+          "imageHeight": 994
+        }
+      },
+      {
+        "book": {
+          "title": "ヒトヅマカリ ～人妻借～",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/611/0400116611/04001166111.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/611/0400116611/04001166112.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1116895194",
+          "caption": "イナフミン / イナフミン",
+          "imageWidth": 1048,
+          "imageHeight": 1459
+        }
+      },
+      {
+        "book": {
+          "title": "ヒトヅマカリ ~人妻借~",
+          "imageURLs": [
+            "https://i.imgur.com/Xrpv03c.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/610/0400116610/04001166103.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1037828206",
+          "caption": "イナフミン / イナフミン",
+          "imageWidth": 1280,
+          "imageHeight": 1827
+        }
+      },
+      {
+        "book": {
+          "title": "ヒトヅマカリ堕",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/305/0400141305/04001413051.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/305/0400141305/04001413053.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1031888324",
+          "caption": "イナフミン / 矢来あきら",
+          "imageWidth": 2051,
+          "imageHeight": 2951
+        }
+      },
+      {
+        "book": {
+          "title": "魔獣帝国秘史 夫のために快楽拷問に耐える亡国の王妃",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/049/0400295049/04002950490.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/049/0400295049/04002950491.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1057126121",
+          "caption": "イナフミン / 矢来あきら",
+          "imageWidth": 2048,
+          "imageHeight": 2963
+        }
+      },
+      {
+        "book": {
+          "title": "魔獣帝国秘史 中 夫のために快楽拷問に耐える亡国の王妃",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/27/189/0427002189/04270021890.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/27/189/0427002189/04270021891.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1114717525",
+          "caption": "イナフミン / 矢来あきら",
+          "imageWidth": 696,
+          "imageHeight": 996
+        }
+      },
+      {
+        "book": {
+          "title": "魔獣帝国秘史 下 夫のために快楽拷問に耐える亡国の王妃",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/861/0401098861/04010988612.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/861/0401098861/04010988613.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1097778954",
+          "caption": "イナフミン / イナフミン",
+          "imageWidth": 1037,
+          "imageHeight": 1490
+        }
+      },
+      {
+        "book": {
+          "title": "誘因セックスレス不倫サイトを利用した人妻の末路",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/304/0400141304/04001413041.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/304/0400141304/04001413042.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1030871178",
+          "caption": "イナフミン / 矢来あきら",
+          "imageWidth": 2045,
+          "imageHeight": 2963
+        }
+      },
+      {
+        "book": {
+          "title": "誘因セックスレス2",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/842/0430001842/04300018420.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/842/0430001842/04300018421.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/842/0430001842/04300018423.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1074638694",
+          "caption": "イナフミン / 矢来あきら",
+          "imageWidth": 1004,
+          "imageHeight": 1497
+        }
+      },
+      {
+        "book": {
+          "title": "FROM FUMIKA",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765542-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765542-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765542-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765542-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/76/55/040030765542-5p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030765542/",
+          "caption": "蕎麦部 / らっそん",
+          "imageWidth": 800,
+          "imageHeight": 1130
+        }
+      },
+      {
+        "book": {
+          "title": "初恋のお姉さんに甘えたいだけの人生だった",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/238/0430066238/04300662380.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/238/0430066238/04300662381.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/238/0430066238/04300662383.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1120700112",
+          "caption": "Lv.X+ / 柚木N'",
+          "imageWidth": 714,
+          "imageHeight": 1014
+        }
+      },
+      {
+        "book": {
+          "title": "ヒトヅマ姉",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/443/0400151443/04001514433.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/443/0400151443/04001514431.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1064205947",
+          "caption": "Lv.X+ / 柚木N'",
+          "imageWidth": 1408,
+          "imageHeight": 2005
+        }
+      },
+      {
+        "book": {
+          "title": "アナザー・アナザー・ワールド",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/00/436/0400151436/04001514360.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/00/436/0400151436/04001514361.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1081981666",
+          "caption": "Lv.X+ / 柚木N'",
+          "imageWidth": 1280,
+          "imageHeight": 1813
+        }
+      },
+      {
+        "book": {
+          "title": "憧れのお姉さんが兄嫁になった",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/217/0430059217/04300592170.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/217/0430059217/04300592171.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1112228909",
+          "caption": "Lv.X+ / 柚木N'",
+          "imageWidth": 722,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "ふたご姉",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/290/0430059290/04300592900.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/290/0430059290/04300592901.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1106236468",
+          "caption": "Lv.X+ / 柚木N'",
+          "imageWidth": 1040,
+          "imageHeight": 1490
+        }
+      },
+      {
+        "book": {
+          "title": "あまとろおっぱい",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/01/132/0401061132/04010611324.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/01/132/0401061132/04010611322.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1086202688",
+          "caption": "うみのさち / 水平線",
+          "imageWidth": 701,
+          "imageHeight": 1003
+        }
+      },
+      {
+        "book": {
+          "title": "オネクシィ-おねえさんと少年を繋ぐ合同誌-",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/775/0430057775/04300577752.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/775/0430057775/04300577751.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1125317686",
+          "caption": "うみのさち / 水平線",
+          "imageWidth": 1052,
+          "imageHeight": 1499
+        }
+      },
+      {
+        "book": {
+          "title": "おっぱいの時間",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/962/0430022962/04300229620.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/962/0430022962/04300229621.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1124425457",
+          "caption": "うみのさち / 水平線",
+          "imageWidth": 724,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "パイショタみるく",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/386/0430018386/04300183860.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/386/0430018386/04300183861.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1060694426",
+          "caption": "うみのさち / 水平線",
+          "imageWidth": 713,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "源泉おっぱいかけながし",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/309/0430040309/04300403090.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/309/0430040309/04300403093.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/309/0430040309/04300403091.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1106481596",
+          "caption": "うみのさち / 水平線",
+          "imageWidth": 684,
+          "imageHeight": 991
+        }
+      },
+      {
+        "book": {
+          "title": "おね活のススメ",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/026/0430054026/04300540262.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/026/0430054026/04300540263.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1097873243",
+          "caption": "うみのさち / 水平線",
+          "imageWidth": 1045,
+          "imageHeight": 1487
+        }
+      },
+      {
+        "book": {
+          "title": "うみのさち (水平線) 貸切パイ温泉",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/30/317/0430070317/04300703170.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/30/317/0430070317/04300703171.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1123623019",
+          "caption": "うみのさち / 水平線",
+          "imageWidth": 600,
+          "imageHeight": 884
+        }
+      },
+      {
+        "book": {
+          "title": "D-SCALE",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/04/04/432/0404016432/04040164322.jpg",
+            "https://img.mandarake.co.jp/webshopimg/04/04/432/0404016432/04040164323.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1105761838",
+          "caption": "うみのさち / 水平線",
+          "imageWidth": 1028,
+          "imageHeight": 1487
         }
       }
     ]
