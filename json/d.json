@@ -3,6 +3,25 @@
     "wanted": [
       {
         "book": {
+          "title": "商店街の穴妻たち",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-8p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030793369/",
+          "caption": "シュート・ザ・ムーン / フエタキシ",
+          "imageWidth": 800,
+          "imageHeight": 1130
+        }
+      },
+      {
+        "book": {
           "title": "魔法少女20.0",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/76/040030797697-1p.jpg",
@@ -8641,25 +8660,6 @@
           "caption": "シュート・ザ・ムーン / フエタキシ",
           "imageWidth": 1042,
           "imageHeight": 1500
-        }
-      },
-      {
-        "book": {
-          "title": "商店街の穴妻たち",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-7p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/04/0030/79/33/040030793369-8p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030793369/",
-          "caption": "シュート・ザ・ムーン / フエタキシ",
-          "imageWidth": 800,
-          "imageHeight": 1130
         }
       },
       {
