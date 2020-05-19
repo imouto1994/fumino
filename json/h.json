@@ -3,6 +3,128 @@
     "wanted": [
       {
         "book": {
+          "title": "発情ラビッツ",
+          "imageURLs": [
+            "https://i.imgur.com/gotmr4r.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012099900/",
+          "caption": "ワニマガジン社 / SAVAN",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "夢現ロマンティック",
+          "imageURLs": [
+            "https://i.imgur.com/AcHfM4C.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012099898/",
+          "caption": "ワニマガジン社 / 雛原えみ",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "村又さんの秘密",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61S-k92Dc4L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4866533919/",
+          "caption": "井雲くす",
+          "imageWidth": 906,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "瑞葉におしおき!",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/928/0101423928/01014239280.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/928/0101423928/01014239281.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/928/0101423928/01014239282.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/928/0101423928/01014239283.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1129265227",
+          "caption": "メネア・ザ・ドッグ",
+          "imageWidth": 869,
+          "imageHeight": 1235
+        }
+      },
+      {
+        "book": {
+          "title": "おねーさんとイイコト",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012088806/",
+          "caption": "ワニマガジン社 / 森島コン/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "シークレット×シークレット Keep it a Secret Promise",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/09/17/200012091729-1p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012091729/",
+          "caption": "ワニマガジン社 / さんじゅうろう/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "DOLLS 純肉体関係",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/28/200012082841-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/28/200012082841-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/28/200012082841-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/28/200012082841-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/28/200012082841-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/28/200012082841-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/28/200012082841-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/28/200012082841-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/28/200012082841-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012082841/",
+          "caption": "ワニマガジン社 / えーすけ/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "ショコラ",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/97/200012089739-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/97/200012089739-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/97/200012089739-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/97/200012089739-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/97/200012089739-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/97/200012089739-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/97/200012089739-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/97/200012089739-8p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012089739/",
+          "caption": "ワニマガジン社 / Hamao/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
           "title": "初めてのヒトヅマ",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/01/01/916/0101393916/01013939160.jpg",
@@ -1161,18 +1283,6 @@
       },
       {
         "book": {
-          "title": "村又さんの秘密",
-          "imageURLs": [
-            "https://images-na.ssl-images-amazon.com/images/I/61S-k92Dc4L.jpg"
-          ],
-          "url": "https://www.amazon.co.jp/dp/4866533919/",
-          "caption": "井雲くす",
-          "imageWidth": 906,
-          "imageHeight": 1280
-        }
-      },
-      {
-        "book": {
           "title": "ネトラレタイムリープ",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/715u26uEehL.jpg"
@@ -1350,21 +1460,6 @@
           "caption": "佐藤想次",
           "imageWidth": 1070,
           "imageHeight": 1500
-        }
-      },
-      {
-        "book": {
-          "title": "瑞葉におしおき!",
-          "imageURLs": [
-            "https://img.mandarake.co.jp/webshopimg/01/01/928/0101423928/01014239280.jpg",
-            "https://img.mandarake.co.jp/webshopimg/01/01/928/0101423928/01014239281.jpg",
-            "https://img.mandarake.co.jp/webshopimg/01/01/928/0101423928/01014239282.jpg",
-            "https://img.mandarake.co.jp/webshopimg/01/01/928/0101423928/01014239283.jpg"
-          ],
-          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1129265227",
-          "caption": "メネア・ザ・ドッグ",
-          "imageWidth": 869,
-          "imageHeight": 1235
         }
       },
       {
