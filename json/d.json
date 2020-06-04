@@ -3,6 +3,26 @@
     "wanted": [
       {
         "book": {
+          "title": "Happy Wedding Remake",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/83/63/040030836387-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/83/63/040030836387-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/83/63/040030836387-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/83/63/040030836387-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/83/63/040030836387-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/83/63/040030836387-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/83/63/040030836387-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/83/63/040030836387-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/83/63/040030836387-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030836387/",
+          "caption": "ぶた小屋 / ケミガワ",
+          "imageWidth": 800,
+          "imageHeight": 1131
+        }
+      },
+      {
+        "book": {
           "title": "蚊帳の外",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/83/63/040030836353-1p.jpg",
