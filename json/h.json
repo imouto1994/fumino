@@ -3,6 +3,60 @@
     "wanted": [
       {
         "book": {
+          "title": "ジーオーティー GOTコミックス あしもと☆よいか 学園の長い午後",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/516/0101320516/01013205160.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/516/0101320516/01013205161.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/516/0101320516/01013205162.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/516/0101320516/01013205163.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1087361573",
+          "caption": "ジーオーティー / あしもと☆よいか",
+          "imageWidth": 856,
+          "imageHeight": 1235
+        }
+      },
+      {
+        "book": {
+          "title": "濡れた花のにおい",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106147-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106147-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106147-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106147-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106147-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106147-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106147-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106147-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106147-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012106147/",
+          "caption": "ワニマガジン社 / 雛咲 葉 著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "おかえり",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106145-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106145-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106145-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106145-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106145-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106145-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106145-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106145-8p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012106145/",
+          "caption": "ワニマガジン社 / 雲呑 めお 著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
           "title": "発情ラビッツ",
           "imageURLs": [
             "https://i.imgur.com/gotmr4r.jpg"
@@ -153,6 +207,227 @@
           "caption": "篠塚裕志",
           "imageWidth": 355,
           "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "みちきんぐ 性活週間",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/811/0100529811/01005298114.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/811/0100529811/01005298112.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/811/0100529811/01005298115.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/811/0100529811/01005298116.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/811/0100529811/01005298111.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/811/0100529811/01005298113.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1034689668&lang=en",
+          "caption": "ジーオーティー / みちきんぐ",
+          "imageWidth": 719,
+          "imageHeight": 1024
+        }
+      },
+      {
+        "book": {
+          "title": "Michikin grand master",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/00/067/0100601067/01006010677.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/067/0100601067/01006010679.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/067/0100601067/010060106710.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/00/067/0100601067/01006010678.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1050505663&lang=en",
+          "caption": "Wanimagazine Co., Ltd. / Mike",
+          "imageWidth": 1746,
+          "imageHeight": 2454
+        }
+      },
+      {
+        "book": {
+          "title": "Wanimagazine-sha Wanimagazine Comics Special Ougaba乃助mucosa",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/313/0101440313/01014403131.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/313/0101440313/01014403132.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/313/0101440313/01014403133.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1136119750&lang=en",
+          "caption": "Wanimagazine Co., Ltd. / Ougaba 乃助",
+          "imageWidth": 885,
+          "imageHeight": 1231
+        }
+      },
+      {
+        "book": {
+          "title": "Tiainetto unmanned Comics Ayumi Miyahara favorite daughter, and another man",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/084/0101440084/01014400840.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/084/0101440084/01014400842.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/084/0101440084/01014400843.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/084/0101440084/01014400841.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1135522738&lang=en",
+          "caption": "Tiainetto / Ayumu Miyahara",
+          "imageWidth": 873,
+          "imageHeight": 1227
+        }
+      },
+      {
+        "book": {
+          "title": "Jioti GOT Comics Airy Socks - though it was to protect the mistakes - you want to make sure that she has committed",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/218/0101434218/01014342180.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/218/0101434218/01014342182.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/218/0101434218/01014342183.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/218/0101434218/01014342181.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1132586064&lang=en",
+          "caption": "GOT / Airy Socks",
+          "imageWidth": 348,
+          "imageHeight": 488
+        }
+      },
+      {
+        "book": {
+          "title": "Jioti GOT Comics Kuroseimu premarital Netra been delivered",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/987/0101439987/01014399871.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/987/0101439987/01014399872.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/987/0101439987/01014399873.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1139781824&lang=en",
+          "caption": "GOT / Kuroseimu",
+          "imageWidth": 852,
+          "imageHeight": 1239
+        }
+      },
+      {
+        "book": {
+          "title": "Jioti GOT Comics black doo Gyarumama Everyday",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/973/0101450973/01014509730.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/973/0101450973/01014509731.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/973/0101450973/01014509732.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/973/0101450973/01014509733.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1141685856&lang=en",
+          "caption": "GOT / Black doo",
+          "imageWidth": 1793,
+          "imageHeight": 2477
+        }
+      },
+      {
+        "book": {
+          "title": "Jioti GOT Comics Reality ・ future Minoru-kun is not in the next",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/972/0101450972/01014509720.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/972/0101450972/01014509721.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/972/0101450972/01014509722.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/972/0101450972/01014509723.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1141684764&lang=en",
+          "caption": "GOT / Reality ・ Minoru",
+          "imageWidth": 1679,
+          "imageHeight": 2402
+        }
+      },
+      {
+        "book": {
+          "title": "It fell late Jioti GOT Comics Nepuka",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/988/0101439988/01014399881.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/988/0101439988/01014399882.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/988/0101439988/01014399883.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/988/0101439988/01014399884.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1136372951&lang=en",
+          "caption": "GOT / Nepuka",
+          "imageWidth": 873,
+          "imageHeight": 1231
+        }
+      },
+      {
+        "book": {
+          "title": "Jioti GOT Comics meat so queue.Old book two embedded Moreta Mesunohana",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/983/0101439983/01014399831.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/983/0101439983/01014399833.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/983/0101439983/01014399834.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/983/0101439983/01014399832.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1135541341&lang=en",
+          "caption": "GOT / Meat so queue.",
+          "imageWidth": 878,
+          "imageHeight": 1213
+        }
+      },
+      {
+        "book": {
+          "title": "Jioti GOT Comics Bunga dedication Nadeshiko",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/221/0101434221/01014342211.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/221/0101434221/01014342212.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/221/0101434221/01014342213.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1134500678&lang=en",
+          "caption": "GOT / Bunga",
+          "imageWidth": 891,
+          "imageHeight": 1231
+        }
+      },
+      {
+        "book": {
+          "title": "Jioti GOT Comics gear inner Immoral",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/214/0101434214/01014342140.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/214/0101434214/01014342145.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/214/0101434214/01014342143.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/214/0101434214/01014342142.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1132584530&lang=en",
+          "caption": "GOT / gear",
+          "imageWidth": 353,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "Jioti GOT Comics Sage ・ Joe convenience girlfriend",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/213/0101434213/01014342130.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/213/0101434213/01014342132.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/213/0101434213/01014342133.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/213/0101434213/01014342131.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1132583360&lang=en",
+          "caption": "GOT / Sage ・ Joe",
+          "imageWidth": 703,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "Jioti GOT Comics mirror she does not ask for romance",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/301/0101424301/01014243010.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/301/0101424301/01014243011.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/301/0101424301/01014243012.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/301/0101424301/01014243013.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1136378021&lang=en",
+          "caption": "GOT / mirror",
+          "imageWidth": 873,
+          "imageHeight": 1231
+        }
+      },
+      {
+        "book": {
+          "title": "To Jioti GOT Comics demon Amane Kattsue running away from home gal like crazy to put out a live medium, began living together with active",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/971/0101450971/01014509711.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1141086881&lang=en",
+          "caption": "GOT / Demon Amane Kattsue",
+          "imageWidth": 1742,
+          "imageHeight": 2459
         }
       },
       {
@@ -858,6 +1133,18 @@
       },
       {
         "book": {
+          "title": "めるてぃーりみっと",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71KdAstDBUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4823600126/",
+          "caption": "あるぷ",
+          "imageWidth": 846,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
           "title": "ナマでよかヨ",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/01/01/270/0101418270/01014182700.jpg",
@@ -1283,18 +1570,6 @@
       },
       {
         "book": {
-          "title": "ネトラレタイムリープ",
-          "imageURLs": [
-            "https://images-na.ssl-images-amazon.com/images/I/715u26uEehL.jpg"
-          ],
-          "url": "https://www.amazon.co.jp/dp/4823600134/",
-          "caption": "桃之助",
-          "imageWidth": 846,
-          "imageHeight": 1200
-        }
-      },
-      {
-        "book": {
           "title": "放課後まではガマンして",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/81cfeimLbDL.jpg",
@@ -1460,18 +1735,6 @@
           "caption": "佐藤想次",
           "imageWidth": 1070,
           "imageHeight": 1500
-        }
-      },
-      {
-        "book": {
-          "title": "めるてぃーりみっと",
-          "imageURLs": [
-            "https://images-na.ssl-images-amazon.com/images/I/71KdAstDBUL.jpg"
-          ],
-          "url": "https://www.amazon.co.jp/dp/4823600126/",
-          "caption": "あるぷ",
-          "imageWidth": 846,
-          "imageHeight": 1200
         }
       },
       {
