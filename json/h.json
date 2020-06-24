@@ -1133,6 +1133,18 @@
       },
       {
         "book": {
+          "title": "めるてぃーりみっと",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71KdAstDBUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4823600126/",
+          "caption": "あるぷ",
+          "imageWidth": 846,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
           "title": "ナマでよかヨ",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/01/01/270/0101418270/01014182700.jpg",
@@ -1558,18 +1570,6 @@
       },
       {
         "book": {
-          "title": "ネトラレタイムリープ",
-          "imageURLs": [
-            "https://images-na.ssl-images-amazon.com/images/I/715u26uEehL.jpg"
-          ],
-          "url": "https://www.amazon.co.jp/dp/4823600134/",
-          "caption": "桃之助",
-          "imageWidth": 846,
-          "imageHeight": 1200
-        }
-      },
-      {
-        "book": {
           "title": "放課後まではガマンして",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/81cfeimLbDL.jpg",
@@ -1735,18 +1735,6 @@
           "caption": "佐藤想次",
           "imageWidth": 1070,
           "imageHeight": 1500
-        }
-      },
-      {
-        "book": {
-          "title": "めるてぃーりみっと",
-          "imageURLs": [
-            "https://images-na.ssl-images-amazon.com/images/I/71KdAstDBUL.jpg"
-          ],
-          "url": "https://www.amazon.co.jp/dp/4823600126/",
-          "caption": "あるぷ",
-          "imageWidth": 846,
-          "imageHeight": 1200
         }
       },
       {
