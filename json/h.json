@@ -3,6 +3,21 @@
     "wanted": [
       {
         "book": {
+          "title": "ジーオーティー GOTコミックス あしもと☆よいか 学園の長い午後",
+          "imageURLs": [
+            "https://img.mandarake.co.jp/webshopimg/01/01/516/0101320516/01013205160.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/516/0101320516/01013205161.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/516/0101320516/01013205162.jpg",
+            "https://img.mandarake.co.jp/webshopimg/01/01/516/0101320516/01013205163.jpg"
+          ],
+          "url": "https://order.mandarake.co.jp/order/detailPage/item?itemCode=1087361573",
+          "caption": "ジーオーティー / あしもと☆よいか",
+          "imageWidth": 856,
+          "imageHeight": 1235
+        }
+      },
+      {
+        "book": {
           "title": "濡れた花のにおい",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/61/200012106147-1p.jpg",
