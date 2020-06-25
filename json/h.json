@@ -3,6 +3,18 @@
     "wanted": [
       {
         "book": {
+          "title": "シコやかなるときもハメるときも",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/68/200012106899-1p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012106899/",
+          "caption": "コアマガジン / 牡丹 もちと 著",
+          "imageWidth": 548,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
           "title": "ジーオーティー GOTコミックス あしもと☆よいか 学園の長い午後",
           "imageURLs": [
             "https://img.mandarake.co.jp/webshopimg/01/01/516/0101320516/01013205160.jpg",
