@@ -54,6 +54,18 @@
       },
       {
         "book": {
+          "title": "五等分の花嫁(14)特装版 (プレミアムKC)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71YpsdViO0L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065197228/",
+          "caption": "春場 ねぎ",
+          "imageWidth": 1000,
+          "imageHeight": 1494
+        }
+      },
+      {
+        "book": {
           "title": "五等分の花嫁 キャラクターブック 一花",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/51czOKaHDtL.jpg"
@@ -90,6 +102,31 @@
       },
       {
         "book": {
+          "title": "五等分の花嫁 キャラクターブック 四葉 (KCデラックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81QMfLrEfDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71tVqdHaqjL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065181747/",
+          "caption": "春場 ねぎ",
+          "imageWidth": 1512,
+          "imageHeight": 2256
+        }
+      },
+      {
+        "book": {
+          "title": "五等分の花嫁 キャラクターブック 五月 (KCデラックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/718t1qrNJML.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065185580/",
+          "caption": "春場 ねぎ",
+          "imageWidth": 1000,
+          "imageHeight": 1496
+        }
+      },
+      {
+        "book": {
           "title": "八雲さんは餌づけがしたい。8",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/71QxbIZuyfL.jpg"
@@ -102,7 +139,19 @@
       },
       {
         "book": {
-          "title": "ダンジョン飯 8",
+          "title": "八雲さんは餌づけがしたい｡ (9) (ヤングガンガンコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71kUgwzBGcL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4757565755/",
+          "caption": "里見U",
+          "imageWidth": 900,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "<a href=\"https://www.amazon.co.jp/dp/404736116X/\">https://www.amazon.co.jp/dp/404736116X/</a>&nbsp;8",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/81QwU0R6l3L.jpg"
           ],
@@ -114,12 +163,48 @@
       },
       {
         "book": {
-          "title": "私がモテないのはどう考えてもお前らが悪い! 16",
+          "title": "ダンジョン飯 9巻 (ハルタコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91udhsoUNBL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/404736116X/",
+          "caption": "九井 諒子",
+          "imageWidth": 1510,
+          "imageHeight": 2154
+        }
+      },
+      {
+        "book": {
+          "title": "<a href=\"https://www.amazon.co.jp/dp/4757565534/\">https://www.amazon.co.jp/dp/4757565534/</a>お前らが悪い! 16",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/71M223ATrUL.jpg"
           ],
           "url": "https://www.amazon.co.jp/dp/4757563787/",
           "caption": "谷川 ニコ",
+          "imageWidth": 900,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "私がモテないのはどう考えてもお前らが悪い! (17) (ガンガンコミックスONLINE)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71PbNYaidSL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4757565534/",
+          "caption": "谷川ニコ",
+          "imageWidth": 900,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "私がモテないのはどう考えてもお前らが悪い！特装版　(１８) (SEコミックスプレミアム)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71UsLSjCzEL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4757566662/",
+          "caption": "谷川ニコ",
           "imageWidth": 900,
           "imageHeight": 1280
         }
@@ -140,6 +225,33 @@
       },
       {
         "book": {
+          "title": "川柳少女(12) (講談社コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81rSbPFPyJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71BtBDMak4L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51dxVQrdF2L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065181712/",
+          "caption": "五十嵐 正邦",
+          "imageWidth": 1507,
+          "imageHeight": 2258
+        }
+      },
+      {
+        "book": {
+          "title": "川柳少女(13) (講談社コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71jD-bPQiAL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51iT42riWoL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065188504/",
+          "caption": "五十嵐 正邦",
+          "imageWidth": 1000,
+          "imageHeight": 1504
+        }
+      },
+      {
+        "book": {
           "title": "化物語 7",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/81ranEFlYIL.jpg",
@@ -153,6 +265,31 @@
       },
       {
         "book": {
+          "title": "化物語(8) (KCデラックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81UaogfVBdL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81pbKwEg5ZL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065181720/",
+          "caption": "西尾 維新",
+          "imageWidth": 1697,
+          "imageHeight": 2404
+        }
+      },
+      {
+        "book": {
+          "title": "化物語(9) (KCデラックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71uipjgPnEL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065188539/",
+          "caption": "西尾 維新",
+          "imageWidth": 1000,
+          "imageHeight": 1432
+        }
+      },
+      {
+        "book": {
           "title": "ギャルごはん 8",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/811HwczHXhL.jpg",
@@ -162,6 +299,31 @@
           "caption": "太陽まりい",
           "imageWidth": 1658,
           "imageHeight": 2364
+        }
+      },
+      {
+        "book": {
+          "title": "ギャルごはん 9 (ヤングアニマルコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81KgkFvCgwL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/717pRnbBjgL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4592161890/",
+          "caption": "太陽 まりい",
+          "imageWidth": 1684,
+          "imageHeight": 2418
+        }
+      },
+      {
+        "book": {
+          "title": "ギャルごはん 10 (ヤングアニマルコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81abjzpcjuL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4592161904/",
+          "caption": "太陽 まりい",
+          "imageWidth": 1761,
+          "imageHeight": 2500
         }
       },
       {
@@ -185,6 +347,18 @@
           "url": "https://www.amazon.co.jp/dp/4091294278/",
           "caption": "井上 小春",
           "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "死神坊ちゃんと黒メイド (9) (サンデーうぇぶりSSC)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61l7ZM9xUXL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4098501066/",
+          "caption": "イノウエ",
+          "imageWidth": 705,
           "imageHeight": 1000
         }
       },
@@ -214,6 +388,30 @@
       },
       {
         "book": {
+          "title": "天野めぐみはスキだらけ! (19) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71N44PrDBvL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4098500655/",
+          "caption": "ねこぐち",
+          "imageWidth": 655,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "天野めぐみはスキだらけ! (20) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71PqaYBBpLL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4098500809/",
+          "caption": "ねこぐち",
+          "imageWidth": 636,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
           "title": "保安官エヴァンスの嘘: ~DEAD OR LOVE~ 9",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/71crYLxEPmL.jpg"
@@ -231,6 +429,30 @@
             "https://images-na.ssl-images-amazon.com/images/I/61THdd1YG6L.jpg"
           ],
           "url": "https://www.amazon.co.jp/dp/4091294553/",
+          "caption": "栗山 ミヅキ",
+          "imageWidth": 636,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "保安官エヴァンスの嘘: ~DEAD OR LOVE~ (11) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71AZGPTplaL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091295622/",
+          "caption": "栗山 ミヅキ",
+          "imageWidth": 763,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "保安官エヴァンスの嘘: ~DEAD OR LOVE~ (12) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61cwNAMOnEL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4098500817/",
           "caption": "栗山 ミヅキ",
           "imageWidth": 636,
           "imageHeight": 1000
@@ -264,6 +486,20 @@
       },
       {
         "book": {
+          "title": "夫婦以上、恋人未満。 (4) (角川コミックス・エース)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71mS8IDqkTL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71qwlNSciIL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/818ZQeSAFdL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4041091012/",
+          "caption": "金丸 祐基",
+          "imageWidth": 1008,
+          "imageHeight": 1432
+        }
+      },
+      {
+        "book": {
           "title": "なんでここに先生が!? 8",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/81OnIARj08L.jpg",
@@ -291,6 +527,21 @@
           "caption": "蘇募 ロウ",
           "imageWidth": 348,
           "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "なんでここに先生が!?(10) (ヤンマガKCスペシャル)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71xEMPrexyL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51envLKiwUL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41zdkmpQAIL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51Bwu8ci6jL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065195411/",
+          "caption": "蘇募 ロウ",
+          "imageWidth": 1000,
+          "imageHeight": 1421
         }
       },
       {
@@ -356,6 +607,39 @@
       },
       {
         "book": {
+          "title": "ぼくたちは勉強ができない 16 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/712GtATJBHL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91-l5-4epXL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91eQtccIWdL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81JShgKo7nL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71IsZ2Gzm9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71zinHzrdcL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088822536/",
+          "caption": "筒井 大志",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ぼくたちは勉強ができない 17 (ジャンプコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/715oq1lA9TL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91zD6QKMmLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81c2sZ8Iq3L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71zZiKkz1KL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71M5uOKWJUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4088823354/",
+          "caption": "筒井 大志",
+          "imageWidth": 760,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
           "title": "ヒナまつり 17",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/A1nNDyDXuTL.jpg"
@@ -364,6 +648,18 @@
           "caption": "大武 政夫",
           "imageWidth": 1509,
           "imageHeight": 2152
+        }
+      },
+      {
+        "book": {
+          "title": "ヒナまつり 18 (ハルタコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81KUlU4TD-L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4047361119/",
+          "caption": "大武 政夫",
+          "imageWidth": 1000,
+          "imageHeight": 1421
         }
       },
       {
@@ -377,6 +673,18 @@
           "caption": "井上 堅二",
           "imageWidth": 1680,
           "imageHeight": 2393
+        }
+      },
+      {
+        "book": {
+          "title": "ぐらんぶる(15) (アフタヌーンKC)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/810vfzI9M5L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065194806/",
+          "caption": "井上 堅二",
+          "imageWidth": 1000,
+          "imageHeight": 1417
         }
       },
       {
@@ -405,12 +713,60 @@
       },
       {
         "book": {
+          "title": "トニカクカワイイ (9) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71gSsn4DclL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091295444/",
+          "caption": "畑 健二郎",
+          "imageWidth": 636,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "トニカクカワイイ (10) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61WOuboAavL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4091295657/",
+          "caption": "畑 健二郎",
+          "imageWidth": 636,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "トニカクカワイイ (11) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61EQYQqRwRL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4098500701/",
+          "caption": "畑 健二郎",
+          "imageWidth": 636,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
           "title": "その着せ替え人形は恋をする 4",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/61Ha-n-gZ3L.jpg"
           ],
           "url": "https://www.amazon.co.jp/dp/4757563558/",
           "caption": "福田 晋一",
+          "imageWidth": 900,
+          "imageHeight": 1280
+        }
+      },
+      {
+        "book": {
+          "title": "その着せ替え人形は恋をする (5) (ヤングガンガンコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/7174os6KHJL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4757566573/",
+          "caption": "福田晋一",
           "imageWidth": 900,
           "imageHeight": 1280
         }
@@ -434,6 +790,30 @@
             "https://images-na.ssl-images-amazon.com/images/I/61MJ9S2UC2L.jpg"
           ],
           "url": "https://www.amazon.co.jp/dp/4091294413/",
+          "caption": "オダ トモヒト",
+          "imageWidth": 637,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "古見さんは、コミュ症です。 (16) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71j0RpP+iqL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/409129555X/",
+          "caption": "オダ トモヒト",
+          "imageWidth": 637,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "古見さんは、コミュ症です。 (17) (少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61JrS7mopUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4098500728/",
           "caption": "オダ トモヒト",
           "imageWidth": 637,
           "imageHeight": 1000
@@ -479,11 +859,47 @@
       },
       {
         "book": {
+          "title": "彼女、お借りします(14) (講談社コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71k1p0k5W2L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065185564/",
+          "caption": "宮島 礼吏",
+          "imageWidth": 1000,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "彼女、お借りします(15) (講談社コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71UliJ4pKPL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065191785/",
+          "caption": "宮島 礼吏",
+          "imageWidth": 1000,
+          "imageHeight": 1518
+        }
+      },
+      {
+        "book": {
           "title": "からかい上手の高木さん 12",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/61VdIKGbizL.jpg"
           ],
           "url": "https://www.amazon.co.jp/dp/4091295266/",
+          "caption": "山本 崇一朗",
+          "imageWidth": 706,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "からかい上手の高木さん (13) (ゲッサン少年サンデーコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61fQXDKM-NL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4098500345/",
           "caption": "山本 崇一朗",
           "imageWidth": 706,
           "imageHeight": 1000
@@ -499,6 +915,572 @@
           "caption": "森 薫",
           "imageWidth": 1764,
           "imageHeight": 2508
+        }
+      },
+      {
+        "book": {
+          "title": "だんちがい (9) (4コマKINGSぱれっとコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81DReVUyLkL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81xYHjG6eML.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4758083428/",
+          "caption": "米田 和佐",
+          "imageWidth": 1748,
+          "imageHeight": 2480
+        }
+      },
+      {
+        "book": {
+          "title": "ブレイクブレイド(18) (メテオCOMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81fc7-8aMVL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4866750987/",
+          "caption": "吉永 裕之介",
+          "imageWidth": 1500,
+          "imageHeight": 2133
+        }
+      },
+      {
+        "book": {
+          "title": "可愛いだけじゃない式守さん(1) (KCデラックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81-ClpDQB-L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/718ua9PmluL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065162238/",
+          "caption": "真木 蛍五",
+          "imageWidth": 1697,
+          "imageHeight": 2388
+        }
+      },
+      {
+        "book": {
+          "title": "可愛いだけじゃない式守さん(2) (KCデラックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81mzhhZdpmL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71oOMZ0pWqL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065168910/",
+          "caption": "真木 蛍五",
+          "imageWidth": 1644,
+          "imageHeight": 2359
+        }
+      },
+      {
+        "book": {
+          "title": "可愛いだけじゃない式守さん(3) (KCデラックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81NpJsLf3ML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71PbU1+oRlL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065183391/",
+          "caption": "真木 蛍五",
+          "imageWidth": 1684,
+          "imageHeight": 2398
+        }
+      },
+      {
+        "book": {
+          "title": "可愛いだけじゃない式守さん(4) (KCデラックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71cXRsV50pL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/406518777X/",
+          "caption": "真木 蛍五",
+          "imageWidth": 1000,
+          "imageHeight": 1431
+        }
+      },
+      {
+        "book": {
+          "title": "可愛いだけじゃない式守さん(5) (KCデラックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71dKABWjc2L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065197406/",
+          "caption": "真木 蛍五",
+          "imageWidth": 1000,
+          "imageHeight": 1421
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE 1 (アース・スター コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71EJsxktDiL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4803005958/",
+          "caption": "夜宵草",
+          "imageWidth": 760,
+          "imageHeight": 1068
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE 2 (アース・スター コミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81N9Ill3qUL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4803006199/",
+          "caption": "夜宵草",
+          "imageWidth": 1764,
+          "imageHeight": 2508
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE 3 (アーススターコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81mgglW721L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4803006903/",
+          "caption": "夜宵草",
+          "imageWidth": 1469,
+          "imageHeight": 2204
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE4 (リライフ)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71sv4tdSKBL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4803007578/",
+          "caption": "夜宵草",
+          "imageWidth": 758,
+          "imageHeight": 1072
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE5 (アース・スターコミック)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61tybbUhHgL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4803008612/",
+          "caption": "夜宵草",
+          "imageWidth": 704,
+          "imageHeight": 1000
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE6 (アース・スターコミック) (アース・スターコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61Uk+YxoPnL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4803009414/",
+          "caption": "夜宵草",
+          "imageWidth": 845,
+          "imageHeight": 1200
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE7 (アース・スターコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71GApsLd7eL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4803009961",
+          "caption": "夜宵草",
+          "imageWidth": 973,
+          "imageHeight": 1378
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE 8 (アース・スターコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81xlIiESkIL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4803011869",
+          "caption": "夜宵草",
+          "imageWidth": 1515,
+          "imageHeight": 2150
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE(9) (アース・スターコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71IJxTjWGzL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4803012180",
+          "caption": "夜宵草",
+          "imageWidth": 1008,
+          "imageHeight": 1435
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE(10) (アース・スターコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81K2ZMoTh7L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4803012474/",
+          "caption": "夜宵草",
+          "imageWidth": 1512,
+          "imageHeight": 2150
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE(11) (アース･スターコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71lwjvlFBVL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4803012695",
+          "caption": "夜宵草",
+          "imageWidth": 1513,
+          "imageHeight": 2149
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE (12) (アース・スターコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81Mqk33rxXL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4803012954",
+          "caption": "夜宵草",
+          "imageWidth": 1515,
+          "imageHeight": 2151
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE (13) (アース・スターコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81G3EVFIA5L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4803013241",
+          "caption": "夜宵草",
+          "imageWidth": 1514,
+          "imageHeight": 2151
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE (14) (アース・スターコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71vz2V4Kq-L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4803013551",
+          "caption": "夜宵草",
+          "imageWidth": 1513,
+          "imageHeight": 2150
+        }
+      },
+      {
+        "book": {
+          "title": "ReLIFE (15) (アース・スターコミックス)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71JD+FGsn9L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4803013845",
+          "caption": "夜宵草",
+          "imageWidth": 1512,
+          "imageHeight": 2152
+        }
+      },
+      {
+        "book": {
+          "title": "ラストゲーム 1 (花とゆめCOMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51TmoxDGA0L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4592193431",
+          "caption": "天乃 忍",
+          "imageWidth": 318,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "ラストゲーム 2 (花とゆめCOMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51KF3gnEHzL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/459219344X",
+          "caption": "天乃 忍",
+          "imageWidth": 318,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "ラストゲーム 3 (花とゆめCOMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51ObcEbDpqL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4592193458",
+          "caption": "天乃 忍",
+          "imageWidth": 318,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "ラストゲーム 4 (花とゆめCOMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51e65QgPdIL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4592195116",
+          "caption": "天乃忍",
+          "imageWidth": 318,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "ラストゲーム 5 (花とゆめCOMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51zr8QNduwL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4592195124",
+          "caption": "天乃忍",
+          "imageWidth": 318,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "ラストゲーム 6 (花とゆめCOMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51dpyS2HpOL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4592195132",
+          "caption": "天乃忍",
+          "imageWidth": 318,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "ラストゲーム 7 (花とゆめCOMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51mQSWdcCgL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4592195140",
+          "caption": "天乃忍",
+          "imageWidth": 318,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "ラストゲーム 8 (花とゆめCOMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51y1yJUt8YL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4592195159",
+          "caption": "天乃忍",
+          "imageWidth": 318,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "ラストゲーム 9 (花とゆめCOMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/711t5L3apHL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71G6TPRibHL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4592210581",
+          "caption": "天乃忍",
+          "imageWidth": 955,
+          "imageHeight": 1475
+        }
+      },
+      {
+        "book": {
+          "title": "ラストゲーム 10 (花とゆめCOMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71MJYcHgUfL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71EfQnYbDBL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/459221059X",
+          "caption": "天乃忍",
+          "imageWidth": 947,
+          "imageHeight": 1473
+        }
+      },
+      {
+        "book": {
+          "title": "ラストゲーム 11 (花とゆめCOMICS)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71mnEBv1HLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71sov57iU0L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4592210603",
+          "caption": "天乃忍",
+          "imageWidth": 951,
+          "imageHeight": 1469
+        }
+      },
+      {
+        "book": {
+          "title": "虚構推理(1) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71VsmbrEquL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71HaUwAGMRL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4063714918",
+          "caption": "城平 京",
+          "imageWidth": 980,
+          "imageHeight": 1450
+        }
+      },
+      {
+        "book": {
+          "title": "虚構推理(2) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81seIyHYB-L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71VLxBk07wL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4063714969",
+          "caption": "城平 京",
+          "imageWidth": 977,
+          "imageHeight": 1449
+        }
+      },
+      {
+        "book": {
+          "title": "虚構推理(3) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81GyVGK880L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71u6st3amuL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4063925188",
+          "caption": "城平 京",
+          "imageWidth": 1041,
+          "imageHeight": 1544
+        }
+      },
+      {
+        "book": {
+          "title": "虚構推理(4) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81sKKKBGpGL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/71A8MetdDqL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4063925374",
+          "caption": "城平 京",
+          "imageWidth": 979,
+          "imageHeight": 1449
+        }
+      },
+      {
+        "book": {
+          "title": "虚構推理(5) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/51V26pHiKTL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4063925595",
+          "caption": "城平 京",
+          "imageWidth": 334,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "虚構推理(6) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71T4PqwsJsL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61SyZRTYt6L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4063925900",
+          "caption": "城平 京",
+          "imageWidth": 1003,
+          "imageHeight": 1498
+        }
+      },
+      {
+        "book": {
+          "title": "虚構推理(7) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/61QAMO79lLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61iHZ4q+1kL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51qcpz6lDzL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4065105978",
+          "caption": "城平 京",
+          "imageWidth": 333,
+          "imageHeight": 500
+        }
+      },
+      {
+        "book": {
+          "title": "虚構推理(8) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81+CZYIZmNL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/718TaPFU59L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61L2wbYpTVL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51ZDoKSEHaL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4065111862",
+          "caption": "城平 京",
+          "imageWidth": 972,
+          "imageHeight": 1443
+        }
+      },
+      {
+        "book": {
+          "title": "虚構推理(9) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/71U7E7WU4AL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61w1GJ4LxEL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51gKauKMfVL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51VjeRYCq3L.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065133173",
+          "caption": "片瀬 茶柴",
+          "imageWidth": 1002,
+          "imageHeight": 1479
+        }
+      },
+      {
+        "book": {
+          "title": "虚構推理(10) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/91zKnSg3b2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81+EtacICnL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81Z7z05PSLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/419EOUQr2uL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/dp/4065151775",
+          "caption": "片瀬 茶柴",
+          "imageWidth": 1722,
+          "imageHeight": 2560
+        }
+      },
+      {
+        "book": {
+          "title": "虚構推理(11) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/81+5rqkQT3L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81aliq4LLzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51N1cjpyMDL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4065172446",
+          "caption": "城平 京",
+          "imageWidth": 1513,
+          "imageHeight": 2251
+        }
+      },
+      {
+        "book": {
+          "title": "虚構推理(12) (講談社コミックス月刊マガジン)",
+          "imageURLs": [
+            "https://images-na.ssl-images-amazon.com/images/I/717dNIyS2wL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/418zUDJsmfL.jpg"
+          ],
+          "url": "https://www.amazon.co.jp/gp/product/4065186536",
+          "caption": "城平 京",
+          "imageWidth": 1000,
+          "imageHeight": 1502
         }
       }
     ],
