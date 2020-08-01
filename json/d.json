@@ -3,6 +3,26 @@
     "wanted": [
       {
         "book": {
+          "title": "暗い家5",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/84/25/040030842540-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/84/25/040030842540-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/84/25/040030842540-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/84/25/040030842540-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/84/25/040030842540-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/84/25/040030842540-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/84/25/040030842540-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/84/25/040030842540-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/04/0030/84/25/040030842540-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/040030842540",
+          "caption": "床子屋 / 鬼頭えん",
+          "imageWidth": 800,
+          "imageHeight": 1117
+        }
+      },
+      {
+        "book": {
           "title": "Late Night Blooming",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/04/0030/83/85/040030838511-1p.jpg",
