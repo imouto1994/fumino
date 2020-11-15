@@ -3,6 +3,255 @@
     "wanted": [
       {
         "book": {
+          "title": "偏愛微熱",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/11/94/200012119431-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/11/94/200012119431-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/11/94/200012119431-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/11/94/200012119431-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/11/94/200012119431-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/11/94/200012119431-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/11/94/200012119431-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/11/94/200012119431-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/11/94/200012119431-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012119431/",
+          "caption": "文苑堂 / 櫻井マキ/著",
+          "imageWidth": 564,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "くちどけピース!",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142276-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142276-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142276-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142276-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142276-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142276-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142276-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142276-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142276-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012142276/",
+          "caption": "ワニマガジン社 / utu/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "蜜肉あばんちゅ～る",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142277-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142277-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142277-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142277-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142277-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142277-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142277-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142277-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142277-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012142277/",
+          "caption": "ワニマガジン社 / ねこまたなおみ/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "犯してあげる",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/90/200012109011-1p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012109011/",
+          "caption": "ティーアイネット / ぞんだ 著",
+          "imageWidth": 564,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "とりこじかけ",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/12/92/200012129240-1p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012129240/",
+          "caption": "ワニマガジン社 / 由浦カズヤ/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "純愛ぱらどっくす",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/12/19/200012121922-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/12/19/200012121922-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/12/19/200012121922-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/12/19/200012121922-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/12/19/200012121922-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/12/19/200012121922-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/12/19/200012121922-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/12/19/200012121922-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/12/19/200012121922-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012121922/",
+          "caption": "ワニマガジン社 / れぐでく/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "遠い君に、僕は届かない",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/12/40/200012124041-1p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012124041/",
+          "caption": "茜新社 / 二峰 跨人 著",
+          "imageWidth": 564,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "ホームステイ",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/11/94/200012119436-1p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012119436/",
+          "caption": "コアマガジン / 草津てるにょ/著",
+          "imageWidth": 565,
+          "imageHeight": 801
+        }
+      },
+      {
+        "book": {
+          "title": "本能",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0011/85/24/200011852419-1p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200011852419/",
+          "caption": "コアマガジン / えいとまん/著",
+          "imageWidth": 423,
+          "imageHeight": 600
+        }
+      },
+      {
+        "book": {
+          "title": "思春期のお勉強",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/55/200012135510-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/55/200012135510-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/55/200012135510-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/55/200012135510-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/55/200012135510-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/55/200012135510-6p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012135510/",
+          "caption": "ｸﾛｴ出版 / メガねぃ 著",
+          "imageWidth": 564,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "GLOSSY",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/00/200012140092-1p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012140092/",
+          "caption": "スコラマガジン / Cuvie 著",
+          "imageWidth": 563,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "雌吹",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/22/200012132205-1p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012132205/",
+          "caption": "コアマガジン / えいとまん/著",
+          "imageWidth": 564,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "アザトメイキング 初回限定版",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/54/200012135478-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/54/200012135478-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/54/200012135478-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/54/200012135478-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/54/200012135478-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/54/200012135478-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/54/200012135478-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/54/200012135478-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/13/54/200012135478-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012135478/",
+          "caption": "ワニマガジン社 / みちきんぐ/著",
+          "imageWidth": 800,
+          "imageHeight": 1121
+        }
+      },
+      {
+        "book": {
+          "title": "交わりの宿",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/46/200012144648-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/46/200012144648-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/46/200012144648-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/46/200012144648-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/46/200012144648-5p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012144648/",
+          "caption": "エンジェル出版 / ビフィダス 著",
+          "imageWidth": 564,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "園芸店の優しい恋人",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/95/200012149526-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/95/200012149526-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/95/200012149526-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/95/200012149526-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/95/200012149526-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/95/200012149526-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/95/200012149526-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/95/200012149526-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/95/200012149526-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012149526/",
+          "caption": "ワニマガジン社 / けろりん/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "初恋時間(たいむ)。",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/22/200012142274-1p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012142274/",
+          "caption": "ｼﾞｰｵｰﾃｨｰ / さいもん/著",
+          "imageWidth": 566,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
           "title": "シコやかなるときもハメるときも",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/20/0012/10/68/200012106899-1p.jpg"
