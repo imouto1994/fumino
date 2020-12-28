@@ -3,6 +3,150 @@
     "wanted": [
       {
         "book": {
+          "title": "一昼夜",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158434-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158434-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158434-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158434-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158434-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158434-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158434-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158434-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158434-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012158434/",
+          "caption": "ワニマガジン社 / 昼寝/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "蕩けるカラダは乙女色",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/56/200012155609-1p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012155609/",
+          "caption": "ｼﾞｰｵｰﾃｨｰ / 常磐緑/著 KINGPAWN/原案",
+          "imageWidth": 564,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "ぱいぱれーど",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/20/200012152089-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/20/200012152089-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/20/200012152089-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/20/200012152089-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/20/200012152089-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/20/200012152089-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/20/200012152089-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/20/200012152089-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/20/200012152089-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012152089/",
+          "caption": "ワニマガジン社 / オクモト悠太/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "DREAMにこがれて",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/98/200012159830-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/98/200012159830-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/98/200012159830-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/98/200012159830-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/98/200012159830-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/98/200012159830-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/98/200012159830-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/98/200012159830-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/98/200012159830-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012159830/",
+          "caption": "ワニマガジン社 / ヨイコノtt/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "うぇっとすぽっと",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160889-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160889-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160889-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160889-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160889-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160889-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160889-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160889-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160889-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012160889/",
+          "caption": "ワニマガジン社 / fu-ta/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "放課後ヘヴン",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160888-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160888-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160888-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160888-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160888-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160888-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160888-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160888-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/16/08/200012160888-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012160888/",
+          "caption": "ワニマガジン社 / 馬鈴薯/著",
+          "imageWidth": 571,
+          "imageHeight": 800
+        }
+      },
+      {
+        "book": {
+          "title": "千鶴ちゃん開発日記",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158433-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158433-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158433-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158433-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158433-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158433-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158433-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158433-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/15/84/200012158433-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012158433/",
+          "caption": "ワニマガジン社 / むちゃ/著",
+          "imageWidth": 800,
+          "imageHeight": 1121
+        }
+      },
+      {
+        "book": {
+          "title": "がーるずらっしゅ",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/14/18/200012141804-1p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012141804/",
+          "caption": "ｼﾞｰｵｰﾃｨｰ / 水平線/著",
+          "imageWidth": 800,
+          "imageHeight": 1113
+        }
+      },
+      {
+        "book": {
           "title": "偏愛微熱",
           "imageURLs": [
             "https://ecdnimg.toranoana.jp/ec/img/20/0012/11/94/200012119431-1p.jpg",
