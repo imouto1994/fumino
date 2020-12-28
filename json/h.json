@@ -462,30 +462,6 @@
       },
       {
         "book": {
-          "title": "発情ラビッツ",
-          "imageURLs": [
-            "https://i.imgur.com/gotmr4r.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012099900/",
-          "caption": "ワニマガジン社 / SAVAN",
-          "imageWidth": 1070,
-          "imageHeight": 1500
-        }
-      },
-      {
-        "book": {
-          "title": "夢現ロマンティック",
-          "imageURLs": [
-            "https://i.imgur.com/AcHfM4C.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012099898/",
-          "caption": "ワニマガジン社 / 雛原えみ",
-          "imageWidth": 1070,
-          "imageHeight": 1500
-        }
-      },
-      {
-        "book": {
           "title": "村又さんの秘密",
           "imageURLs": [
             "https://images-na.ssl-images-amazon.com/images/I/61S-k92Dc4L.jpg"
@@ -509,26 +485,6 @@
           "caption": "メネア・ザ・ドッグ",
           "imageWidth": 869,
           "imageHeight": 1235
-        }
-      },
-      {
-        "book": {
-          "title": "おねーさんとイイコト",
-          "imageURLs": [
-            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-1p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-2p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-3p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-4p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-5p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-6p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-7p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-8p.jpg",
-            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-9p.jpg"
-          ],
-          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012088806/",
-          "caption": "ワニマガジン社 / 森島コン/著",
-          "imageWidth": 571,
-          "imageHeight": 800
         }
       },
       {
@@ -6978,6 +6934,50 @@
           "caption": "ジーオーティー / 桃之助",
           "imageWidth": 345,
           "imageHeight": 488
+        }
+      },
+      {
+        "book": {
+          "title": "発情ラビッツ",
+          "imageURLs": [
+            "https://i.imgur.com/gotmr4r.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012099900/",
+          "caption": "ワニマガジン社 / SAVAN",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "夢現ロマンティック",
+          "imageURLs": [
+            "https://i.imgur.com/AcHfM4C.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012099898/",
+          "caption": "ワニマガジン社 / 雛原えみ",
+          "imageWidth": 1070,
+          "imageHeight": 1500
+        }
+      },
+      {
+        "book": {
+          "title": "おねーさんとイイコト",
+          "imageURLs": [
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-1p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-2p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-3p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-4p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-5p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-6p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-7p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-8p.jpg",
+            "https://ecdnimg.toranoana.jp/ec/img/20/0012/08/88/200012088806-9p.jpg"
+          ],
+          "url": "https://ec.toranoana.jp/tora_r/ec/item/200012088806/",
+          "caption": "ワニマガジン社 / 森島コン/著",
+          "imageWidth": 571,
+          "imageHeight": 800
         }
       }
     ]
