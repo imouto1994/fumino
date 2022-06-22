@@ -84,7 +84,7 @@
     "classnames": "2.2.6",
     "form-data": "3.0.0",
     "framer-motion": "1.7.0",
-    "got": "10.2.0",
+    "got": "11.8.5",
     "netlify-cms-app": "2.10.1",
     "path-to-regexp": "6.1.0",
     "react": "16.12.0",
